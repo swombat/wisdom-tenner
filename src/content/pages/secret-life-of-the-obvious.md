@@ -10,9 +10,10 @@ order: 5
 
 ##
 
-![Picture](/assets/uploads/3/4/4/7/3447575/published/lustige-naturgeschichte-oder-zoologia-comica-wiki-mozaic.png)
-
-Zoologia comica, A. Oberlander 1877 PD Wikimedia
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/published/lustige-naturgeschichte-oder-zoologia-comica-wiki-mozaic.png" alt="Picture">
+  <figcaption>Zoologia comica, A. Oberlander 1877 PD Wikimedia</figcaption>
+</figure>
 
 If that which is not there is difficult to see,  [that which is obvious, plain and evident, is at times even harder to notice](//nasredin.blogspot.com/2007/10/smuggling-common-sense.html).
 

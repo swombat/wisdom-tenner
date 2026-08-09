@@ -12,7 +12,10 @@ date: '2011-06-23'
 published: '2011-06-23'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/1949580.jpg)Let the guest ask for the salt
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/1949580.jpg" alt="Picture">
+  <figcaption>Let the guest ask for the salt</figcaption>
+</figure>
 
 Giving free counsel is worth little. Unasked advice even less.
 
@@ -30,9 +33,10 @@ To be asked, make your competence visible but do not push it. Great things are v
 
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/loading-please-wait-cc-by-sa-2-0-jan-persiel-flickr-2016-det_orig.jpg)
-
-Loading (problem before understanding advice) ... please wait CC BY-SA 2.0 Jan Persiel flickr 2016 det
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/loading-please-wait-cc-by-sa-2-0-jan-persiel-flickr-2016-det_orig.jpg" alt="Picture">
+  <figcaption>Loading (problem before understanding advice) ... please wait CC BY-SA 2.0 Jan Persiel flickr 2016 det</figcaption>
+</figure>
 
 ​As there is *[a time for everything](/blog/there-is-a-time-for-everything-but-it-does-not-wait)*, there is an occasion for giving advice and many times for keeping silent. The right time to speak *(call it Kairos or timing)* is - let me repeat - when it hurts, and the person suffers, lost or sunk, thrown in the pit, with little way out. It may be necessary to wait coldly and watch a good person going down, until they are ripe to follow counsel. Earlier, timely warning could have avoided the pain and the loss.
 

@@ -12,7 +12,10 @@ date: '2016-02-09'
 published: '2016-02-09'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/salomon-s-judgment-castelli-18th-mus-e-de-lille-pd.jpg)Salomon's Judgement Castelli\_18th c.
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/salomon-s-judgment-castelli-18th-mus-e-de-lille-pd.jpg" alt="Picture">
+  <figcaption>Salomon's Judgement Castelli_18th c.</figcaption>
+</figure>
 
 \*
 

@@ -12,7 +12,10 @@ date: '2011-08-15'
 published: '2011-08-15'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/peacock-pearson-scott-foresman-pd-wikimedia-orig-tr_orig.png)Peacock pride - Pearson Scott Foresman PD Wikimedia
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/peacock-pearson-scott-foresman-pd-wikimedia-orig-tr_orig.png" alt="Picture">
+  <figcaption>Peacock pride - Pearson Scott Foresman PD Wikimedia</figcaption>
+</figure>
 
 Don’t do the wrong thing right. “The thing well done” must be a good one.
 
@@ -42,7 +45,10 @@ We should act as persons, with our own mind and personality. Make choices! Do we
 
 ---
 
- ![Picture](/assets/uploads/3/4/4/7/3447575/frog-burst-ox-and-the-frog-artist-charles-santore-tumblr-2010-tr_orig.png)Ox & frog Source: artist Charles Santore tumblr\_2010
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/frog-burst-ox-and-the-frog-artist-charles-santore-tumblr-2010-tr_orig.png" alt="Picture">
+  <figcaption>Ox &amp; frog Source: artist Charles Santore tumblr_2010</figcaption>
+</figure>
 
 When the aims or the end-results are wrong, do not serve them truly, let them fail.
 
@@ -55,7 +61,10 @@ Except to this when, under strict control, in total lack of freedom to chose, *f
 
 ---
 
- ![Picture](/assets/uploads/3/4/4/7/3447575/dead-chicken-cc-by-nc-2-0-dr-case-2007-flickr-c_orig.jpg)Dead Chicken (This is how the peacock ends) CC BY-NC 2.0 Dr Case 2007 flickr
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/dead-chicken-cc-by-nc-2-0-dr-case-2007-flickr-c_orig.jpg" alt="Picture">
+  <figcaption>Dead Chicken (This is how the peacock ends) CC BY-NC 2.0 Dr Case 2007 flickr</figcaption>
+</figure>
 
 ​\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

@@ -12,7 +12,10 @@ date: '2012-10-06'
 published: '2012-10-06'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/4709723.jpg)My God, where are my glasses?
+<figure>
+<img src="/assets/uploads/3/4/4/7/3447575/4709723.jpg" alt="Picture">
+<figcaption>My God, where are my glasses?</figcaption>
+</figure>
 
 Well, if [that which is not there is difficult to see,](/blog/the-importance-of-that-which-is-not-there/)  that which is [obvious, plain and evident, is at times even harder to notice](http://nasredin.blogspot.com/2007/10/smuggling-common-sense.html).
 

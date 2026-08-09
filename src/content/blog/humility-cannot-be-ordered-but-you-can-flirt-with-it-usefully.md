@@ -12,7 +12,10 @@ date: '2011-05-23'
 published: '2011-05-23'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/7311771.jpg)Socrates: I know that I know nothing
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/7311771.jpg" alt="Picture">
+  <figcaption>Socrates: I know that I know nothing</figcaption>
+</figure>
 
 Morally speaking, you are humble or you are not. Normal people are not humble. We are infected with vanity, small or big. Call it dignity, ambition, honour, self-worth or other names much less honourable, the flaw of pride is a prime mover for us.
 

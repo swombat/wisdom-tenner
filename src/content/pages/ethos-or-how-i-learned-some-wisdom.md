@@ -10,9 +10,10 @@ order: 13
 
 ## Ethos or How I Learned Some Wisdom 3 February 2012
 
-![Picture](/assets/uploads/3/4/4/7/3447575/3797030.jpg)
-
-I seek wisdom because being good makes me happy
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/3797030.jpg" alt="Picture">
+  <figcaption>I seek wisdom because being good makes me happy</figcaption>
+</figure>
 
 \*What is then the source of the many things I will assert so boldly in this essay? Is there something real to ground my claims? Who were my teachers of wisdom? To what wisdom did I have access? Who is speaking here? How did I become who I am? From what did my wisdom grow? What reality did I experience and assimilate which makes me believe that I gathered some wisdom?
 
@@ -29,9 +30,10 @@ My polymath Father, the taciturn engineer and scientist, answered those childish
 
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/published/ig-cimponeriu-la-prison-des-livres-small.jpg)
-
-Father, in his prison of books.
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/published/ig-cimponeriu-la-prison-des-livres-small.jpg" alt="Picture">
+  <figcaption>Father, in his prison of books.</figcaption>
+</figure>
 
 ​He also taught me much by negative example – he was an ivory-tower scholar and Utopian, an introvert at the limit of autism, conceptual and analytical to paralysis, hardly capable to show his feelings. He applied only fragments from the wealth he knew. I learned from his example that knowledge hoarded in silence is childless like Sleeping Beauty forever dreaming. Wisdom must go practical too! He was a bibliomaniac too; he did not drink or smoke or gamble but he bought books with *all* he earned and studied them with the seeming urge to know everything. Ah, if I could know half he knew! All his salary went up in smoke on the walls forming a fascinating, hypnotic tapestry of volumes, among which I lived my childhood. Books all around became my friends, my refuge, my shield, my castle of civilization, but in time I learned that having all the books augments your library not your mind, not yet; and certainly not your ability to get things done and to finish what you start. They are there, all around, yet not yours, *they* own you. To actually own them you must read them, understand, select and digest them. You must awaken the sleeping knowledge within them. You may even need to forget them. I learned from my Father to refrain from buying books instead of knowing where to find them and consulting them wherever they are available, in the world.
 

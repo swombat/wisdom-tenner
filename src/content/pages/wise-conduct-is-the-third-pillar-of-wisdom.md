@@ -8,7 +8,10 @@ eyebrow: Essay
 order: 18
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/6151956.jpg)Gandhi breaks the British monopoly of salt
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/6151956.jpg" alt="Picture">
+  <figcaption>Gandhi breaks the British monopoly of salt</figcaption>
+</figure>
 
 Nov. 2015 – 1 Jan 2016  July 2018
 

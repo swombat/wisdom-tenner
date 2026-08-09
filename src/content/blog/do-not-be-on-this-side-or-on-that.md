@@ -12,7 +12,10 @@ date: '2011-09-14'
 published: '2011-09-14'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/7382453.gif)Vishnu’s tug of war of angels and demons
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/7382453.gif" alt="Picture">
+  <figcaption>Vishnu’s tug of war of angels and demons</figcaption>
+</figure>
 
 Quite often, in opposing convictions and dispute, the two sides facing embrace extremes. Unique, exclusive ideas show their teeth. Absolutes and superlatives fuse inevitably: always, never, all, everything, nothing, nobody, greatest, best, worst and so on.
 

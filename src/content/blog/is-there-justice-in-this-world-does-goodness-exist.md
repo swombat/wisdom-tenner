@@ -12,7 +12,10 @@ date: '2011-01-06'
 published: '2011-01-06'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/1125923.jpg)Justice (or goodness?) Veronese
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/1125923.jpg" alt="Picture">
+  <figcaption>Justice (or goodness?) Veronese</figcaption>
+</figure>
 
 Do not be subtle about this; do not dream far away, up to the Heavens.
 

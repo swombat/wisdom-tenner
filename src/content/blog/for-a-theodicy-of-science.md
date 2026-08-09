@@ -12,7 +12,10 @@ date: '2011-11-15'
 published: '2011-11-15'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/9356701.jpg)Universum cc Heikenwaelder \*
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/9356701.jpg" alt="Picture">
+  <figcaption>Universum cc Heikenwaelder *</figcaption>
+</figure>
 
 It is high time for scientists to come forth with a theodicy of Science, the prophet of Reason.
 

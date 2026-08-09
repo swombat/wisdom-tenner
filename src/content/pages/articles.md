@@ -1,21 +1,9 @@
 ---
 title: Articles
-description: 'Archives No Archives Categories All Three kinds of criticism Here you find the complete article: Three kinds of Criticism 2011'
-layout: page.njk
+description: Longer essays about worldly wisdom, judgement, criticism, choice, surprise, paradox, meaning, and perspective.
+layout: articles.njk
 permalink: /articles.html
 source_url: http://wisdom.tenner.org/articles.html
-eyebrow: Essay
+eyebrow: Essays
 order: 14
 ---
-
-## Archives
-
-No Archives
-
-## Categories
-
-[All](http://category/all)
-
-## Three kinds of criticism
-
-Here you find the complete article:  [Three kinds of Criticism](/three-kinds-of-criticism.html) 2011

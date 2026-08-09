@@ -12,7 +12,10 @@ date: '2011-07-07'
 published: '2011-07-07'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/1786183.jpg)Leonardo's gears and people
+<figure>
+<img src="/assets/uploads/3/4/4/7/3447575/1786183.jpg" alt="Picture">
+<figcaption>Leonardo's gears and people</figcaption>
+</figure>
 
 Yes, I know, you know! We all know from kindergarten that we should listen before we talk; this is why we have two ears and only one mouth [1].
 

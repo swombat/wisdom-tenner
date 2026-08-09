@@ -12,7 +12,10 @@ date: '2011-03-30'
 published: '2011-03-30'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/published/silence-1-jpg-large-1.jpg)The Silence, by Odilon Redon
+<figure>
+<img src="/assets/uploads/3/4/4/7/3447575/published/silence-1-jpg-large-1.jpg" alt="Picture">
+<figcaption>The Silence, by Odilon Redon</figcaption>
+</figure>
 
 Ageing people ramble on the same old souvenirs, just too much. This is what you say.
 
@@ -40,6 +43,7 @@ A drop of patience, of mercy, forgiving our old folks their weaknesses, as we wi
 
 \*Today me, tomorrow it is your turn.
 
-![Picture](/assets/uploads/3/4/4/7/3447575/hodie-mihi-cras-tibi-cc-by-sa-3-0-xauxa-h-kan-svensson-2009_orig.jpg)
-
-Hodie mihi cras tibi (CC BY-SA 3.0) Xauxa Håkan Svensson 2009
+<figure>
+<img src="/assets/uploads/3/4/4/7/3447575/hodie-mihi-cras-tibi-cc-by-sa-3-0-xauxa-h-kan-svensson-2009_orig.jpg" alt="Picture">
+<figcaption>Hodie mihi cras tibi (CC BY-SA 3.0) Xauxa Håkan Svensson 2009</figcaption>
+</figure>

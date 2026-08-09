@@ -1,5 +1,5 @@
 ---
-title: _
+title: The Power to Make Things Simple
 description: The Power to Make Things simple A tip above, a world beneath Making things simple is complicated! It requires both knowing the subject and knowing how the human mind works. To s…
 layout: page.njk
 permalink: /the-power-to-make-things-simple.html
@@ -10,9 +10,10 @@ order: 11
 
 ## The Power to Make Things simple
 
-![Picture](/assets/uploads/3/4/4/7/3447575/3117880.jpg)
-
-A tip above, a world beneath
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/3117880.jpg" alt="Picture">
+  <figcaption>A tip above, a world beneath</figcaption>
+</figure>
 
 Making things simple is complicated! It requires both knowing the subject and knowing how the human mind works.
 
@@ -328,6 +329,7 @@ And the words to say it flow with ease."
 
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/there-is-no-stronger-persuasion-than-causing-people-to-understand_orig.jpg)
-
-My thanks to the one who kindly quoted me with this image ;) Ioan
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/there-is-no-stronger-persuasion-than-causing-people-to-understand_orig.jpg" alt="Picture">
+  <figcaption>My thanks to the one who kindly quoted me with this image ;) Ioan</figcaption>
+</figure>

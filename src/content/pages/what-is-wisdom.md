@@ -8,7 +8,10 @@ eyebrow: Essay
 order: 7
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/published/the-proper-study-of-mankind-is-man.jpg)"The proper study of Mankind is Man"\*
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/published/the-proper-study-of-mankind-is-man.jpg" alt="Picture">
+  <figcaption>"The proper study of Mankind is Man"*</figcaption>
+</figure>
 
 New version (3) 25-11-2014, 20-11-2017
 

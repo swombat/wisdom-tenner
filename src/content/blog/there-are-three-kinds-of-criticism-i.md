@@ -12,7 +12,10 @@ date: '2011-04-18'
 published: '2011-04-18'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/2660702.jpg)Stoning Of Saint Emerantiana
+<figure>
+<img src="/assets/uploads/3/4/4/7/3447575/2660702.jpg" alt="Picture">
+<figcaption>Stoning Of Saint Emerantiana</figcaption>
+</figure>
 
 Same as hunting, criticism feels like a noble sport or an assassination; depends on which side of the gun you are.
 

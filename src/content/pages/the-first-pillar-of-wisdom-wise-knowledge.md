@@ -8,7 +8,10 @@ eyebrow: Essay
 order: 21
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/6365358.jpg)Cup of wisdom. The Adagia of Erasmus Manuzio edition 1508
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/6365358.jpg" alt="Picture">
+  <figcaption>Cup of wisdom. The Adagia of Erasmus Manuzio edition 1508</figcaption>
+</figure>
 
 **​**The first pillar of wisdom is one's choice of "wise knowledge", of an intelligent, people-centred, *living* view of the world - of the way things are and the way they should be - in a mind who understands being a part of this world. I appreciate that there is more than one such wise knowledge, deep differences are possible.
 

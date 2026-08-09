@@ -18,11 +18,33 @@ class ReferenceParser(HTMLParser):
     def __init__(self) -> None:
         super().__init__(convert_charrefs=True)
         self.references: list[str] = []
+        self.figure_stack: list[dict[str, int]] = []
+        self.figure_issues: list[str] = []
 
-    def handle_starttag(self, _tag: str, attrs: list[tuple[str, str | None]]) -> None:
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        if tag == "figure":
+            self.figure_stack.append({"images": 0, "captions": 0})
+        elif tag == "img" and self.figure_stack:
+            self.figure_stack[-1]["images"] += 1
+        elif tag == "figcaption" and self.figure_stack:
+            self.figure_stack[-1]["captions"] += 1
+
         for name, value in attrs:
             if name in {"href", "src"} and value:
                 self.references.append(value)
+
+    def handle_endtag(self, tag: str) -> None:
+        if tag != "figure":
+            return
+        if not self.figure_stack:
+            self.figure_issues.append("closing figure without opening figure")
+            return
+        figure = self.figure_stack.pop()
+        if figure != {"images": 1, "captions": 1}:
+            self.figure_issues.append(
+                f"figure contains {figure['images']} images and "
+                f"{figure['captions']} captions"
+            )
 
 
 def target_for_url(value: str) -> Path | None:
@@ -61,6 +83,10 @@ def main() -> int:
     for html_file in html_files:
         parser = ReferenceParser()
         parser.feed(html_file.read_text(encoding="utf-8"))
+        for issue in parser.figure_issues:
+            problems.append(f"invalid figure in {html_file.relative_to(SITE)}: {issue}")
+        if parser.figure_stack:
+            problems.append(f"unclosed figure in {html_file.relative_to(SITE)}")
         for value in parser.references:
             target = target_for_url(value)
             if not target:

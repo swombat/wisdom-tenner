@@ -10,9 +10,10 @@ order: 22
 
 ## Why Wisdom, a Provisional Foreword 12 May 2011
 
-![Picture](/assets/uploads/3/4/4/7/3447575/published/thinker-of-hamangiatransparent-bkgrfit.png)
-
-The Thinker of Hamangia
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/published/thinker-of-hamangiatransparent-bkgrfit.png" alt="Picture">
+  <figcaption>The Thinker of Hamangia</figcaption>
+</figure>
 
 He putteth forth his hand upon the rock;
 he overturneth the mountains by the roots.

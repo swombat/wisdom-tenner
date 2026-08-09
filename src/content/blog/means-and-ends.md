@@ -12,9 +12,10 @@ date: '2011-03-03'
 published: '2011-03-03'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/5113819.jpg)
-
-Janus, god of beginnings and endings
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/5113819.jpg" alt="Picture">
+  <figcaption>Janus, god of beginnings and endings</figcaption>
+</figure>
 
 For weak people there is nothing beyond obtaining what they want. Those who can do things must consider what to want.
 

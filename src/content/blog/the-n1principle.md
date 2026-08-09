@@ -12,7 +12,10 @@ date: '2011-08-06'
 published: '2011-08-06'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/7607458.jpg)A sense of perspective would help the knight
+<figure>
+<img src="/assets/uploads/3/4/4/7/3447575/7607458.jpg" alt="Picture">
+<figcaption>A sense of perspective would help the knight</figcaption>
+</figure>
 
 There is always higher than high and lower than low.
 

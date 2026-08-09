@@ -12,7 +12,10 @@ date: '2012-01-01'
 published: '2012-01-01'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/7794208.jpg)A tip above, a world beneath
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/7794208.jpg" alt="Picture">
+  <figcaption>A tip above, a world beneath</figcaption>
+</figure>
 
 \_
 

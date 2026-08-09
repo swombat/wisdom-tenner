@@ -59,7 +59,10 @@ The main views about wisdom - and the **content** of the treasury chest containi
 
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/murner-1512-nerrenbeschwerung-pd_orig.jpg)Murner 1512 Nerrenbeschwerung PD
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/murner-1512-nerrenbeschwerung-pd_orig.jpg" alt="Picture">
+  <figcaption>Murner 1512 Nerrenbeschwerung PD</figcaption>
+</figure>
 
 ​Strangely, those geniuses of emancipation confused not parroting tradition with not learning from it.
 

@@ -10,7 +10,10 @@ order: 0
 
 12.08.2016, rev. 2020
 
-![Picture](/assets/uploads/3/4/4/7/3447575/the-gyri-of-the-thinker-s-brain-as-a-maze-of-choices-cc-4-0-wellcome-images_1.jpg)A maze of choices...\*
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/the-gyri-of-the-thinker-s-brain-as-a-maze-of-choices-cc-4-0-wellcome-images_1.jpg" alt="Picture">
+  <figcaption>A maze of choices...*</figcaption>
+</figure>
 
 *"Aut inveniam viam aut faciam" I shall either
                                                            find a way or make one.*

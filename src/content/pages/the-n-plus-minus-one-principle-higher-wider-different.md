@@ -56,9 +56,10 @@ Some may think they are erecting a hill when they are in fact digging a pit. I s
 
 The infinite Universe does not *experience*impossibility. Things are or not, happen or not but are there limits in infinity? For something to be impossible in the Universe there must be someone for whom it is impossible, some being trying something active. This is a spacious universe to move in with your mind. If you are a believer and God is omniscient, omnipotent and good you may dare to conclude what this means; for an example that if God is not constrained by anything not even by our human logic: he wills what is good or bad and he may will that 2+2 equals 5. If you consider - when storming your mind -Infinity  or a World with no rules, then absolutely anything should be impossible in that world. This is how free your mind should be while you imagine and think, before you comme back to here and now to check, to apply the censorship of what we know about "Reality" and "correct thinking".
 
-![Picture](/assets/uploads/3/4/4/7/3447575/hagakure-water-rises-c-i-tenner-2007_orig.gif)
-
-The Hagakure samurai saying hints the right height: "When the water rises, so does the boat"
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/hagakure-water-rises-c-i-tenner-2007_orig.gif" alt="Picture">
+  <figcaption>The Hagakure samurai saying hints the right height: "When the water rises, so does the boat"</figcaption>
+</figure>
 
 ​Be prudent though, do not promise miracles just consider constantly *for whom and where* “it can not be or cannot be done”. Why, in what way it is out of reach? What *makes*it impossible? Why is it called "impossible"? (sometimes it is simply their name their definition, which make things impossible. Consider changing that name. Find out who can, where it can be done or when. How it can be done. What is needed to do it? Ask such questions if appropriate or think of them silently. Go for that change.
 
@@ -94,9 +95,10 @@ Ask why exactly it is obvious?
 
 Which are the factors, the listed necessary causes that make the unwanted necessary and the desired impossible? Sometimes the way is unexpectedly simple:
 
-![Picture](/assets/uploads/3/4/4/7/3447575/how-stop-boiling_orig.jpg)
-
-Remove the Firewood from Under the Cauldron (From the 36 Stratagems)
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/how-stop-boiling_orig.jpg" alt="Picture">
+  <figcaption>Remove the Firewood from Under the Cauldron (From the 36 Stratagems)</figcaption>
+</figure>
 
 ​
 Who said so, from where comes this, what proved this truth? Maybe we met a limit of our understanding and we take it for a limit of material reality.
@@ -180,9 +182,10 @@ F*or his conquest of Asia, Alexander needed an auspicious prophecy from Delphi, 
 
 At Gordium, the same Alexander was confronted with the legendary Phrygian Knot, said to be undone only by the one who would conquer Asia. Countless contenders were known to have unsuccessfully tackled that entangled maze. Alexander quickly and brutally reinterpreted the task and simply chopped the knot. "...when it was thus smitten many ends were to be seen"* [3] He was certainly not shy to reinterpret things.
 
-![Picture](/assets/uploads/3/4/4/7/3447575/n-1chess_orig.jpg)
-
-Chess about chess- (C) I. Tenner 1997
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/n-1chess_orig.jpg" alt="Picture">
+  <figcaption>Chess about chess- (C) I. Tenner 1997</figcaption>
+</figure>
 
 ​
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

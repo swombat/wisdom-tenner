@@ -1,0 +1,21 @@
+---
+layout: base.njk
+---
+<section class="collection-shell">
+  <header class="collection-header">
+    <p class="eyebrow">Essays</p>
+    <h1>{{ title }}</h1>
+    <p>{{ description }}</p>
+  </header>
+
+  <ol class="entry-list">
+    {% for article in articleCatalog %}
+      <li>
+        <a href="{{ article.url }}">
+          <span class="entry-title">{{ article.title }}</span>
+          <span class="entry-description">{{ article.description }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  </ol>
+</section>

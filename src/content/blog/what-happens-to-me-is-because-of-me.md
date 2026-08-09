@@ -12,7 +12,10 @@ date: '2011-01-11'
 published: '2011-01-11'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/8523529.jpg)Marionette - Free Art license 1.3 BY-SA–Compatible License SoHome Jacaranda Lilau, Tamelifa Puppeters, Pierre S Frana Line Wiki
+<figure>
+<img src="/assets/uploads/3/4/4/7/3447575/8523529.jpg" alt="Picture">
+<figcaption>Marionette - Free Art license 1.3 BY-SA–Compatible License SoHome Jacaranda Lilau, Tamelifa Puppeters, Pierre S Frana Line Wiki</figcaption>
+</figure>
 
 “What happens to me is because of me!”
 

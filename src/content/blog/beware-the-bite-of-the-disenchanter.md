@@ -12,7 +12,10 @@ date: '2011-09-30'
 published: '2011-09-30'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/5543206.jpg)Hercules and the snake - Penni
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/5543206.jpg" alt="Picture">
+  <figcaption>Hercules and the snake - Penni</figcaption>
+</figure>
 
 There are brutes that threaten, stab and rob, and assassins, but the *disenchanters*, who rape invisibly your respect for yourself and your belief in a fair, comprehensible world, and your optimism that you can achieve things, harm you with deeper and incurable wounds.
 

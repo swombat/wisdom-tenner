@@ -12,7 +12,10 @@ date: '2011-05-16'
 published: '2011-05-16'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/4638751.jpg)The Mouth of Truth, Rome [1]
+<figure>
+<img src="/assets/uploads/3/4/4/7/3447575/4638751.jpg" alt="Picture">
+<figcaption>The Mouth of Truth, Rome [1]</figcaption>
+</figure>
 
 There are many truths because there are many honest persons with many different beliefs held in good faith.
 

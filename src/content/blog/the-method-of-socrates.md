@@ -12,7 +12,10 @@ date: '2013-07-10'
 published: '2013-07-10'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/2240119.jpg)The magic wand of knowing how ignorant I am
+<figure>
+<img src="/assets/uploads/3/4/4/7/3447575/2240119.jpg" alt="Picture">
+<figcaption>The magic wand of knowing how ignorant I am</figcaption>
+</figure>
 
 What I like to call "The Method of Socrates"\* is a road-opener of understanding, learning to learn and critical examination.
 

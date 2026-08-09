@@ -12,7 +12,10 @@ date: '2011-01-12'
 published: '2011-01-12'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/8530418.jpg)Our sign of peace Left on the Moon
+<figure>
+<img src="/assets/uploads/3/4/4/7/3447575/8530418.jpg" alt="Picture">
+<figcaption>Our sign of peace Left on the Moon</figcaption>
+</figure>
 
 I am tired of hearing that faith is the war monger of humanity so that peace will flow at last, like mighty rivers, the day we get rid of religion.
 

@@ -12,7 +12,10 @@ date: '2012-02-19'
 published: '2012-02-19'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/2331196.png)Like beauty, future may be in the eyes of the beholder (Pixareyes-iriscoloredit Free sw Wikimedia)
+<figure>
+<img src="/assets/uploads/3/4/4/7/3447575/2331196.png" alt="Picture">
+<figcaption>Like beauty, future may be in the eyes of the beholder (Pixareyes-iriscoloredit Free sw Wikimedia)</figcaption>
+</figure>
 
 This is about making future look simple; or even better,  about inventing it.
 
@@ -150,7 +153,10 @@ Formlessness is a form, the mother of all forms. Read the Tao-te-Ching. we may n
 
 ---
 
- ![Picture](/assets/uploads/3/4/4/7/3447575/8957313.jpg)Water\_Drop cc Mamad
+<figure>
+<img src="/assets/uploads/3/4/4/7/3447575/8957313.jpg" alt="Picture">
+<figcaption>Water_Drop cc Mamad</figcaption>
+</figure>
 
 ​In my mind, one of the mightiest moving shapes helping to understand, live and plan the future is the Taoist metaphor of water, stagnant or flowing; water will get through all the forms, evaporate, rain, freeze, soak or stagnate, will take any form of the recipients it encounters and *wait*... but every time there is a chance, it will flow downwards, imperturbable, where it belongs; beautiful strategy for the resilient ones through unfavourable times.
 

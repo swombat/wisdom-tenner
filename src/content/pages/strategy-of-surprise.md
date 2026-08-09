@@ -66,7 +66,10 @@ Such may be a way to live in adverse times, if your values and your work are wor
 
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/published/thinking-it-over-shoeshine-boy1.png)Thinking-it-over-J-G Brown (1889) Source wikigallery org non commercial 2015
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/published/thinking-it-over-shoeshine-boy1.png" alt="Picture">
+  <figcaption>Thinking-it-over-J-G Brown (1889) Source wikigallery org non commercial 2015</figcaption>
+</figure>
 
 You can prepare against surprise with simple actions, even without understanding in depth how it works, as long as you accept the common sense wisdom that surprises do happen and if you care to consider from where they are likely to come in your situation.
 
@@ -101,9 +104,10 @@ Finally, if you had no time or care to imagine, predict or foresee, you may at l
 
 ## Preparing for surprise
 
-![Picture](/assets/uploads/3/4/4/7/3447575/670257.jpg)
-
-Quietly, ready for surprise. CC M. Janich
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/670257.jpg" alt="Picture">
+  <figcaption>Quietly, ready for surprise. CC M. Janich</figcaption>
+</figure>
 
 Suppose you are that prudent person who prepares wisely against all kinds of risk.
 
@@ -149,9 +153,10 @@ If you understood how surprise works you can do the following while it happens t
 
 ##
 
-![Picture](/assets/uploads/3/4/4/7/3447575/5184147.jpg)
-
-Tummy ache symptom. CC W. Sauber
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/5184147.jpg" alt="Picture">
+  <figcaption>Tummy ache symptom. CC W. Sauber</figcaption>
+</figure>
 
 **First, observe that you are surprised.**
 
@@ -168,9 +173,10 @@ Instead of trying to ignore it, notice, trust your common sense, listen to the m
 
 ##
 
-![Picture](/assets/uploads/3/4/4/7/3447575/3920086.jpg)
-
-Hourglas from the skies, CC Skeeterwiz34
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/3920086.jpg" alt="Picture">
+  <figcaption>Hourglas from the skies, CC Skeeterwiz34</figcaption>
+</figure>
 
 **The second thing you must do, is to wait and** **gain time to wake up**; no hard decisions on the spot, do not do, do not say things while confused or hostile – you know and must consider that you are under pressure and biased. Your judgement may be poor.
 
@@ -238,9 +244,10 @@ When he water rises, so does the boat.
 
 ## Preparing the surprise
 
-![Picture](/assets/uploads/3/4/4/7/3447575/published/tiger-to-attack-tr.png)
-
-What if you were the tiger...
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/published/tiger-to-attack-tr.png" alt="Picture">
+  <figcaption>What if you were the tiger...</figcaption>
+</figure>
 
 Finally, as surprise is so powerful among people, why not learn to create it, or use it instead of just receiving it?
 

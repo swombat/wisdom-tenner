@@ -10,9 +10,10 @@ order: 4
 
 ##
 
-![Picture](/assets/uploads/3/4/4/7/3447575/7892492.jpg)
-
-Sleeping Beauty by Henry Meynell Rheam 1899 PD photo Wikimedia
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/7892492.jpg" alt="Picture">
+  <figcaption>Sleeping Beauty by Henry Meynell Rheam 1899 PD photo Wikimedia</figcaption>
+</figure>
 
 This is not wisdom yet, this is sleeping wisdom. To wake up, it needs *you*.
 
@@ -43,9 +44,10 @@ Such learning makes your life-time rich and plentiful, instead of just spending 
 
 ​Perhaps, some of the greatest sages, like Confucius, Zarathustra, the Buddha, the Prophets of the Bible, Socrates, the Christ, or even Homer and Aesop never wrote, because they knew the danger of wise thoughts sleeping frozen on tablets: *"...if one asks them a question, they preserve a solemn silence."* (Plato, Phaedrus, 275, D).
 
-![Picture](/assets/uploads/3/4/4/7/3447575/editor/epic-of-gilgamesh-story-of-the-flood-7th-century-bc-cc0-1-0-wikimedia.jpg)
-
-Epic of Gilgamesh, Story of the Flood 7th century BC.(CC0 1.0) Wikimedia
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/editor/epic-of-gilgamesh-story-of-the-flood-7th-century-bc-cc0-1-0-wikimedia.jpg" alt="Picture">
+  <figcaption>Epic of Gilgamesh, Story of the Flood 7th century BC.(CC0 1.0) Wikimedia</figcaption>
+</figure>
 
 The trouble with the knowledge of wisdom, cast in metaphors, maxims and fables - to be preserved and simple enough to be understood by many - is that it sleeps suspended in time, half-alive half dead. It is like the grains in the Parable of the Sower; most are waisted on bad soil, some fall on good fertile earth. The meaning of wise words is hardly separable from the one who gives it and from the one who receives it. To be useful anew, elsewhere and someday, wisdom needs to be resurrected from its slumber in changed times and circumstances. To rise and serve you, the seeker of wisdom, to become your own, those notable words - accounts, ideas, precepts and symbols - must turn from other people’s interpretations into your own understanding. Understanding is a living state of one individual mind, similar to the surprise of discovery, which you can only experience by yourself. Like all ideas, wise truth must translate from general thoughts into present commonsense and obviousness, practicable. It must augment *your* point of view and fit *your* situation. It must project light in front of you - to illuminate your way - and not into you eyes - to dazzle you and lead you in awe but  half blinded, ready to be led.
 

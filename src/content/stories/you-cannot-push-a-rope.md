@@ -12,7 +12,10 @@ date: '2020-12-07'
 published: '2020-12-07'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/bajazeth-in-cage-timur-j-n-geiger-pd_orig.jpg)Bayazid in Timur's cage
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/bajazeth-in-cage-timur-j-n-geiger-pd_orig.jpg" alt="Picture">
+  <figcaption>Bayazid in Timur's cage</figcaption>
+</figure>
 
 *Who has nothing has nothing to lose but those who have a lot at stake always engage him to die a heroic death for their ills.” Le sage, en hésitant, tourne autour du tombeau…”
 

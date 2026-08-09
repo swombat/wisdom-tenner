@@ -12,7 +12,10 @@ date: '2016-04-02'
 published: '2016-04-02'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/7781806.jpg)Yes, we communicate!
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/7781806.jpg" alt="Picture">
+  <figcaption>Yes, we communicate!</figcaption>
+</figure>
 
 Too many educated people believe that “communication” stands for giving speeches and writing communiqués “to pass the message”; or filling empty heads with nagging, brain-washing, “news”.
 

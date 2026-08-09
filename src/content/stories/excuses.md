@@ -12,7 +12,10 @@ date: '2020-12-07'
 published: '2020-12-07'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/published/saddled-donkey-with-blinkers-fr-d-ric-t-faber-print-maker-1782-1844-rijksmuseum-cc0-1-0-look-and-learn-com.jpg)Saddled donkey with blinkers F. T. Faber, (1782–1844) Rijksmuseum CC0 1.0 Look and learn com)
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/published/saddled-donkey-with-blinkers-fr-d-ric-t-faber-print-maker-1782-1844-rijksmuseum-cc0-1-0-look-and-learn-com.jpg" alt="Picture">
+  <figcaption>Saddled donkey with blinkers F. T. Faber, (1782–1844) Rijksmuseum CC0 1.0 Look and learn com)</figcaption>
+</figure>
 
 *Some people just don’t want to take no for an answer when it is about their interest. Yours, they don’t see at all. This reminds me of a story:*
 

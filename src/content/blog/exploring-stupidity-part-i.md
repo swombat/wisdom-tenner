@@ -12,7 +12,10 @@ date: '2014-01-01'
 published: '2014-01-01'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/9663695.jpg)Proudly, they destroyed themselves? Or where they exterminated by explorer stupidity?
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/9663695.jpg" alt="Picture">
+  <figcaption>Proudly, they destroyed themselves? Or where they exterminated by explorer stupidity?</figcaption>
+</figure>
 
 I need – and we all need - to understand stupidity better; we crash into it often enough to admit what a resourceful, deadly enemy it is - one who keeps winning and crippling humanity in the long term. Such a foe deserves adequate respect.
 

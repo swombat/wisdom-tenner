@@ -12,7 +12,10 @@ date: '2011-03-24'
 published: '2011-03-24'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/5042837.jpg)Want to see a Buddha? Have a look!
+<figure>
+<img src="/assets/uploads/3/4/4/7/3447575/5042837.jpg" alt="Picture">
+<figcaption>Want to see a Buddha? Have a look!</figcaption>
+</figure>
 
 ​This is the secret key to knowing people as they are, what they feel, how they may judge, what they may do:
 

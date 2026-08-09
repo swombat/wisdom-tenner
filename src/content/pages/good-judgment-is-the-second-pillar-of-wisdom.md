@@ -8,7 +8,10 @@ eyebrow: Essay
 order: 9
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/8991154.jpg)Stepping stones, Tollymore, cc Ardfern\_2010
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/8991154.jpg" alt="Picture">
+  <figcaption>Stepping stones, Tollymore, cc Ardfern_2010</figcaption>
+</figure>
 
 1.01.2017 rev in progress 2019, 2022, 2024
 

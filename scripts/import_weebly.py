@@ -309,6 +309,18 @@ def download_asset(item: tuple[str, str]) -> dict:
 
 def write_collection_indexes() -> None:
     indexes = {
+        CONTENT / "pages" / "articles.md": {
+            "title": "Articles",
+            "description": (
+                "Longer essays about worldly wisdom, judgement, criticism, choice, "
+                "surprise, paradox, meaning, and perspective."
+            ),
+            "layout": "articles.njk",
+            "permalink": "/articles.html",
+            "source_url": f"{ORIGIN}/articles.html",
+            "eyebrow": "Essays",
+            "order": 14,
+        },
         CONTENT / "blog-index.md": {
             "title": "Blog",
             "description": "Essays, provocations and notes on the practice of worldly wisdom.",
@@ -344,6 +356,7 @@ def main() -> int:
     # original Weebly index pages are deliberately not imported as duplicate
     # ten-post snapshots.
     skipped = {
+        f"{ORIGIN}/articles.html",
         f"{ORIGIN}/blog.html",
         f"{ORIGIN}/this-reminds-me-of-a-story.html",
     }
@@ -402,7 +415,7 @@ def main() -> int:
         "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(),
         "sitemap_urls": len(urls),
         "imported_pages": len(pages),
-        "collection_indexes": 2,
+        "collection_indexes": 3,
         "downloaded_assets": len(downloaded),
         "pages": pages,
         "assets": downloaded,
@@ -414,7 +427,7 @@ def main() -> int:
     )
 
     print(
-        f"Imported {len(pages)} pages plus 2 collection indexes and "
+        f"Imported {len(pages)} pages plus 3 collection indexes and "
         f"{len(downloaded)} assets."
     )
     if errors:

@@ -15,7 +15,10 @@ published: '2016-12-08'
 *"Aut inveniam viam aut faciam" I shall either find a way or make one.*
 ​(Hannibal crossing the Alps)
 
-![Picture](/assets/uploads/3/4/4/7/3447575/the-gyri-of-the-thinker-s-brain-as-a-maze-of-choices-cc-4-0-wellcome-images.jpg)A maze of choices...\*
+<figure>
+<img src="/assets/uploads/3/4/4/7/3447575/the-gyri-of-the-thinker-s-brain-as-a-maze-of-choices-cc-4-0-wellcome-images.jpg" alt="Picture">
+<figcaption>A maze of choices...*</figcaption>
+</figure>
 
 ​There is no absolute freedom, except in theories and dreams. You cannot disregard the given, the necessity of causes above, beyond, beneath and around your will.
 

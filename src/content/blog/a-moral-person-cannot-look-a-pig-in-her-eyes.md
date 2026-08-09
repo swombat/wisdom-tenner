@@ -12,7 +12,10 @@ date: '2012-03-20'
 published: '2012-03-20'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/7422662.jpg)"Thank you little creature for dying in order for me to live and feel sate!"
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/7422662.jpg" alt="Picture">
+  <figcaption>"Thank you little creature for dying in order for me to live and feel sate!"</figcaption>
+</figure>
 
 If you hold to be a good person you cannot look a pig in the eyes; nor any other sentient being we prey on.
 

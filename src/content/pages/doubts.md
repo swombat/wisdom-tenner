@@ -10,9 +10,10 @@ order: 10
 
 ## Doubts 2 June 2011
 
-![Picture](/assets/uploads/3/4/4/7/3447575/durrer-doubts-transp_orig.png)
-
-Dürrer, A study of hands PD
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/durrer-doubts-transp_orig.png" alt="Picture">
+  <figcaption>Dürrer, A study of hands PD</figcaption>
+</figure>
 
 This quest of wisdom grew dramatic for me and appears to be endless. As I reached for one or other of its avatars, wisdom receded and grew into an elusive protean dragon, now high like the sky, next fragile like a butterfly, then scattered into a constellation of points of view.
 

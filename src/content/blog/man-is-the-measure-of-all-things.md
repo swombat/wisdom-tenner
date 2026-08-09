@@ -12,7 +12,10 @@ date: '2011-01-25'
 published: '2011-01-25'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/published/full-size-metal-replica-of-nasa-pioneer-plaque-tr.png)Man teaches his measure to the Universe\*
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/published/full-size-metal-replica-of-nasa-pioneer-plaque-tr.png" alt="Picture">
+  <figcaption>Man teaches his measure to the Universe*</figcaption>
+</figure>
 
 On this plate sent by NASA on a Pioneer mission to civilizations whom it may concern, the receiver, can see (if it is endowed with optic recognition) the proportion of two beings.
 

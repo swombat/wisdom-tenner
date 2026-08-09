@@ -12,7 +12,10 @@ date: '2011-06-04'
 published: '2011-06-04'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/8686393.jpg)Chronos devours his son [1]
+<figure>
+<img src="/assets/uploads/3/4/4/7/3447575/8686393.jpg" alt="Picture">
+<figcaption>Chronos devours his son [1]</figcaption>
+</figure>
 
 To every thing there is a season, and a time to every purpose under the heaven, says the Qoheleth [2]. Believer or not, this book of wisdom is well worth reading…
 

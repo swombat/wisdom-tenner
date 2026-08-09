@@ -12,7 +12,10 @@ date: '2011-07-17'
 published: '2011-07-17'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/7075753.jpg)Caravaggio, Doubting Thomas
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/7075753.jpg" alt="Picture">
+  <figcaption>Caravaggio, Doubting Thomas</figcaption>
+</figure>
 
 Critical thinking should disobey before being reasonable.
 ​

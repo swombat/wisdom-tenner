@@ -12,7 +12,10 @@ date: '2011-10-26'
 published: '2011-10-26'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/2273928.jpg)A compass, not a measuring staff
+<figure>
+<img src="/assets/uploads/3/4/4/7/3447575/2273928.jpg" alt="Picture">
+<figcaption>A compass, not a measuring staff</figcaption>
+</figure>
 
 “Do not do to others what you do not want them to do to you" [1]
 

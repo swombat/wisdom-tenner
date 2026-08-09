@@ -12,7 +12,10 @@ date: '2011-06-15'
 published: '2011-06-15'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/9387553.jpg)Black swans are Wikymedia Commons
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/9387553.jpg" alt="Picture">
+  <figcaption>Black swans are Wikymedia Commons</figcaption>
+</figure>
 
 “*The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.*” [1] Remember Shaw’s contrarian saying before you rush to discard the workings of the fools.
 

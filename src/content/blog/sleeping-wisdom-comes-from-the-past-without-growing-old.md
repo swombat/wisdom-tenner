@@ -12,9 +12,10 @@ date: '2011-01-30'
 published: '2011-01-30'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/157150.jpg)
-
-Egyptian boomerang Tomb of Nebamun
+<figure>
+<img src="/assets/uploads/3/4/4/7/3447575/157150.jpg" alt="Picture">
+<figcaption>Egyptian boomerang Tomb of Nebamun</figcaption>
+</figure>
 
 Sleeping wisdom comes from the past without growing old because it accounts of concerns born anew with each naive generation.
 

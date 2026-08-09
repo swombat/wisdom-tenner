@@ -12,7 +12,10 @@ date: '2011-03-19'
 published: '2011-03-19'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/8640264.jpg)Do not bet if you can’t take a rout
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/8640264.jpg" alt="Picture">
+  <figcaption>Do not bet if you can’t take a rout</figcaption>
+</figure>
 
 People are eager to learn how to win but shun learning how to lose. Who wants to prepare for defeat?\*
 
@@ -63,9 +66,10 @@ Some scars and wrinkles give one distinction and show that you have experience w
 
 Subtle cultures are able not only to absorb loss but also to artfully value it. We have much to learn from them. The Japanese art of mending broken objects by filling the cracks with gold turns the pot more beautiful *because* of having been broken.
 
-![Picture](/assets/uploads/3/4/4/7/3447575/an-example-of-kintsugi-repair-by-david-pike_orig.jpg)
-
-An example of kintsugi repair by David Pike (Photo courtesy of David Pike)” Pinterest
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/an-example-of-kintsugi-repair-by-david-pike_orig.jpg" alt="Picture">
+  <figcaption>An example of kintsugi repair by David Pike (Photo courtesy of David Pike)” Pinterest</figcaption>
+</figure>
 
 An educated person, competent when losing, [rises above it, by habit of attitude:](/blog/the-n1principle) take distance and always conclude a defeat by examining - alone or with true friends - what worked and what to avoid. This is - beyond the beauty and the humility - wisdom extracted for the future and precious experience to nourish later moments when you will say: “*This reminds me of...*”
 

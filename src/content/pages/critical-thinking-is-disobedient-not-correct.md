@@ -10,9 +10,10 @@ order: 6
 
 ##
 
-![Picture](/assets/uploads/3/4/4/7/3447575/2933275.jpg)
-
-Caravaggio, Doubting Thomas
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/2933275.jpg" alt="Picture">
+  <figcaption>Caravaggio, Doubting Thomas</figcaption>
+</figure>
 
 The critical thinking exerted by persons - as it actually happens - is not public, regulated discourse. It is the Selves' critical sense at work in the mind, intuitive, informal, authentic and unregulated.
 

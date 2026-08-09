@@ -12,7 +12,10 @@ date: '2011-02-25'
 published: '2011-02-25'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/published/3644329.gif)“When the water rises, so does the boat.”
+<figure>
+<img src="/assets/uploads/3/4/4/7/3447575/published/3644329.gif" alt="Picture">
+<figcaption>“When the water rises, so does the boat.”</figcaption>
+</figure>
 
 Don’t we all need firm ground under our feet?
 ​

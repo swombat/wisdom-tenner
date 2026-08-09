@@ -12,7 +12,10 @@ date: '2011-07-28'
 published: '2011-07-28'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/published/auguste-preault-silence-cc-by-3-0-saliko-2016-transp.png)Auguste Preault, Le Silence
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/published/auguste-preault-silence-cc-by-3-0-saliko-2016-transp.png" alt="Picture">
+  <figcaption>Auguste Preault, Le Silence</figcaption>
+</figure>
 
 [If you have a gift with words, learn to keep your mouth shut](http://nasredin.blogspot.com/2007/10/how-many-sparrows-are-we-worth.html); when you speak, punctuate with pause; [and when you have nothing to say, say nothing](http://nasredin.blogspot.com/2007/11/not-much-to-say.html).
 

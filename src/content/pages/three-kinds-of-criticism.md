@@ -10,9 +10,10 @@ order: 12
 
 ##
 
-![Picture](/assets/uploads/3/4/4/7/3447575/no-evil-tr_orig.png)
-
-Say no evil, hear no evil, see no evil?
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/no-evil-tr_orig.png" alt="Picture">
+  <figcaption>Say no evil, hear no evil, see no evil?</figcaption>
+</figure>
 
 To criticise and to face critique - in our daily life or in some special occasions - is not a branch of scientific research, engineering, erudition or art; nor is it an application of the academic examination of arguments called "critical thinking".
 
@@ -59,9 +60,10 @@ In short; *friendly criticism* would end with help;
 
 ## \*
 
-![Picture](/assets/uploads/3/4/4/7/3447575/9223958.jpg)
-
-Liberi, Advice to the son
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/9223958.jpg" alt="Picture">
+  <figcaption>Liberi, Advice to the son</figcaption>
+</figure>
 
 **Friendly criticism** observes, listens and **gets involved**. It is a gift of caring or a client-centred service intended to help and serve the one criticised.
 
@@ -141,9 +143,10 @@ I ask many questions. (Questions instead of ready-made answers make people feel 
 
 ##
 
-![Picture](/assets/uploads/3/4/4/7/3447575/gaping-the-pill-tr_orig.png)
-
-Pharmacy gaper taking the pill
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/gaping-the-pill-tr_orig.png" alt="Picture">
+  <figcaption>Pharmacy gaper taking the pill</figcaption>
+</figure>
 
 **Factual criticism** analyses and evaluates. Objective (or **Indifferent towards the person)**as I chose to call it, it is insensitive to persons: It serves some discipline placed above persons, a wider, higher and abstract ideal or practical goal – truth, beauty, religion or justice, profit, excellence, perfection... so that it has no friends...
 
@@ -218,9 +221,10 @@ Excuse politely the possible displeasure.
 
 ##
 
-![Picture](/assets/uploads/3/4/4/7/3447575/published/the-stoning-of-stephen-tr.png)
-
-Stoning Of Stephen
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/published/the-stoning-of-stephen-tr.png" alt="Picture">
+  <figcaption>Stoning Of Stephen</figcaption>
+</figure>
 
 **Hostile criticism**  is aimed at unwanted projects, adversary ideas and enemies; it attacks, finds defect or invents fault. Among persons it is to the person; not to repair or improve, but to defend something or to strike, to reject, to blame, to undermine or to destroy.
 
@@ -303,9 +307,10 @@ References
 
 ##
 
-![Picture](/assets/uploads/3/4/4/7/3447575/doubting-thomas-by-caravaggio-tr_orig.png)
-
-Caravaggio, Doubting Thomas
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/doubting-thomas-by-caravaggio-tr_orig.png" alt="Picture">
+  <figcaption>Caravaggio, Doubting Thomas</figcaption>
+</figure>
 
 Critical thinking is private judgement that takes place inside your head. It should not be confused with criticism addressed publicly or one-to-one to other people. Sociable, polite rules of criticism do not apply to this naked work of the mind.
 

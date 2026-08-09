@@ -12,7 +12,10 @@ date: '2012-09-05'
 published: '2012-09-05'
 ---
 
-![Picture](/assets/uploads/3/4/4/7/3447575/1339409967.jpg)Royston Cave, Hertfordshire cc 3.0 Cruccone 2004
+<figure>
+<img src="/assets/uploads/3/4/4/7/3447575/1339409967.jpg" alt="Picture">
+<figcaption>Royston Cave, Hertfordshire cc 3.0 Cruccone 2004</figcaption>
+</figure>
 
 You may want to agree with the common place that the knowledge of History is a priceless treasury of sleeping wisdom, waiting to be resurrected and understood - to improve our life - instead of slowly turning to dust, forgotten in tomes nobody reads or in confidential erudition nobody listens to.
 
