@@ -5,14 +5,24 @@ from __future__ import annotations
 
 import json
 import sys
+from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import unquote, urlparse
-
-from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / "_site"
 MANIFEST = ROOT / "migration-manifest.json"
+
+
+class ReferenceParser(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.references: list[str] = []
+
+    def handle_starttag(self, _tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        for name, value in attrs:
+            if name in {"href", "src"} and value:
+                self.references.append(value)
 
 
 def target_for_url(value: str) -> Path | None:
@@ -49,13 +59,9 @@ def main() -> int:
     html_files = sorted(SITE.rglob("*.html"))
     checked_links = 0
     for html_file in html_files:
-        soup = BeautifulSoup(html_file.read_text(encoding="utf-8"), "html.parser")
-        for element, attribute in [
-            (node, "href") for node in soup.select("[href]")
-        ] + [
-            (node, "src") for node in soup.select("[src]")
-        ]:
-            value = element.get(attribute, "")
+        parser = ReferenceParser()
+        parser.feed(html_file.read_text(encoding="utf-8"))
+        for value in parser.references:
             target = target_for_url(value)
             if not target:
                 continue
