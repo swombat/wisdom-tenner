@@ -1,0 +1,15 @@
+{
+  "title": "Wisdom, sleeping..",
+  "tagline": "Worldly wisdom",
+  "description": "Reflections, essays, aphorisms and stories about worldly wisdom.",
+  "author": "Michael Tenner",
+  "originalUrl": "http://wisdom.tenner.org",
+  "navigation": [
+    { "label": "Home", "url": "/" },
+    { "label": "Four pillars", "url": "/four-pillars-of-wisdom.html" },
+    { "label": "Articles", "url": "/articles.html" },
+    { "label": "Stories", "url": "/this-reminds-me-of-a-story.html" },
+    { "label": "Blog", "url": "/blog.html" },
+    { "label": "Doubts", "url": "/doubts.html" }
+  ]
+}

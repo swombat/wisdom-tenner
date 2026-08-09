@@ -1,0 +1,19 @@
+---
+layout: base.njk
+---
+<section class="hero">
+  <div class="hero-inner">
+    <p class="eyebrow">{{ site.tagline }}</p>
+    <h1>{{ site.title }}</h1>
+    <p class="hero-intro">Reflections on knowledge, judgement, conduct, paradox, criticism, choice, and the difficult practice of living wisely.</p>
+    <div class="hero-links">
+      <a class="button" href="/four-pillars-of-wisdom.html">Begin with the four pillars</a>
+      <a class="text-link" href="/articles.html">Browse the articles →</a>
+    </div>
+  </div>
+</section>
+<article class="page-shell home-content">
+  <div class="prose">
+    {{ content | safe }}
+  </div>
+</article>

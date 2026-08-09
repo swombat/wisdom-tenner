@@ -1,0 +1,18 @@
+---
+layout: base.njk
+---
+<article class="page-shell">
+  <header class="page-header">
+    {% if eyebrow %}<p class="eyebrow">{{ eyebrow }}</p>{% endif %}
+    <h1>{{ title }}</h1>
+    {% if published %}<p class="published">{{ published | readableDate }}</p>{% endif %}
+  </header>
+  <div class="prose">
+    {{ content | safe }}
+  </div>
+  {% if source_url %}
+    <footer class="source-note">
+      <p>Migrated from the original Weebly publication.</p>
+    </footer>
+  {% endif %}
+</article>

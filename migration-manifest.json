@@ -1,0 +1,2424 @@
+{
+  "origin": "http://wisdom.tenner.org",
+  "generated_at": "2026-08-09T20:02:02.955807+00:00",
+  "sitemap_urls": 164,
+  "imported_pages": 162,
+  "collection_indexes": 2,
+  "downloaded_assets": 223,
+  "pages": [
+    {
+      "source": "http://wisdom.tenner.org/a-choice-of-choices.html",
+      "path": "/a-choice-of-choices.html",
+      "output": "src/content/pages/a-choice-of-choices.md",
+      "permalink": "/a-choice-of-choices.html",
+      "title": "A choice of choices",
+      "kind": "article"
+    },
+    {
+      "source": "http://wisdom.tenner.org/a-nutshell-history-of-worldly-wisdom.html",
+      "path": "/a-nutshell-history-of-worldly-wisdom.html",
+      "output": "src/content/pages/a-nutshell-history-of-worldly-wisdom.md",
+      "permalink": "/a-nutshell-history-of-worldly-wisdom.html",
+      "title": "A Nutshell History of Worldly Wisdom",
+      "kind": "article"
+    },
+    {
+      "source": "http://wisdom.tenner.org/articles.html",
+      "path": "/articles.html",
+      "output": "src/content/pages/articles.md",
+      "permalink": "/articles.html",
+      "title": "Articles",
+      "kind": "article"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/a-moral-person-cannot-look-a-pig-in-her-eyes",
+      "path": "/blog/a-moral-person-cannot-look-a-pig-in-her-eyes",
+      "output": "src/content/blog/a-moral-person-cannot-look-a-pig-in-her-eyes.md",
+      "permalink": "/blog/a-moral-person-cannot-look-a-pig-in-her-eyes/",
+      "title": "A moral person cannot look a pig in the eyes",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/a-power-to-make-things-simple",
+      "path": "/blog/a-power-to-make-things-simple",
+      "output": "src/content/blog/a-power-to-make-things-simple.md",
+      "permalink": "/blog/a-power-to-make-things-simple/",
+      "title": "A power to make things simple",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/a-world-with-no-error-and-no-folly-is-like-food-without-salt",
+      "path": "/blog/a-world-with-no-error-and-no-folly-is-like-food-without-salt",
+      "output": "src/content/blog/a-world-with-no-error-and-no-folly-is-like-food-without-salt.md",
+      "permalink": "/blog/a-world-with-no-error-and-no-folly-is-like-food-without-salt/",
+      "title": "A world without flaw is like food without salt.",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/aphorisms-of-communication",
+      "path": "/blog/aphorisms-of-communication",
+      "output": "src/content/blog/aphorisms-of-communication.md",
+      "permalink": "/blog/aphorisms-of-communication/",
+      "title": "Aphorisms of communication",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/bad-people-helped-me-and-good-people-did-me-harm",
+      "path": "/blog/bad-people-helped-me-and-good-people-did-me-harm",
+      "output": "src/content/blog/bad-people-helped-me-and-good-people-did-me-harm.md",
+      "permalink": "/blog/bad-people-helped-me-and-good-people-did-me-harm/",
+      "title": "Bad people helped me and good people did me harm...",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/behold-the-rousers-of-the-beast",
+      "path": "/blog/behold-the-rousers-of-the-beast",
+      "output": "src/content/blog/behold-the-rousers-of-the-beast.md",
+      "permalink": "/blog/behold-the-rousers-of-the-beast/",
+      "title": "Behold the rousers of the beast",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/beware-of-simple-people",
+      "path": "/blog/beware-of-simple-people",
+      "output": "src/content/blog/beware-of-simple-people.md",
+      "permalink": "/blog/beware-of-simple-people/",
+      "title": "Beware of simple people",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/beware-the-bite-of-the-disenchanter",
+      "path": "/blog/beware-the-bite-of-the-disenchanter",
+      "output": "src/content/blog/beware-the-bite-of-the-disenchanter.md",
+      "permalink": "/blog/beware-the-bite-of-the-disenchanter/",
+      "title": "Beware the bite of the disenchanter",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/care-to-part-as-you-care-to-join",
+      "path": "/blog/care-to-part-as-you-care-to-join",
+      "output": "src/content/blog/care-to-part-as-you-care-to-join.md",
+      "permalink": "/blog/care-to-part-as-you-care-to-join/",
+      "title": "Care to part as you care to join",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/critical-thinking-is-disobedient-not-correct",
+      "path": "/blog/critical-thinking-is-disobedient-not-correct",
+      "output": "src/content/blog/critical-thinking-is-disobedient-not-correct.md",
+      "permalink": "/blog/critical-thinking-is-disobedient-not-correct/",
+      "title": "Critical thinking is disobedient, not correct",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/do-not-be-on-this-side-or-on-that",
+      "path": "/blog/do-not-be-on-this-side-or-on-that",
+      "output": "src/content/blog/do-not-be-on-this-side-or-on-that.md",
+      "permalink": "/blog/do-not-be-on-this-side-or-on-that/",
+      "title": "Do not be on this side or on that",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/dont-do-the-wrong-thing-right",
+      "path": "/blog/dont-do-the-wrong-thing-right",
+      "output": "src/content/blog/dont-do-the-wrong-thing-right.md",
+      "permalink": "/blog/dont-do-the-wrong-thing-right/",
+      "title": "Don’t do the wrong thing right",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/dont-leave-the-table",
+      "path": "/blog/dont-leave-the-table",
+      "output": "src/content/blog/dont-leave-the-table.md",
+      "permalink": "/blog/dont-leave-the-table/",
+      "title": "Don't leave the table!",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/dying-for-ideas-martyr-cest-pourrir-un-peu",
+      "path": "/blog/dying-for-ideas-martyr-cest-pourrir-un-peu",
+      "output": "src/content/blog/dying-for-ideas-martyr-cest-pourrir-un-peu.md",
+      "permalink": "/blog/dying-for-ideas-martyr-cest-pourrir-un-peu/",
+      "title": "Dying for ideas (Martyr, c‘est pourrir un peu)",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/exploring-stupidity-part-i",
+      "path": "/blog/exploring-stupidity-part-i",
+      "output": "src/content/blog/exploring-stupidity-part-i.md",
+      "permalink": "/blog/exploring-stupidity-part-i/",
+      "title": "Exploring stupidity (part I)",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/first-person-stupidity-stupidity-part-ii",
+      "path": "/blog/first-person-stupidity-stupidity-part-ii",
+      "output": "src/content/blog/first-person-stupidity-stupidity-part-ii.md",
+      "permalink": "/blog/first-person-stupidity-stupidity-part-ii/",
+      "title": "First-person stupidity (stupidity part II)",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/for-a-theodicy-of-science",
+      "path": "/blog/for-a-theodicy-of-science",
+      "output": "src/content/blog/for-a-theodicy-of-science.md",
+      "permalink": "/blog/for-a-theodicy-of-science/",
+      "title": "For a theodicy of science",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/free-counsel-is-worth-little",
+      "path": "/blog/free-counsel-is-worth-little",
+      "output": "src/content/blog/free-counsel-is-worth-little.md",
+      "permalink": "/blog/free-counsel-is-worth-little/",
+      "title": "Free counsel is worth little",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/freedom-is-the-number-of-choices-you-can-make",
+      "path": "/blog/freedom-is-the-number-of-choices-you-can-make",
+      "output": "src/content/blog/freedom-is-the-number-of-choices-you-can-make.md",
+      "permalink": "/blog/freedom-is-the-number-of-choices-you-can-make/",
+      "title": "deleted",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/friendly-greetings-from-lady-death",
+      "path": "/blog/friendly-greetings-from-lady-death",
+      "output": "src/content/blog/friendly-greetings-from-lady-death.md",
+      "permalink": "/blog/friendly-greetings-from-lady-death/",
+      "title": "Friendly greetings from Lady Death",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/give-your-words-a-weight-of-silence",
+      "path": "/blog/give-your-words-a-weight-of-silence",
+      "output": "src/content/blog/give-your-words-a-weight-of-silence.md",
+      "permalink": "/blog/give-your-words-a-weight-of-silence/",
+      "title": "Give your words a weight of silence",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/good-judgement",
+      "path": "/blog/good-judgement",
+      "output": "src/content/blog/good-judgement.md",
+      "permalink": "/blog/good-judgement/",
+      "title": "Good judgement",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/how-is-montaigne-wise",
+      "path": "/blog/how-is-montaigne-wise",
+      "output": "src/content/blog/how-is-montaigne-wise.md",
+      "permalink": "/blog/how-is-montaigne-wise/",
+      "title": "How is Montaigne wise?",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/humility-cannot-be-ordered-but-you-can-flirt-with-it-usefully",
+      "path": "/blog/humility-cannot-be-ordered-but-you-can-flirt-with-it-usefully",
+      "output": "src/content/blog/humility-cannot-be-ordered-but-you-can-flirt-with-it-usefully.md",
+      "permalink": "/blog/humility-cannot-be-ordered-but-you-can-flirt-with-it-usefully/",
+      "title": "Humility is not at will but you can flirt with her",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/is-there-justice-in-this-world-does-goodness-exist",
+      "path": "/blog/is-there-justice-in-this-world-does-goodness-exist",
+      "output": "src/content/blog/is-there-justice-in-this-world-does-goodness-exist.md",
+      "permalink": "/blog/is-there-justice-in-this-world-does-goodness-exist/",
+      "title": "Is there justice in this world? Does goodness exist?",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/learn-from-the-chinese-before-they-teach-us",
+      "path": "/blog/learn-from-the-chinese-before-they-teach-us",
+      "output": "src/content/blog/learn-from-the-chinese-before-they-teach-us.md",
+      "permalink": "/blog/learn-from-the-chinese-before-they-teach-us/",
+      "title": "Learn from the Chinese before they teach us",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/learn-how-to-lose-as-you-learn-how-to-win",
+      "path": "/blog/learn-how-to-lose-as-you-learn-how-to-win",
+      "output": "src/content/blog/learn-how-to-lose-as-you-learn-how-to-win.md",
+      "permalink": "/blog/learn-how-to-lose-as-you-learn-how-to-win/",
+      "title": "Learn to lose as you learn to win",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/man-is-the-measure-of-all-things",
+      "path": "/blog/man-is-the-measure-of-all-things",
+      "output": "src/content/blog/man-is-the-measure-of-all-things.md",
+      "permalink": "/blog/man-is-the-measure-of-all-things/",
+      "title": "Man is the measure of all things",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/means-and-ends",
+      "path": "/blog/means-and-ends",
+      "output": "src/content/blog/means-and-ends.md",
+      "permalink": "/blog/means-and-ends/",
+      "title": "Wisdom of Means and Wisdom of Ends",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/numberless-people-unalike-are-made-of-stuff-alike",
+      "path": "/blog/numberless-people-unalike-are-made-of-stuff-alike",
+      "output": "src/content/blog/numberless-people-unalike-are-made-of-stuff-alike.md",
+      "permalink": "/blog/numberless-people-unalike-are-made-of-stuff-alike/",
+      "title": "To know people, know yourself",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/one-truth-is-the-enemy-of-all-truth",
+      "path": "/blog/one-truth-is-the-enemy-of-all-truth",
+      "output": "src/content/blog/one-truth-is-the-enemy-of-all-truth.md",
+      "permalink": "/blog/one-truth-is-the-enemy-of-all-truth/",
+      "title": "One truth is the enemy of all truth...",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/portrait-of-the-big-fool",
+      "path": "/blog/portrait-of-the-big-fool",
+      "output": "src/content/blog/portrait-of-the-big-fool.md",
+      "permalink": "/blog/portrait-of-the-big-fool/",
+      "title": "Portrait of the Big Fool",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/religion-a-force-of-peace",
+      "path": "/blog/religion-a-force-of-peace",
+      "output": "src/content/blog/religion-a-force-of-peace.md",
+      "permalink": "/blog/religion-a-force-of-peace/",
+      "title": "Religion, a force of peace",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/shapes-in-which-the-future-comes",
+      "path": "/blog/shapes-in-which-the-future-comes",
+      "output": "src/content/blog/shapes-in-which-the-future-comes.md",
+      "permalink": "/blog/shapes-in-which-the-future-comes/",
+      "title": "Shapes in which the future comes...",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/sleeping-wisdom-comes-from-the-past-without-growing-old",
+      "path": "/blog/sleeping-wisdom-comes-from-the-past-without-growing-old",
+      "output": "src/content/blog/sleeping-wisdom-comes-from-the-past-without-growing-old.md",
+      "permalink": "/blog/sleeping-wisdom-comes-from-the-past-without-growing-old/",
+      "title": "There is no old wisdom, only old people...",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/some-of-the-best-thinking-thinks-itself",
+      "path": "/blog/some-of-the-best-thinking-thinks-itself",
+      "output": "src/content/blog/some-of-the-best-thinking-thinks-itself.md",
+      "permalink": "/blog/some-of-the-best-thinking-thinks-itself/",
+      "title": "Some of the best thinking thinks itself",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/sometimes-i-am-wise",
+      "path": "/blog/sometimes-i-am-wise",
+      "output": "src/content/blog/sometimes-i-am-wise.md",
+      "permalink": "/blog/sometimes-i-am-wise/",
+      "title": "Sometimes I am wise*",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/sons-of-the-digital-dustbin",
+      "path": "/blog/sons-of-the-digital-dustbin",
+      "output": "src/content/blog/sons-of-the-digital-dustbin.md",
+      "permalink": "/blog/sons-of-the-digital-dustbin/",
+      "title": "Sons of the Digital Dustbin",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/speaking-of-values-ask-which-one-comes-first",
+      "path": "/blog/speaking-of-values-ask-which-one-comes-first",
+      "output": "src/content/blog/speaking-of-values-ask-which-one-comes-first.md",
+      "permalink": "/blog/speaking-of-values-ask-which-one-comes-first/",
+      "title": "Speaking of values, which one comes first?",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/spring-cleaning",
+      "path": "/blog/spring-cleaning",
+      "output": "src/content/blog/spring-cleaning.md",
+      "permalink": "/blog/spring-cleaning/",
+      "title": "Spring Cleaning",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/strategy-for-surprise",
+      "path": "/blog/strategy-for-surprise",
+      "output": "src/content/blog/strategy-for-surprise.md",
+      "permalink": "/blog/strategy-for-surprise/",
+      "title": "Strategy for Surprise",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/the-attitude-of-the-gatherer",
+      "path": "/blog/the-attitude-of-the-gatherer",
+      "output": "src/content/blog/the-attitude-of-the-gatherer.md",
+      "permalink": "/blog/the-attitude-of-the-gatherer/",
+      "title": "The attitude of the gatherer",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/the-choice-of-choices",
+      "path": "/blog/the-choice-of-choices",
+      "output": "src/content/blog/the-choice-of-choices.md",
+      "permalink": "/blog/the-choice-of-choices/",
+      "title": "The choice of choices",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/the-importance-of-that-which-is-not-there",
+      "path": "/blog/the-importance-of-that-which-is-not-there",
+      "output": "src/content/blog/the-importance-of-that-which-is-not-there.md",
+      "permalink": "/blog/the-importance-of-that-which-is-not-there/",
+      "title": "The importance of that which is not there",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/the-method-of-socrates",
+      "path": "/blog/the-method-of-socrates",
+      "output": "src/content/blog/the-method-of-socrates.md",
+      "permalink": "/blog/the-method-of-socrates/",
+      "title": "The Method of Socrates",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/the-n1principle",
+      "path": "/blog/the-n1principle",
+      "output": "src/content/blog/the-n1principle.md",
+      "permalink": "/blog/the-n1principle/",
+      "title": "The n±1principle: higher, wider, different.",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/the-nameless-reader",
+      "path": "/blog/the-nameless-reader",
+      "output": "src/content/blog/the-nameless-reader.md",
+      "permalink": "/blog/the-nameless-reader/",
+      "title": "The nameless reader",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/the-obvious-too-is-hard-to-observe",
+      "path": "/blog/the-obvious-too-is-hard-to-observe",
+      "output": "src/content/blog/the-obvious-too-is-hard-to-observe.md",
+      "permalink": "/blog/the-obvious-too-is-hard-to-observe/",
+      "title": "The obvious too, is hard to observe",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/the-small-wheel-listen-ask-speak",
+      "path": "/blog/the-small-wheel-listen-ask-speak",
+      "output": "src/content/blog/the-small-wheel-listen-ask-speak.md",
+      "permalink": "/blog/the-small-wheel-listen-ask-speak/",
+      "title": "The Small Wheel: Listen. Ask. Speak!",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/there-are-three-kinds-of-criticism-i",
+      "path": "/blog/there-are-three-kinds-of-criticism-i",
+      "output": "src/content/blog/there-are-three-kinds-of-criticism-i.md",
+      "permalink": "/blog/there-are-three-kinds-of-criticism-i/",
+      "title": "There are three kinds of criticism",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/there-is-a-time-for-everything-but-it-does-not-wait",
+      "path": "/blog/there-is-a-time-for-everything-but-it-does-not-wait",
+      "output": "src/content/blog/there-is-a-time-for-everything-but-it-does-not-wait.md",
+      "permalink": "/blog/there-is-a-time-for-everything-but-it-does-not-wait/",
+      "title": "There is a time for everything",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/to-do-things-with-words-discern-communication-from-expression",
+      "path": "/blog/to-do-things-with-words-discern-communication-from-expression",
+      "output": "src/content/blog/to-do-things-with-words-discern-communication-from-expression.md",
+      "permalink": "/blog/to-do-things-with-words-discern-communication-from-expression/",
+      "title": "To do things with words discern communication from expression",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/to-kill-your-parents-you-keep-them-silent",
+      "path": "/blog/to-kill-your-parents-you-keep-them-silent",
+      "output": "src/content/blog/to-kill-your-parents-you-keep-them-silent.md",
+      "permalink": "/blog/to-kill-your-parents-you-keep-them-silent/",
+      "title": "To kill your parents you keep them silent",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/too-big-or-small-for-us-looks-all-the-same",
+      "path": "/blog/too-big-or-small-for-us-looks-all-the-same",
+      "output": "src/content/blog/too-big-or-small-for-us-looks-all-the-same.md",
+      "permalink": "/blog/too-big-or-small-for-us-looks-all-the-same/",
+      "title": "Too big or small for us looks all the same",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/variations-on-the-golden-rule",
+      "path": "/blog/variations-on-the-golden-rule",
+      "output": "src/content/blog/variations-on-the-golden-rule.md",
+      "permalink": "/blog/variations-on-the-golden-rule/",
+      "title": "Variations on a Golden Rule",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/what-happens-to-me-is-because-of-me",
+      "path": "/blog/what-happens-to-me-is-because-of-me",
+      "output": "src/content/blog/what-happens-to-me-is-because-of-me.md",
+      "permalink": "/blog/what-happens-to-me-is-because-of-me/",
+      "title": "What happens to me is because of me!",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/when-the-king-is-naked",
+      "path": "/blog/when-the-king-is-naked",
+      "output": "src/content/blog/when-the-king-is-naked.md",
+      "permalink": "/blog/when-the-king-is-naked/",
+      "title": "When the king is naked",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/when-the-water-raises-so-does-the-boat",
+      "path": "/blog/when-the-water-raises-so-does-the-boat",
+      "output": "src/content/blog/when-the-water-raises-so-does-the-boat.md",
+      "permalink": "/blog/when-the-water-raises-so-does-the-boat/",
+      "title": "Strategy of the cork",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/where-do-you-live",
+      "path": "/blog/where-do-you-live",
+      "output": "src/content/blog/where-do-you-live.md",
+      "permalink": "/blog/where-do-you-live/",
+      "title": "Where do you live?",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/who-makes-your-words",
+      "path": "/blog/who-makes-your-words",
+      "output": "src/content/blog/who-makes-your-words.md",
+      "permalink": "/blog/who-makes-your-words/",
+      "title": "Who makes your words?",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/why-are-the-wise-words-so-boring",
+      "path": "/blog/why-are-the-wise-words-so-boring",
+      "output": "src/content/blog/why-are-the-wise-words-so-boring.md",
+      "permalink": "/blog/why-are-the-wise-words-so-boring/",
+      "title": "Why are the wise words so boring?",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/why-dont-we-learn-from-history",
+      "path": "/blog/why-dont-we-learn-from-history",
+      "output": "src/content/blog/why-dont-we-learn-from-history.md",
+      "permalink": "/blog/why-dont-we-learn-from-history/",
+      "title": "Why don’t we learn from History?",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/you-dont-need-to-know-everything",
+      "path": "/blog/you-dont-need-to-know-everything",
+      "output": "src/content/blog/you-dont-need-to-know-everything.md",
+      "permalink": "/blog/you-dont-need-to-know-everything/",
+      "title": "You don’t need to know everything?",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/blog/your-freedom-is-often-limited-to-your-points-of-view",
+      "path": "/blog/your-freedom-is-often-limited-to-your-points-of-view",
+      "output": "src/content/blog/your-freedom-is-often-limited-to-your-points-of-view.md",
+      "permalink": "/blog/your-freedom-is-often-limited-to-your-points-of-view/",
+      "title": "Your freedom is limited to your points of view",
+      "kind": "blog"
+    },
+    {
+      "source": "http://wisdom.tenner.org/critical-thinking-is-disobedient-not-correct.html",
+      "path": "/critical-thinking-is-disobedient-not-correct.html",
+      "output": "src/content/pages/critical-thinking-is-disobedient-not-correct.md",
+      "permalink": "/critical-thinking-is-disobedient-not-correct.html",
+      "title": "Critical thinking is disobedient, not correct",
+      "kind": "article"
+    },
+    {
+      "source": "http://wisdom.tenner.org/des-choix-de-la-spiritualiteacute.html",
+      "path": "/des-choix-de-la-spiritualiteacute.html",
+      "output": "src/content/pages/des-choix-de-la-spiritualiteacute.md",
+      "permalink": "/des-choix-de-la-spiritualiteacute.html",
+      "title": "Des choix de la spiritualité",
+      "kind": "article"
+    },
+    {
+      "source": "http://wisdom.tenner.org/doubts.html",
+      "path": "/doubts.html",
+      "output": "src/content/pages/doubts.md",
+      "permalink": "/doubts.html",
+      "title": "Doubts",
+      "kind": "article"
+    },
+    {
+      "source": "http://wisdom.tenner.org/ethos-or-how-i-learned-some-wisdom.html",
+      "path": "/ethos-or-how-i-learned-some-wisdom.html",
+      "output": "src/content/pages/ethos-or-how-i-learned-some-wisdom.md",
+      "permalink": "/ethos-or-how-i-learned-some-wisdom.html",
+      "title": "Ethos or How I Learned Some Wisdom",
+      "kind": "article"
+    },
+    {
+      "source": "http://wisdom.tenner.org/four-pillars-of-wisdom.html",
+      "path": "/four-pillars-of-wisdom.html",
+      "output": "src/content/pages/four-pillars-of-wisdom.md",
+      "permalink": "/four-pillars-of-wisdom.html",
+      "title": "Four pillars of Wisdom A personal quest for a civilisation of living life",
+      "kind": "article"
+    },
+    {
+      "source": "http://wisdom.tenner.org/good-judgment-is-the-second-pillar-of-wisdom.html",
+      "path": "/good-judgment-is-the-second-pillar-of-wisdom.html",
+      "output": "src/content/pages/good-judgment-is-the-second-pillar-of-wisdom.md",
+      "permalink": "/good-judgment-is-the-second-pillar-of-wisdom.html",
+      "title": "[II] Good Judgment is the Second Pillar of Wisdom",
+      "kind": "article"
+    },
+    {
+      "source": "http://wisdom.tenner.org/index.html",
+      "path": "/index.html",
+      "output": "src/content/pages/index.md",
+      "permalink": "/",
+      "title": "Wisdom, sleeping..",
+      "kind": "article"
+    },
+    {
+      "source": "http://wisdom.tenner.org/powerful-inaction-conspicuous-absence-bountiful-void.html",
+      "path": "/powerful-inaction-conspicuous-absence-bountiful-void.html",
+      "output": "src/content/pages/powerful-inaction-conspicuous-absence-bountiful-void.md",
+      "permalink": "/powerful-inaction-conspicuous-absence-bountiful-void.html",
+      "title": "Powerful inaction, conspicuous absence, bountiful void",
+      "kind": "article"
+    },
+    {
+      "source": "http://wisdom.tenner.org/secret-life-of-the-obvious.html",
+      "path": "/secret-life-of-the-obvious.html",
+      "output": "src/content/pages/secret-life-of-the-obvious.md",
+      "permalink": "/secret-life-of-the-obvious.html",
+      "title": "Secret Life of the Obvious",
+      "kind": "article"
+    },
+    {
+      "source": "http://wisdom.tenner.org/strategy-of-surprise.html",
+      "path": "/strategy-of-surprise.html",
+      "output": "src/content/pages/strategy-of-surprise.md",
+      "permalink": "/strategy-of-surprise.html",
+      "title": "Strategy: Preparing for , against and the Surprise",
+      "kind": "article"
+    },
+    {
+      "source": "http://wisdom.tenner.org/the-fascination-of-paradox.html",
+      "path": "/the-fascination-of-paradox.html",
+      "output": "src/content/pages/the-fascination-of-paradox.md",
+      "permalink": "/the-fascination-of-paradox.html",
+      "title": "The fascination of Paradox Learning from not understanding",
+      "kind": "article"
+    },
+    {
+      "source": "http://wisdom.tenner.org/the-first-pillar-of-wisdom-wise-knowledge.html",
+      "path": "/the-first-pillar-of-wisdom-wise-knowledge.html",
+      "output": "src/content/pages/the-first-pillar-of-wisdom-wise-knowledge.md",
+      "permalink": "/the-first-pillar-of-wisdom-wise-knowledge.html",
+      "title": "(I) Wise Knowledge; a way to understand knowledge",
+      "kind": "article"
+    },
+    {
+      "source": "http://wisdom.tenner.org/the-n-plus-minus-one-principle-higher-wider-different.html",
+      "path": "/the-n-plus-minus-one-principle-higher-wider-different.html",
+      "output": "src/content/pages/the-n-plus-minus-one-principle-higher-wider-different.md",
+      "permalink": "/the-n-plus-minus-one-principle-higher-wider-different.html",
+      "title": "The n plus minus one principle: higher, wider, different...",
+      "kind": "article"
+    },
+    {
+      "source": "http://wisdom.tenner.org/the-power-to-make-things-simple.html",
+      "path": "/the-power-to-make-things-simple.html",
+      "output": "src/content/pages/the-power-to-make-things-simple.md",
+      "permalink": "/the-power-to-make-things-simple.html",
+      "title": "_",
+      "kind": "article"
+    },
+    {
+      "source": "http://wisdom.tenner.org/the-rectification-of-meaning.html",
+      "path": "/the-rectification-of-meaning.html",
+      "output": "src/content/pages/the-rectification-of-meaning.md",
+      "permalink": "/the-rectification-of-meaning.html",
+      "title": "The Rectification of Meaning",
+      "kind": "article"
+    },
+    {
+      "source": "http://wisdom.tenner.org/the-state-of-the-art---an-impression.html",
+      "path": "/the-state-of-the-art---an-impression.html",
+      "output": "src/content/pages/the-state-of-the-art---an-impression.md",
+      "permalink": "/the-state-of-the-art---an-impression.html",
+      "title": "The \"State of the Art\" - an impression",
+      "kind": "article"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/8309948",
+      "path": "/this-reminds-me-of-a-story/8309948",
+      "output": "src/content/stories/8309948.md",
+      "permalink": "/this-reminds-me-of-a-story/8309948/",
+      "title": "111 teaching stories of Nasreddin Hodja",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/a-cloak-of-shadow-may-count",
+      "path": "/this-reminds-me-of-a-story/a-cloak-of-shadow-may-count",
+      "output": "src/content/stories/a-cloak-of-shadow-may-count.md",
+      "permalink": "/this-reminds-me-of-a-story/a-cloak-of-shadow-may-count/",
+      "title": "A cloak of shadow may count...",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/a-gift-of-calling-names",
+      "path": "/this-reminds-me-of-a-story/a-gift-of-calling-names",
+      "output": "src/content/stories/a-gift-of-calling-names.md",
+      "permalink": "/this-reminds-me-of-a-story/a-gift-of-calling-names/",
+      "title": "A gift of calling names",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/a-pot-is-born",
+      "path": "/this-reminds-me-of-a-story/a-pot-is-born",
+      "output": "src/content/stories/a-pot-is-born.md",
+      "permalink": "/this-reminds-me-of-a-story/a-pot-is-born/",
+      "title": "A pot is born",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/a-silly-joke",
+      "path": "/this-reminds-me-of-a-story/a-silly-joke",
+      "output": "src/content/stories/a-silly-joke.md",
+      "permalink": "/this-reminds-me-of-a-story/a-silly-joke/",
+      "title": "A silly joke",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/a-turkish-bath",
+      "path": "/this-reminds-me-of-a-story/a-turkish-bath",
+      "output": "src/content/stories/a-turkish-bath.md",
+      "permalink": "/this-reminds-me-of-a-story/a-turkish-bath/",
+      "title": "A Turkish bath...",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/about-giving-and-taking",
+      "path": "/this-reminds-me-of-a-story/about-giving-and-taking",
+      "output": "src/content/stories/about-giving-and-taking.md",
+      "permalink": "/this-reminds-me-of-a-story/about-giving-and-taking/",
+      "title": "About giving and taking",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/all-with-a-grain-of-patience",
+      "path": "/this-reminds-me-of-a-story/all-with-a-grain-of-patience",
+      "output": "src/content/stories/all-with-a-grain-of-patience.md",
+      "permalink": "/this-reminds-me-of-a-story/all-with-a-grain-of-patience/",
+      "title": "All, with a grain of patience...",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/bulls-eye-this-is-how-i-shoot-64",
+      "path": "/this-reminds-me-of-a-story/bulls-eye-this-is-how-i-shoot-64",
+      "output": "src/content/stories/bulls-eye-this-is-how-i-shoot-64.md",
+      "permalink": "/this-reminds-me-of-a-story/bulls-eye-this-is-how-i-shoot-64/",
+      "title": "​Bulls’ eye - This is how I shoot 64",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/but-in-the-end-i-prevailed",
+      "path": "/this-reminds-me-of-a-story/but-in-the-end-i-prevailed",
+      "output": "src/content/stories/but-in-the-end-i-prevailed.md",
+      "permalink": "/this-reminds-me-of-a-story/but-in-the-end-i-prevailed/",
+      "title": "But in the end, I prevailed!",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/divine-justice-69",
+      "path": "/this-reminds-me-of-a-story/divine-justice-69",
+      "output": "src/content/stories/divine-justice-69.md",
+      "permalink": "/this-reminds-me-of-a-story/divine-justice-69/",
+      "title": "Divine justice 69",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/do-you-still-carry-her",
+      "path": "/this-reminds-me-of-a-story/do-you-still-carry-her",
+      "output": "src/content/stories/do-you-still-carry-her.md",
+      "permalink": "/this-reminds-me-of-a-story/do-you-still-carry-her/",
+      "title": "Do you still carry her?",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/dont-mistake-cash-with-advice",
+      "path": "/this-reminds-me-of-a-story/dont-mistake-cash-with-advice",
+      "output": "src/content/stories/dont-mistake-cash-with-advice.md",
+      "permalink": "/this-reminds-me-of-a-story/dont-mistake-cash-with-advice/",
+      "title": "Don't mistake cash with advice",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/dreams-turn-real",
+      "path": "/this-reminds-me-of-a-story/dreams-turn-real",
+      "output": "src/content/stories/dreams-turn-real.md",
+      "permalink": "/this-reminds-me-of-a-story/dreams-turn-real/",
+      "title": "Dreams turn real",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/duck-soup",
+      "path": "/this-reminds-me-of-a-story/duck-soup",
+      "output": "src/content/stories/duck-soup.md",
+      "permalink": "/this-reminds-me-of-a-story/duck-soup/",
+      "title": "Duck soup",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/early-bird",
+      "path": "/this-reminds-me-of-a-story/early-bird",
+      "output": "src/content/stories/early-bird.md",
+      "permalink": "/this-reminds-me-of-a-story/early-bird/",
+      "title": "Early bird catches de worm?",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/educating-the-donkey",
+      "path": "/this-reminds-me-of-a-story/educating-the-donkey",
+      "output": "src/content/stories/educating-the-donkey.md",
+      "permalink": "/this-reminds-me-of-a-story/educating-the-donkey/",
+      "title": "Educating donkeys",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/excuses",
+      "path": "/this-reminds-me-of-a-story/excuses",
+      "output": "src/content/stories/excuses.md",
+      "permalink": "/this-reminds-me-of-a-story/excuses/",
+      "title": "Excuses...",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/filial-piety",
+      "path": "/this-reminds-me-of-a-story/filial-piety",
+      "output": "src/content/stories/filial-piety.md",
+      "permalink": "/this-reminds-me-of-a-story/filial-piety/",
+      "title": "Filial piety",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/for-the-smell-of-food-the-sound-of-money",
+      "path": "/this-reminds-me-of-a-story/for-the-smell-of-food-the-sound-of-money",
+      "output": "src/content/stories/for-the-smell-of-food-the-sound-of-money.md",
+      "permalink": "/this-reminds-me-of-a-story/for-the-smell-of-food-the-sound-of-money/",
+      "title": "For the smell of food, the sound of money...",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/foreword",
+      "path": "/this-reminds-me-of-a-story/foreword",
+      "output": "src/content/stories/foreword.md",
+      "permalink": "/this-reminds-me-of-a-story/foreword/",
+      "title": "Foreword",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/free-lunch-66",
+      "path": "/this-reminds-me-of-a-story/free-lunch-66",
+      "output": "src/content/stories/free-lunch-66.md",
+      "permalink": "/this-reminds-me-of-a-story/free-lunch-66/",
+      "title": "Free lunch 66",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/get-the-goat-out-of-the-house",
+      "path": "/this-reminds-me-of-a-story/get-the-goat-out-of-the-house",
+      "output": "src/content/stories/get-the-goat-out-of-the-house.md",
+      "permalink": "/this-reminds-me-of-a-story/get-the-goat-out-of-the-house/",
+      "title": "Get the goat out of the house",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/god-speaks-to-them",
+      "path": "/this-reminds-me-of-a-story/god-speaks-to-them",
+      "output": "src/content/stories/god-speaks-to-them.md",
+      "permalink": "/this-reminds-me-of-a-story/god-speaks-to-them/",
+      "title": "God speaks to them",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/half-your-life-and-all-your-life",
+      "path": "/this-reminds-me-of-a-story/half-your-life-and-all-your-life",
+      "output": "src/content/stories/half-your-life-and-all-your-life.md",
+      "permalink": "/this-reminds-me-of-a-story/half-your-life-and-all-your-life/",
+      "title": "Half your life and all your life",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/hodjas-nail-65",
+      "path": "/this-reminds-me-of-a-story/hodjas-nail-65",
+      "output": "src/content/stories/hodjas-nail-65.md",
+      "permalink": "/this-reminds-me-of-a-story/hodjas-nail-65/",
+      "title": "Hodja’s nail  65",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/how-many-sparrows-are-we-worth",
+      "path": "/this-reminds-me-of-a-story/how-many-sparrows-are-we-worth",
+      "output": "src/content/stories/how-many-sparrows-are-we-worth.md",
+      "permalink": "/this-reminds-me-of-a-story/how-many-sparrows-are-we-worth/",
+      "title": "How many sparrows are we worth?",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/i-smuggle-common-sense",
+      "path": "/this-reminds-me-of-a-story/i-smuggle-common-sense",
+      "output": "src/content/stories/i-smuggle-common-sense.md",
+      "permalink": "/this-reminds-me-of-a-story/i-smuggle-common-sense/",
+      "title": "I smuggle common sense",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/ibn-khaldouns-mule",
+      "path": "/this-reminds-me-of-a-story/ibn-khaldouns-mule",
+      "output": "src/content/stories/ibn-khaldouns-mule.md",
+      "permalink": "/this-reminds-me-of-a-story/ibn-khaldouns-mule/",
+      "title": "Ibn Khaldoun's mule",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/imam-bayildy",
+      "path": "/this-reminds-me-of-a-story/imam-bayildy",
+      "output": "src/content/stories/imam-bayildy.md",
+      "permalink": "/this-reminds-me-of-a-story/imam-bayildy/",
+      "title": "Imam Bayildy",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/justice-to-the-people-in-a-garden-of-truths",
+      "path": "/this-reminds-me-of-a-story/justice-to-the-people-in-a-garden-of-truths",
+      "output": "src/content/stories/justice-to-the-people-in-a-garden-of-truths.md",
+      "permalink": "/this-reminds-me-of-a-story/justice-to-the-people-in-a-garden-of-truths/",
+      "title": "The wise know it, all people are somewhat right",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/justice-to-the-people-with-good-measure",
+      "path": "/this-reminds-me-of-a-story/justice-to-the-people-with-good-measure",
+      "output": "src/content/stories/justice-to-the-people-with-good-measure.md",
+      "permalink": "/this-reminds-me-of-a-story/justice-to-the-people-with-good-measure/",
+      "title": "Not much to say",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/lame-duck",
+      "path": "/this-reminds-me-of-a-story/lame-duck",
+      "output": "src/content/stories/lame-duck.md",
+      "permalink": "/this-reminds-me-of-a-story/lame-duck/",
+      "title": "Lame Duck",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/language-of-signs",
+      "path": "/this-reminds-me-of-a-story/language-of-signs",
+      "output": "src/content/stories/language-of-signs.md",
+      "permalink": "/this-reminds-me-of-a-story/language-of-signs/",
+      "title": "Misunderstanding signs mai help...",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/laws-of-the-market",
+      "path": "/this-reminds-me-of-a-story/laws-of-the-market",
+      "output": "src/content/stories/laws-of-the-market.md",
+      "permalink": "/this-reminds-me-of-a-story/laws-of-the-market/",
+      "title": "Laws of the market",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/me-again-68",
+      "path": "/this-reminds-me-of-a-story/me-again-68",
+      "output": "src/content/stories/me-again-68.md",
+      "permalink": "/this-reminds-me-of-a-story/me-again-68/",
+      "title": "Me again 68",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/mourning-that-comes-from-the-heart",
+      "path": "/this-reminds-me-of-a-story/mourning-that-comes-from-the-heart",
+      "output": "src/content/stories/mourning-that-comes-from-the-heart.md",
+      "permalink": "/this-reminds-me-of-a-story/mourning-that-comes-from-the-heart/",
+      "title": "Mourning that comes from the heart",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/one-famous-strike-of-scimitar",
+      "path": "/this-reminds-me-of-a-story/one-famous-strike-of-scimitar",
+      "output": "src/content/stories/one-famous-strike-of-scimitar.md",
+      "permalink": "/this-reminds-me-of-a-story/one-famous-strike-of-scimitar/",
+      "title": "We do what we can",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/one-may-need-a-mirror-to-see-the-truth-73",
+      "path": "/this-reminds-me-of-a-story/one-may-need-a-mirror-to-see-the-truth-73",
+      "output": "src/content/stories/one-may-need-a-mirror-to-see-the-truth-73.md",
+      "permalink": "/this-reminds-me-of-a-story/one-may-need-a-mirror-to-see-the-truth-73/",
+      "title": "One may need a mirror to see the truth 73",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/point-of-view",
+      "path": "/this-reminds-me-of-a-story/point-of-view",
+      "output": "src/content/stories/point-of-view.md",
+      "permalink": "/this-reminds-me-of-a-story/point-of-view/",
+      "title": "Point of view",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/prayers",
+      "path": "/this-reminds-me-of-a-story/prayers",
+      "output": "src/content/stories/prayers.md",
+      "permalink": "/this-reminds-me-of-a-story/prayers/",
+      "title": "Prayers",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/right-time-for-asking",
+      "path": "/this-reminds-me-of-a-story/right-time-for-asking",
+      "output": "src/content/stories/right-time-for-asking.md",
+      "permalink": "/this-reminds-me-of-a-story/right-time-for-asking/",
+      "title": "Right time for asking",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/secrets-of-the-saints",
+      "path": "/this-reminds-me-of-a-story/secrets-of-the-saints",
+      "output": "src/content/stories/secrets-of-the-saints.md",
+      "permalink": "/this-reminds-me-of-a-story/secrets-of-the-saints/",
+      "title": "Secrets of the Saints",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/seek-and-you-will-find-67",
+      "path": "/this-reminds-me-of-a-story/seek-and-you-will-find-67",
+      "output": "src/content/stories/seek-and-you-will-find-67.md",
+      "permalink": "/this-reminds-me-of-a-story/seek-and-you-will-find-67/",
+      "title": "Seek and you will find 67",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/seven-monkeys",
+      "path": "/this-reminds-me-of-a-story/seven-monkeys",
+      "output": "src/content/stories/seven-monkeys.md",
+      "permalink": "/this-reminds-me-of-a-story/seven-monkeys/",
+      "title": "Seven monkeys",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/sharing-is-good",
+      "path": "/this-reminds-me-of-a-story/sharing-is-good",
+      "output": "src/content/stories/sharing-is-good.md",
+      "permalink": "/this-reminds-me-of-a-story/sharing-is-good/",
+      "title": "Sharing is good",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/son-of-somebody-54",
+      "path": "/this-reminds-me-of-a-story/son-of-somebody-54",
+      "output": "src/content/stories/son-of-somebody-54.md",
+      "permalink": "/this-reminds-me-of-a-story/son-of-somebody-54/",
+      "title": "Son of somebody",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/still-going-strong",
+      "path": "/this-reminds-me-of-a-story/still-going-strong",
+      "output": "src/content/stories/still-going-strong.md",
+      "permalink": "/this-reminds-me-of-a-story/still-going-strong/",
+      "title": "Still going strong !",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/stolen-63",
+      "path": "/this-reminds-me-of-a-story/stolen-63",
+      "output": "src/content/stories/stolen-63.md",
+      "permalink": "/this-reminds-me-of-a-story/stolen-63/",
+      "title": "Stolen 63",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/stone-soup",
+      "path": "/this-reminds-me-of-a-story/stone-soup",
+      "output": "src/content/stories/stone-soup.md",
+      "permalink": "/this-reminds-me-of-a-story/stone-soup/",
+      "title": "Stone soup",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/tamerlanes-elephant-71",
+      "path": "/this-reminds-me-of-a-story/tamerlanes-elephant-71",
+      "output": "src/content/stories/tamerlanes-elephant-71.md",
+      "permalink": "/this-reminds-me-of-a-story/tamerlanes-elephant-71/",
+      "title": "Tamerlane’s elephant 71",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/the-counsel-you-get",
+      "path": "/this-reminds-me-of-a-story/the-counsel-you-get",
+      "output": "src/content/stories/the-counsel-you-get.md",
+      "permalink": "/this-reminds-me-of-a-story/the-counsel-you-get/",
+      "title": "The counsel you get",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/the-edge-of-truth",
+      "path": "/this-reminds-me-of-a-story/the-edge-of-truth",
+      "output": "src/content/stories/the-edge-of-truth.md",
+      "permalink": "/this-reminds-me-of-a-story/the-edge-of-truth/",
+      "title": "The edge of Truth",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/the-finger",
+      "path": "/this-reminds-me-of-a-story/the-finger",
+      "output": "src/content/stories/the-finger.md",
+      "permalink": "/this-reminds-me-of-a-story/the-finger/",
+      "title": "Poisonous Gift",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/the-importance-of-not-being-understood",
+      "path": "/this-reminds-me-of-a-story/the-importance-of-not-being-understood",
+      "output": "src/content/stories/the-importance-of-not-being-understood.md",
+      "permalink": "/this-reminds-me-of-a-story/the-importance-of-not-being-understood/",
+      "title": "The art of dispute",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/the-proper-perspective-for-truth",
+      "path": "/this-reminds-me-of-a-story/the-proper-perspective-for-truth",
+      "output": "src/content/stories/the-proper-perspective-for-truth.md",
+      "permalink": "/this-reminds-me-of-a-story/the-proper-perspective-for-truth/",
+      "title": "The proper perspective for truth...",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/the-right-place-at-a-funeral",
+      "path": "/this-reminds-me-of-a-story/the-right-place-at-a-funeral",
+      "output": "src/content/stories/the-right-place-at-a-funeral.md",
+      "permalink": "/this-reminds-me-of-a-story/the-right-place-at-a-funeral/",
+      "title": "The right place at a funeral",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/the-right-place-for-halwa",
+      "path": "/this-reminds-me-of-a-story/the-right-place-for-halwa",
+      "output": "src/content/stories/the-right-place-for-halwa.md",
+      "permalink": "/this-reminds-me-of-a-story/the-right-place-for-halwa/",
+      "title": "The right place for halwa",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/the-wageror-gaining-by-losing",
+      "path": "/this-reminds-me-of-a-story/the-wageror-gaining-by-losing",
+      "output": "src/content/stories/the-wageror-gaining-by-losing.md",
+      "permalink": "/this-reminds-me-of-a-story/the-wageror-gaining-by-losing/",
+      "title": "The wager...or gaining by losing",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/the-worth-of-questions-62",
+      "path": "/this-reminds-me-of-a-story/the-worth-of-questions-62",
+      "output": "src/content/stories/the-worth-of-questions-62.md",
+      "permalink": "/this-reminds-me-of-a-story/the-worth-of-questions-62/",
+      "title": "The worth  of questions 62",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/there-is-a-time-for-everything-72",
+      "path": "/this-reminds-me-of-a-story/there-is-a-time-for-everything-72",
+      "output": "src/content/stories/there-is-a-time-for-everything-72.md",
+      "permalink": "/this-reminds-me-of-a-story/there-is-a-time-for-everything-72/",
+      "title": "There is a time for everything  72",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/thief-in-a-box",
+      "path": "/this-reminds-me-of-a-story/thief-in-a-box",
+      "output": "src/content/stories/thief-in-a-box.md",
+      "permalink": "/this-reminds-me-of-a-story/thief-in-a-box/",
+      "title": "You learn when you do",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/time-sitting-by-the-river",
+      "path": "/this-reminds-me-of-a-story/time-sitting-by-the-river",
+      "output": "src/content/stories/time-sitting-by-the-river.md",
+      "permalink": "/this-reminds-me-of-a-story/time-sitting-by-the-river/",
+      "title": "Time, sitting by the river",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/to-talk-with-kings",
+      "path": "/this-reminds-me-of-a-story/to-talk-with-kings",
+      "output": "src/content/stories/to-talk-with-kings.md",
+      "permalink": "/this-reminds-me-of-a-story/to-talk-with-kings/",
+      "title": "To talk with Kings",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/turn-your-other-cheek",
+      "path": "/this-reminds-me-of-a-story/turn-your-other-cheek",
+      "output": "src/content/stories/turn-your-other-cheek.md",
+      "permalink": "/this-reminds-me-of-a-story/turn-your-other-cheek/",
+      "title": "Turning your other cheek, with an eye for an eye",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/walking-on-water",
+      "path": "/this-reminds-me-of-a-story/walking-on-water",
+      "output": "src/content/stories/walking-on-water.md",
+      "permalink": "/this-reminds-me-of-a-story/walking-on-water/",
+      "title": "Walking on water",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/what-i-really-really-want",
+      "path": "/this-reminds-me-of-a-story/what-i-really-really-want",
+      "output": "src/content/stories/what-i-really-really-want.md",
+      "permalink": "/this-reminds-me-of-a-story/what-i-really-really-want/",
+      "title": "What I really, really want",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/what-is-air",
+      "path": "/this-reminds-me-of-a-story/what-is-air",
+      "output": "src/content/stories/what-is-air.md",
+      "permalink": "/this-reminds-me-of-a-story/what-is-air/",
+      "title": "What is air?",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/what-use-to-learn-when-you-are-old-70",
+      "path": "/this-reminds-me-of-a-story/what-use-to-learn-when-you-are-old-70",
+      "output": "src/content/stories/what-use-to-learn-when-you-are-old-70.md",
+      "permalink": "/this-reminds-me-of-a-story/what-use-to-learn-when-you-are-old-70/",
+      "title": "What use to learn when you are old? 70",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/what-will-i-say",
+      "path": "/this-reminds-me-of-a-story/what-will-i-say",
+      "output": "src/content/stories/what-will-i-say.md",
+      "permalink": "/this-reminds-me-of-a-story/what-will-i-say/",
+      "title": "What will I say?",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/when-the-whole-world-smells-of-fish",
+      "path": "/this-reminds-me-of-a-story/when-the-whole-world-smells-of-fish",
+      "output": "src/content/stories/when-the-whole-world-smells-of-fish.md",
+      "permalink": "/this-reminds-me-of-a-story/when-the-whole-world-smells-of-fish/",
+      "title": "When the whole world smells of fish",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/word-of-a-donkey",
+      "path": "/this-reminds-me-of-a-story/word-of-a-donkey",
+      "output": "src/content/stories/word-of-a-donkey.md",
+      "permalink": "/this-reminds-me-of-a-story/word-of-a-donkey/",
+      "title": "Word of a donkey!",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/yes-its-me",
+      "path": "/this-reminds-me-of-a-story/yes-its-me",
+      "output": "src/content/stories/yes-its-me.md",
+      "permalink": "/this-reminds-me-of-a-story/yes-its-me/",
+      "title": "Yes, it's me !",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/you-cannot-push-a-rope",
+      "path": "/this-reminds-me-of-a-story/you-cannot-push-a-rope",
+      "output": "src/content/stories/you-cannot-push-a-rope.md",
+      "permalink": "/this-reminds-me-of-a-story/you-cannot-push-a-rope/",
+      "title": "The sky is falling",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/this-reminds-me-of-a-story/you-find-things-where-they-are",
+      "path": "/this-reminds-me-of-a-story/you-find-things-where-they-are",
+      "output": "src/content/stories/you-find-things-where-they-are.md",
+      "permalink": "/this-reminds-me-of-a-story/you-find-things-where-they-are/",
+      "title": "You find things where they are",
+      "kind": "story"
+    },
+    {
+      "source": "http://wisdom.tenner.org/three-kinds-of-criticism.html",
+      "path": "/three-kinds-of-criticism.html",
+      "output": "src/content/pages/three-kinds-of-criticism.md",
+      "permalink": "/three-kinds-of-criticism.html",
+      "title": "There are three kinds of criticism",
+      "kind": "article"
+    },
+    {
+      "source": "http://wisdom.tenner.org/what-is-wisdom.html",
+      "path": "/what-is-wisdom.html",
+      "output": "src/content/pages/what-is-wisdom.md",
+      "permalink": "/what-is-wisdom.html",
+      "title": "What is wisdom?",
+      "kind": "article"
+    },
+    {
+      "source": "http://wisdom.tenner.org/why-wisdom-a-provisional-foreword.html",
+      "path": "/why-wisdom-a-provisional-foreword.html",
+      "output": "src/content/pages/why-wisdom-a-provisional-foreword.md",
+      "permalink": "/why-wisdom-a-provisional-foreword.html",
+      "title": "Why Wisdom, a Provisional Foreword",
+      "kind": "article"
+    },
+    {
+      "source": "http://wisdom.tenner.org/wise-conduct-is-the-third-pillar-of-wisdom.html",
+      "path": "/wise-conduct-is-the-third-pillar-of-wisdom.html",
+      "output": "src/content/pages/wise-conduct-is-the-third-pillar-of-wisdom.md",
+      "permalink": "/wise-conduct-is-the-third-pillar-of-wisdom.html",
+      "title": "WISE CONDUCT is the third pillar of wisdom",
+      "kind": "article"
+    }
+  ],
+  "assets": [
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/1125923.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/1125923.jpg",
+      "bytes": 55811
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/1339409967.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/1339409967.jpg",
+      "bytes": 55634
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/1352290.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/1352290.jpg",
+      "bytes": 40495
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/1382755.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/1382755.jpg",
+      "bytes": 38847
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/1460836.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/1460836.jpg",
+      "bytes": 28304
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/1567337.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/1567337.jpg",
+      "bytes": 17317
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/157150.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/157150.jpg",
+      "bytes": 34101
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/1786183.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/1786183.jpg",
+      "bytes": 21913
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/1949580.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/1949580.jpg",
+      "bytes": 15810
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/1974562.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/1974562.jpg",
+      "bytes": 11909
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/2240119.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/2240119.jpg",
+      "bytes": 5478
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/2246519.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/2246519.jpg",
+      "bytes": 13568
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/2273928.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/2273928.jpg",
+      "bytes": 47649
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/2331196.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/2331196.png",
+      "bytes": 115966
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/2346429.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/2346429.jpg",
+      "bytes": 20977
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/2515174.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/2515174.jpg",
+      "bytes": 8022
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/2660702.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/2660702.jpg",
+      "bytes": 16437
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/2740740.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/2740740.jpg",
+      "bytes": 6782
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/2800369.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/2800369.jpg",
+      "bytes": 1541
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/2841475.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/2841475.jpg",
+      "bytes": 6612
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/2933275.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/2933275.jpg",
+      "bytes": 156677
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/2987430.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/2987430.jpg",
+      "bytes": 20835
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/3117880.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/3117880.jpg",
+      "bytes": 27266
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/3537055.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/3537055.jpg",
+      "bytes": 9203
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/3656036.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/3656036.jpg",
+      "bytes": 24161
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/3669372.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/3669372.png",
+      "bytes": 1467
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/3748202.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/3748202.jpg",
+      "bytes": 26337
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/3797030.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/3797030.jpg",
+      "bytes": 38584
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/3920086.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/3920086.jpg",
+      "bytes": 30428
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/4638751.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/4638751.jpg",
+      "bytes": 16213
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/4705199.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/4705199.jpg",
+      "bytes": 46412
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/4709723.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/4709723.jpg",
+      "bytes": 33041
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/4956295.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/4956295.jpg",
+      "bytes": 6307
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/5042837.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/5042837.jpg",
+      "bytes": 80680
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/5113612.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/5113612.jpg",
+      "bytes": 21970
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/5113819.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/5113819.jpg",
+      "bytes": 34091
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/5184147.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/5184147.jpg",
+      "bytes": 43553
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/522132.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/522132.jpg",
+      "bytes": 21053
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/5297250.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/5297250.jpg",
+      "bytes": 40102
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/5415990.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/5415990.jpg",
+      "bytes": 41447
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/5543206.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/5543206.jpg",
+      "bytes": 37772
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/55926.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/55926.jpg",
+      "bytes": 27000
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/5602115.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/5602115.jpg",
+      "bytes": 27333
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/5866143.jpeg",
+      "path": "/assets/uploads/3/4/4/7/3447575/5866143.jpeg",
+      "bytes": 34384
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/6095321.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/6095321.jpg",
+      "bytes": 19306
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/6151956.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/6151956.jpg",
+      "bytes": 36207
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/6365358.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/6365358.jpg",
+      "bytes": 147110
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/644812.jpeg",
+      "path": "/assets/uploads/3/4/4/7/3447575/644812.jpeg",
+      "bytes": 20999
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/6573720.gif",
+      "path": "/assets/uploads/3/4/4/7/3447575/6573720.gif",
+      "bytes": 22726
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/670257.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/670257.jpg",
+      "bytes": 49375
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/695715.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/695715.jpg",
+      "bytes": 50935
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/7075753.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/7075753.jpg",
+      "bytes": 90534
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/730502.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/730502.jpg",
+      "bytes": 6235
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/7311771.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/7311771.jpg",
+      "bytes": 30054
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/7382453.gif",
+      "path": "/assets/uploads/3/4/4/7/3447575/7382453.gif",
+      "bytes": 56578
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/7415320.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/7415320.jpg",
+      "bytes": 4651
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/7422662.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/7422662.jpg",
+      "bytes": 18444
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/7607458.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/7607458.jpg",
+      "bytes": 24351
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/7621382.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/7621382.jpg",
+      "bytes": 58406
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/7777302.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/7777302.jpg",
+      "bytes": 51260
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/7781806.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/7781806.jpg",
+      "bytes": 34908
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/7794208.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/7794208.jpg",
+      "bytes": 27266
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/7822322.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/7822322.jpg",
+      "bytes": 24956
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/7892492.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/7892492.jpg",
+      "bytes": 98777
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/8017039.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/8017039.jpg",
+      "bytes": 68120
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/8203828.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/8203828.jpg",
+      "bytes": 10357
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/8298648.gif",
+      "path": "/assets/uploads/3/4/4/7/3447575/8298648.gif",
+      "bytes": 53332
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/8324338.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/8324338.jpg",
+      "bytes": 16490
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/8453723.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/8453723.jpg",
+      "bytes": 41859
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/8463375.gif",
+      "path": "/assets/uploads/3/4/4/7/3447575/8463375.gif",
+      "bytes": 55317
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/8467230.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/8467230.jpg",
+      "bytes": 25828
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/8523529.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/8523529.jpg",
+      "bytes": 22882
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/8530418.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/8530418.jpg",
+      "bytes": 48831
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/8640264.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/8640264.jpg",
+      "bytes": 15859
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/8659920.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/8659920.jpg",
+      "bytes": 52318
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/8686393.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/8686393.jpg",
+      "bytes": 16479
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/8886290.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/8886290.jpg",
+      "bytes": 49154
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/8957313.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/8957313.jpg",
+      "bytes": 5104
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/8958625.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/8958625.jpg",
+      "bytes": 39799
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/8991154.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/8991154.jpg",
+      "bytes": 35080
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/902754.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/902754.jpg",
+      "bytes": 88329
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/921899.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/921899.jpg",
+      "bytes": 32709
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/9223958.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/9223958.jpg",
+      "bytes": 33298
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/9356701.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/9356701.jpg",
+      "bytes": 39649
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/9387553.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/9387553.jpg",
+      "bytes": 27624
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/9631167.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/9631167.jpg",
+      "bytes": 15673
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/9663695.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/9663695.jpg",
+      "bytes": 50820
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/air-whirls-signs-pd_orig.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/air-whirls-signs-pd_orig.png",
+      "bytes": 4090
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/an-example-of-kintsugi-repair-by-david-pike_orig.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/an-example-of-kintsugi-repair-by-david-pike_orig.jpg",
+      "bytes": 9452
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/bajazeth-in-cage-timur-j-n-geiger-pd_orig.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/bajazeth-in-cage-timur-j-n-geiger-pd_orig.jpg",
+      "bytes": 30760
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/carlevernetmamlukewithdrawnsword2-234x300_orig.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/carlevernetmamlukewithdrawnsword2-234x300_orig.jpg",
+      "bytes": 23596
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/cave-dragon-knight_orig.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/cave-dragon-knight_orig.jpg",
+      "bytes": 60669
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/cloak_orig.gif",
+      "path": "/assets/uploads/3/4/4/7/3447575/cloak_orig.gif",
+      "bytes": 11546
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/dead-chicken-cc-by-nc-2-0-dr-case-2007-flickr-c_orig.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/dead-chicken-cc-by-nc-2-0-dr-case-2007-flickr-c_orig.jpg",
+      "bytes": 128063
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/dead-donkey-tr_orig.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/dead-donkey-tr_orig.png",
+      "bytes": 25842
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/des_choix_de_la_spiritualite_3.2.1.4_tenner_2020.pdf",
+      "path": "/assets/uploads/3/4/4/7/3447575/des_choix_de_la_spiritualite_3.2.1.4_tenner_2020.pdf",
+      "bytes": 1557946
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/doors-of-tamerlane-1872-1873-vereshchagin-the-pd_orig.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/doors-of-tamerlane-1872-1873-vereshchagin-the-pd_orig.jpg",
+      "bytes": 14670
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/doubting-thomas-by-caravaggio-tr_orig.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/doubting-thomas-by-caravaggio-tr_orig.png",
+      "bytes": 135011
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/durrer-doubts-transp_orig.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/durrer-doubts-transp_orig.png",
+      "bytes": 54623
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/editor/donkey-reading-book.jpeg",
+      "path": "/assets/uploads/3/4/4/7/3447575/editor/donkey-reading-book.jpeg",
+      "bytes": 8624
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/editor/elephant-riding-ok-pd.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/editor/elephant-riding-ok-pd.jpg",
+      "bytes": 8837
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/editor/epic-of-gilgamesh-story-of-the-flood-7th-century-bc-cc0-1-0-wikimedia.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/editor/epic-of-gilgamesh-story-of-the-flood-7th-century-bc-cc0-1-0-wikimedia.jpg",
+      "bytes": 12681
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/editor/esahubble-potw1717a-500.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/editor/esahubble-potw1717a-500.jpg",
+      "bytes": 6278
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/editor/fox-with-leeches-akirasaurus-at-drawceptioncom-tr.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/editor/fox-with-leeches-akirasaurus-at-drawceptioncom-tr.png",
+      "bytes": 140190
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/editor/mongol-archers-detail-pd.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/editor/mongol-archers-detail-pd.jpg",
+      "bytes": 14781
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/editor/samsara-bhavachakra-pd.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/editor/samsara-bhavachakra-pd.jpg",
+      "bytes": 14933
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/editor/starfish-stock.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/editor/starfish-stock.jpg",
+      "bytes": 8989
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/four-column-temple-2024-09-22-14-20-52tr_orig.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/four-column-temple-2024-09-22-14-20-52tr_orig.png",
+      "bytes": 25177
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/frog-burst-ox-and-the-frog-artist-charles-santore-tumblr-2010-tr_orig.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/frog-burst-ox-and-the-frog-artist-charles-santore-tumblr-2010-tr_orig.png",
+      "bytes": 60267
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/gaping-the-pill-tr_orig.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/gaping-the-pill-tr_orig.png",
+      "bytes": 91545
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/hagakure-water-rises-c-i-tenner-2007_orig.gif",
+      "path": "/assets/uploads/3/4/4/7/3447575/hagakure-water-rises-c-i-tenner-2007_orig.gif",
+      "bytes": 8966
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/hodie-mihi-cras-tibi-cc-by-sa-3-0-xauxa-h-kan-svensson-2009_orig.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/hodie-mihi-cras-tibi-cc-by-sa-3-0-xauxa-h-kan-svensson-2009_orig.jpg",
+      "bytes": 102636
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/horizon-2_orig.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/horizon-2_orig.jpg",
+      "bytes": 72254
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/horizon_orig.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/horizon_orig.jpg",
+      "bytes": 72254
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/how-stop-boiling_orig.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/how-stop-boiling_orig.jpg",
+      "bytes": 77136
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/impossible-figure-w-fool_orig.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/impossible-figure-w-fool_orig.jpg",
+      "bytes": 5874
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/jean-baptiste-jpg-pointing-up-leonardo-pd_orig.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/jean-baptiste-jpg-pointing-up-leonardo-pd_orig.jpg",
+      "bytes": 9358
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/jiu-jitsu-pose-pd_orig.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/jiu-jitsu-pose-pd_orig.png",
+      "bytes": 9487
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/loading-please-wait-cc-by-sa-2-0-jan-persiel-flickr-2016-det_orig.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/loading-please-wait-cc-by-sa-2-0-jan-persiel-flickr-2016-det_orig.jpg",
+      "bytes": 25150
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/mirror-cc-tropenmuseumtransp_orig.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/mirror-cc-tropenmuseumtransp_orig.png",
+      "bytes": 62035
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/mullas-loking-for-the-key-tr_orig.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/mullas-loking-for-the-key-tr_orig.png",
+      "bytes": 69494
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/murner-1512-nerrenbeschwerung-pd_orig.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/murner-1512-nerrenbeschwerung-pd_orig.jpg",
+      "bytes": 44837
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/n-1chess_orig.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/n-1chess_orig.jpg",
+      "bytes": 37230
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/no-evil-tr_orig.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/no-evil-tr_orig.png",
+      "bytes": 63287
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/overflowing-cup-clipart_orig.jpeg",
+      "path": "/assets/uploads/3/4/4/7/3447575/overflowing-cup-clipart_orig.jpeg",
+      "bytes": 9045
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/peacock-pearson-scott-foresman-pd-wikimedia-orig-tr_orig.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/peacock-pearson-scott-foresman-pd-wikimedia-orig-tr_orig.png",
+      "bytes": 301917
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/01-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/01-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "bytes": 98617
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/02-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/02-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "bytes": 114427
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/03-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/03-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "bytes": 127364
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/04-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/04-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "bytes": 99205
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/05-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/05-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "bytes": 106787
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/06-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/06-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "bytes": 89232
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/07-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/07-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "bytes": 98121
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/08-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/08-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "bytes": 108985
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/09-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/09-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "bytes": 97626
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/10-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/10-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "bytes": 108000
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/11-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/11-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "bytes": 115208
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/12-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/12-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "bytes": 110809
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/13-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/13-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "bytes": 45573
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/14-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/14-des-choix-de-la-spiritualit-i-tenner.jpg",
+      "bytes": 26814
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/3228170.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/3228170.jpg",
+      "bytes": 99099
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/3644329.gif",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/3644329.gif",
+      "bytes": 28490
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/4776098.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/4776098.jpg",
+      "bytes": 61888
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/4b814473fcfc4caa9954da5a3aceef0e-tr.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/4b814473fcfc4caa9954da5a3aceef0e-tr.png",
+      "bytes": 43820
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/634px-rite-of-passage-in-the-ottoman-empire-coeck-van-aelst-pieter-1533-s.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/634px-rite-of-passage-in-the-ottoman-empire-coeck-van-aelst-pieter-1533-s.jpg",
+      "bytes": 15436
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/a-bird-in-the-hand-is-worth-two-in-the-bushbritish-medal-art-society.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/a-bird-in-the-hand-is-worth-two-in-the-bushbritish-medal-art-society.jpg",
+      "bytes": 8158
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/auguste-preault-silence-cc-by-3-0-saliko-2016-transp.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/auguste-preault-silence-cc-by-3-0-saliko-2016-transp.png",
+      "bytes": 87157
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/beheading-detail-ethiopian-pd.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/beheading-detail-ethiopian-pd.jpg",
+      "bytes": 16361
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/bread-2022-06-21-15-56-47.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/bread-2022-06-21-15-56-47.jpg",
+      "bytes": 5440
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/brueghel-the-seven-acts-of-charity-pd.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/brueghel-the-seven-acts-of-charity-pd.jpg",
+      "bytes": 17452
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/candle-in-the-dark-dscn1265-pd.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/candle-in-the-dark-dscn1265-pd.jpg",
+      "bytes": 2185
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/caught-in-underwear.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/caught-in-underwear.jpg",
+      "bytes": 25158
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/coins-purse-bag-money-1468958-tmbwww-lds-org.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/coins-purse-bag-money-1468958-tmbwww-lds-org.jpg",
+      "bytes": 10005
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/court-of-fools-395x362.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/court-of-fools-395x362.jpg",
+      "bytes": 19841
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/davids-sling.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/davids-sling.jpg",
+      "bytes": 10438
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/donkey-laugh.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/donkey-laugh.jpg",
+      "bytes": 5398
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/donkey-publ-domain-pd-wikycom.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/donkey-publ-domain-pd-wikycom.jpg",
+      "bytes": 12577
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/donkey-stealing-fruits-ancient-egipt-cc-by-sa-2-0-fr-rama.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/donkey-stealing-fruits-ancient-egipt-cc-by-sa-2-0-fr-rama.jpg",
+      "bytes": 20297
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/drowning-of-st-peter-h-boeckl-cc-j-jaritz.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/drowning-of-st-peter-h-boeckl-cc-j-jaritz.jpg",
+      "bytes": 14408
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/elamite-mountain-goat-from-susa-3100-2900-b-c-e-housed-in-the-louvre-paris-2020-07-14-12-17-48.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/elamite-mountain-goat-from-susa-3100-2900-b-c-e-housed-in-the-louvre-paris-2020-07-14-12-17-48.jpg",
+      "bytes": 13193
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/ferry-2020-07-13-23-17-52.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/ferry-2020-07-13-23-17-52.jpg",
+      "bytes": 2825
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/friedrich-john-nach-matth-us-loder-sisyphus-wiki-pd.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/friedrich-john-nach-matth-us-loder-sisyphus-wiki-pd.jpg",
+      "bytes": 8406
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/frog-hoiquantruyen-com-2016.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/frog-hoiquantruyen-com-2016.png",
+      "bytes": 100572
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/full-size-metal-replica-of-nasa-pioneer-plaque-tr.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/full-size-metal-replica-of-nasa-pioneer-plaque-tr.png",
+      "bytes": 116440
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/goldfinger-c-ioan-tenner-2007.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/goldfinger-c-ioan-tenner-2007.jpg",
+      "bytes": 3883
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/halwa.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/halwa.jpg",
+      "bytes": 12647
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/hedidit-tr.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/hedidit-tr.png",
+      "bytes": 116667
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/ig-cimponeriu-la-prison-des-livres-small.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/ig-cimponeriu-la-prison-des-livres-small.jpg",
+      "bytes": 131036
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/image-2024-02-05-202551221.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/image-2024-02-05-202551221.png",
+      "bytes": 9170
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/image-2024-02-05-214324154.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/image-2024-02-05-214324154.png",
+      "bytes": 20938
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/image-2024-04-23-181419775.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/image-2024-04-23-181419775.png",
+      "bytes": 2889
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/image-2024-04-23-184312565.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/image-2024-04-23-184312565.png",
+      "bytes": 16797
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/ioan-mafra-santo-isidoro-dec-2018-img-0079_1.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/ioan-mafra-santo-isidoro-dec-2018-img-0079_1.jpg",
+      "bytes": 33182
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/istockphoto-1471399411-612x612.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/istockphoto-1471399411-612x612.jpg",
+      "bytes": 1266
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/j-zeps-grosvalds-kurds-on-the-roof-pd-google-art-project.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/j-zeps-grosvalds-kurds-on-the-roof-pd-google-art-project.jpg",
+      "bytes": 11890
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/jesus-walk-on-water-det-wikim-2020-07-13-20-32-32.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/jesus-walk-on-water-det-wikim-2020-07-13-20-32-32.jpg",
+      "bytes": 16290
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/juggler-coloured.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/juggler-coloured.jpg",
+      "bytes": 8188
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/laotzu-500-725.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/laotzu-500-725.png",
+      "bytes": 60661
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/lustige-naturgeschichte-oder-zoologia-comica-wiki-mozaic.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/lustige-naturgeschichte-oder-zoologia-comica-wiki-mozaic.png",
+      "bytes": 54279
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/mongoose-meets-cobra-fb-ru-2018-tr.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/mongoose-meets-cobra-fb-ru-2018-tr.png",
+      "bytes": 132272
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/monk-carrying-woman-1-300x234.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/monk-carrying-woman-1-300x234.jpg",
+      "bytes": 7911
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/monkeys.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/monkeys.jpg",
+      "bytes": 11173
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/mourning-mingrelians-pranishnikoff-1884.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/mourning-mingrelians-pranishnikoff-1884.jpg",
+      "bytes": 26890
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/mulla-nasrudin-richard-williams-26-714x1024.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/mulla-nasrudin-richard-williams-26-714x1024.jpg",
+      "bytes": 5882
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/mullaarcher.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/mullaarcher.jpg",
+      "bytes": 8339
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/nasreddin-cc-topkapi.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/nasreddin-cc-topkapi.jpg",
+      "bytes": 18042
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/needle-haystack.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/needle-haystack.jpg",
+      "bytes": 14246
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/nutshell-900-woodycraft-net-2015tr.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/nutshell-900-woodycraft-net-2015tr.png",
+      "bytes": 81645
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/on-off-the-donkey.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/on-off-the-donkey.jpg",
+      "bytes": 14768
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/peacock-drawing-fantasypeacock-drawing-fantasy-royalty-free-vector-image.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/peacock-drawing-fantasypeacock-drawing-fantasy-royalty-free-vector-image.jpg",
+      "bytes": 16976
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/poison-cookies.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/poison-cookies.jpg",
+      "bytes": 25035
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/pot-is-born-2020-07-21-19-33-46.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/pot-is-born-2020-07-21-19-33-46.jpg",
+      "bytes": 22411
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/protecting-with-sword-and-shield.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/protecting-with-sword-and-shield.png",
+      "bytes": 192897
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/roasted-aubergine.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/roasted-aubergine.jpg",
+      "bytes": 23533
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/saddled-donkey-with-blinkers-fr-d-ric-t-faber-print-maker-1782-1844-rijksmuseum-cc0-1-0-look-and-learn-com.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/saddled-donkey-with-blinkers-fr-d-ric-t-faber-print-maker-1782-1844-rijksmuseum-cc0-1-0-look-and-learn-com.jpg",
+      "bytes": 7250
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/samurai-pintrest-tr.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/samurai-pintrest-tr.png",
+      "bytes": 69290
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/silence-1-jpg-large-1.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/silence-1-jpg-large-1.jpg",
+      "bytes": 8770
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/smell-of-soup.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/smell-of-soup.jpg",
+      "bytes": 30645
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/sparrow-passer-domesticus-feeding-from-hand-pd.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/sparrow-passer-domesticus-feeding-from-hand-pd.jpg",
+      "bytes": 8118
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/steam-n.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/steam-n.jpg",
+      "bytes": 3089
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/stone-soup-2.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/stone-soup-2.jpg",
+      "bytes": 4014
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/the-proper-study-of-mankind-is-man.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/the-proper-study-of-mankind-is-man.jpg",
+      "bytes": 15534
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/the-stoning-of-stephen-tr.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/the-stoning-of-stephen-tr.png",
+      "bytes": 198645
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/thiefson-c-i-tenner-2007.gif",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/thiefson-c-i-tenner-2007.gif",
+      "bytes": 33650
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/thinker-of-hamangiatransparent-bkgrfit.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/thinker-of-hamangiatransparent-bkgrfit.png",
+      "bytes": 59016
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/thinking-it-over-shoeshine-boy1.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/thinking-it-over-shoeshine-boy1.png",
+      "bytes": 184057
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/tiger-to-attack-tr.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/tiger-to-attack-tr.png",
+      "bytes": 45694
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/tigers-whisker-small.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/tigers-whisker-small.jpg",
+      "bytes": 13336
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/toe-royalty-free-foot-clipart-illustration-illustrationsof-com-2013.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/toe-royalty-free-foot-clipart-illustration-illustrationsof-com-2013.jpg",
+      "bytes": 5526
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/traveler-ioan-tenner-1998.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/traveler-ioan-tenner-1998.png",
+      "bytes": 58799
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/published/turkish-baths-prinsep-w-pd.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/published/turkish-baths-prinsep-w-pd.jpg",
+      "bytes": 7454
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/salomon-s-judgment-castelli-18th-mus-e-de-lille-pd.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/salomon-s-judgment-castelli-18th-mus-e-de-lille-pd.jpg",
+      "bytes": 37379
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/scales-astrologie-sternzeichen-kalender-pd-1_orig.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/scales-astrologie-sternzeichen-kalender-pd-1_orig.jpg",
+      "bytes": 18563
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/scales-astrologie-sternzeichen-kalender-pd_orig.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/scales-astrologie-sternzeichen-kalender-pd_orig.jpg",
+      "bytes": 18563
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/scared-thief_orig.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/scared-thief_orig.jpg",
+      "bytes": 7166
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/tamerlane-stonecarving-ru_orig.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/tamerlane-stonecarving-ru_orig.jpg",
+      "bytes": 11496
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/tao-symbol-pd-wiki_orig.gif",
+      "path": "/assets/uploads/3/4/4/7/3447575/tao-symbol-pd-wiki_orig.gif",
+      "bytes": 2845
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/the-gyri-of-the-thinker-s-brain-as-a-maze-of-choices-cc-4-0-wellcome-images.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/the-gyri-of-the-thinker-s-brain-as-a-maze-of-choices-cc-4-0-wellcome-images.jpg",
+      "bytes": 33439
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/the-gyri-of-the-thinker-s-brain-as-a-maze-of-choices-cc-4-0-wellcome-images_1.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/the-gyri-of-the-thinker-s-brain-as-a-maze-of-choices-cc-4-0-wellcome-images_1.jpg",
+      "bytes": 33804
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/there-is-no-stronger-persuasion-than-causing-people-to-understand_orig.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/there-is-no-stronger-persuasion-than-causing-people-to-understand_orig.jpg",
+      "bytes": 51133
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/troja-horse-color-tr_orig.png",
+      "path": "/assets/uploads/3/4/4/7/3447575/troja-horse-color-tr_orig.png",
+      "bytes": 285749
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/turks-praying_orig.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/turks-praying_orig.jpg",
+      "bytes": 8301
+    },
+    {
+      "source": "http://wisdom.tenner.org/uploads/3/4/4/7/3447575/whisper-secret-ladysheil-persia-pd_orig.jpg",
+      "path": "/assets/uploads/3/4/4/7/3447575/whisper-secret-ladysheil-persia-pd_orig.jpg",
+      "bytes": 7756
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,27 @@
+---
+layout: base.njk
+---
+<section class="collection-shell">
+  <header class="collection-header">
+    <p class="eyebrow">{{ eyebrow }}</p>
+    <h1>{{ title }}</h1>
+    {% if description %}<p>{{ description }}</p>{% endif %}
+  </header>
+
+  <ol class="entry-list">
+    {% set entries = collections[collection_name] %}
+    {% for entry in entries %}
+      <li>
+        <a href="{{ entry.url }}">
+          <span class="entry-title">{{ entry.data.title }}</span>
+          {% if entry.data.published %}
+            <time datetime="{{ entry.data.published }}">{{ entry.data.published | readableDate }}</time>
+          {% endif %}
+          {% if entry.data.description %}
+            <span class="entry-description">{{ entry.data.description }}</span>
+          {% endif %}
+        </a>
+      </li>
+    {% endfor %}
+  </ol>
+</section>
