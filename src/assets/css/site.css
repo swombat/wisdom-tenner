@@ -184,15 +184,6 @@ img { display: block; max-width: 100%; height: auto; }
 .prose table { display: block; max-width: 100%; overflow-x: auto; border-collapse: collapse; }
 .prose th, .prose td { padding: .55rem; border: 1px solid var(--line); }
 
-.source-note {
-  margin-top: 4rem;
-  padding-top: 1rem;
-  border-top: 1px solid var(--line);
-  color: var(--muted);
-  font-family: var(--sans);
-  font-size: .7rem;
-}
-
 .collection-header p:last-child {
   max-width: 700px;
   color: var(--muted);
