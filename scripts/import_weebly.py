@@ -106,6 +106,15 @@ def asset_path(value: str, page_url: str) -> tuple[str, str] | None:
 def clean_fragment(fragment: Tag, page_url: str) -> tuple[str, set[tuple[str, str]]]:
     assets: set[tuple[str, str]] = set()
 
+    # Weebly pages sometimes contain unclosed <br> tags that html.parser
+    # turns into *containers* wrapping the rest of the page's content.
+    # markdownify renders <br> as a line break and silently discards any
+    # children, which truncated what-is-wisdom.html to ~10% of its text.
+    # Renaming the pathological ones to <div> preserves their content.
+    for br in fragment.find_all("br"):
+        if br.contents:
+            br.name = "div"
+
     for selector in [
         "script",
         "style",
