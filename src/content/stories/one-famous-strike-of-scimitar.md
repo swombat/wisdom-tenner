@@ -1,30 +1,24 @@
 ---
-title: We do what we can
-description: 'A way of wisdom is to fit constantly your dreams to your means. This reminds me of a story: At the coffee-house, everybody was bragging of their military exploits. “And you?” as…'
+title: "One famous strike of scimitar"
+description: "Wisdom consists (among other things) in constantly fitting your ends to your means."
 layout: page.njk
 permalink: /this-reminds-me-of-a-story/one-famous-strike-of-scimitar/
-source_url: http://wisdom.tenner.org/this-reminds-me-of-a-story/one-famous-strike-of-scimitar
+source_url: https://nasredin.blogspot.com/2010/12/this-reminds-me-of-story-111-teaching.html
 eyebrow: This reminds me of a story
-order: 154
+story_number: 7
+hide_published: true
 tags:
-- story
-date: '2020-12-07'
-published: '2020-12-07'
+  - story
 ---
 
 ![Picture](/assets/uploads/3/4/4/7/3447575/carlevernetmamlukewithdrawnsword2-234x300_orig.jpg)
 
-*A way of wisdom is to fit constantly your dreams to your means. This reminds me of a story:*
+*Wisdom consists (among other things) in constantly fitting your ends to your means. This reminds me of a story:*
 
+At the coffee-house, everybody was bragging of their military exploits. “And you?” asked one turning to Nasreddin.
 
-At the coffee-house, everybody was bragging of their military exploits.
-
-“And you?” asked one turning to Nasreddin.
-
-“I ? One day, on the battlefield, I cut an enemy’s leg with one strike of scimitar.”
+“I? One day, on the battlefield, I cut an enemy’s leg with one single strike of scimitar.”
 
 “Why not the head, as other people do?”
 
-“That was impossible. Someone else had already taken the head.”
-
----
+“That was impossible. Someone else had already cut the head.”

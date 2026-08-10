@@ -1,20 +1,19 @@
 ---
-title: The wise know it, all people are somewhat right
-description: Every man who says sincerely that which he believes, speaks truth. His. This is why there are so many truths. Do not err to call liars people who believe other than you. They ma…
+title: "Justice to the people in a garden of truths"
+description: "Every man who says sincerely that which he believes, speaks truth. His. This is why there are so many truths. Do not err to call liars people who believe other than you. They may be…"
 layout: page.njk
 permalink: /this-reminds-me-of-a-story/justice-to-the-people-in-a-garden-of-truths/
-source_url: http://wisdom.tenner.org/this-reminds-me-of-a-story/justice-to-the-people-in-a-garden-of-truths
+source_url: https://nasredin.blogspot.com/2010/12/this-reminds-me-of-story-111-teaching.html
 eyebrow: This reminds me of a story
-order: 125
+story_number: 36
+hide_published: true
 tags:
-- story
-date: '2020-12-07'
-published: '2020-12-07'
+  - story
 ---
 
 ![Picture](/assets/uploads/3/4/4/7/3447575/published/court-of-fools-395x362.jpg)
 
-Every man who says sincerely that which he believes, speaks truth. His. This is why there are so many truths. Do not err to call liars people who believe other than you. They may be mistaken but they are probably honest. This reminds me of a story:
+*Every man who says sincerely that which he believes, speaks truth. His. This is why there are so many truths. Do not err to call liars people who believe other than you. They may be mistaken but they are probably honest. This reminds me of a story:*
 
 At one time the Hoça used to be judge of the village. His young son was by his side to learn the office of giving justice to the people.
 
@@ -43,5 +42,3 @@ After they left, the Mullah's perplexed boy said,
 Without hesitation, Nasreddin agreed,
 
 "You are right, my son."
-
----

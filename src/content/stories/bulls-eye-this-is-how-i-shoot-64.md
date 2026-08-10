@@ -1,25 +1,19 @@
 ---
-title: ​Bulls’ eye - This is how I shoot 64
-description: It is so difficult to set fine targets and to reach them too. What about then trying and missing as if you exercised your hand and, when you hit at last something worthy, draw a…
+title: "This is how I shoot!"
+description: "Often those who teach cannot do and those who find the fault cannot fix it. Nothing wrong in this provided you understand to take from each what they can offer instead of believing…"
 layout: page.njk
 permalink: /this-reminds-me-of-a-story/bulls-eye-this-is-how-i-shoot-64/
-source_url: http://wisdom.tenner.org/this-reminds-me-of-a-story/bulls-eye-this-is-how-i-shoot-64
+source_url: https://nasredin.blogspot.com/2010/12/this-reminds-me-of-story-111-teaching.html
 eyebrow: This reminds me of a story
-order: 96
+story_number: 64
+hide_published: true
 tags:
-- story
-date: '2020-12-07'
-published: '2020-12-07'
+  - story
 ---
 
 ![Picture](/assets/uploads/3/4/4/7/3447575/published/mullaarcher.jpg)
 
-*It is so difficult to set fine targets and to reach them too.
-What about then trying and missing as if you exercised your hand and, when you hit at last something worthy, draw around it some circles to imply that your aiming was excellent. Seems funny?
-​let me witness that I saw this kind of archery at work.
-
-
-​This reminds me of a story:*
+*Often those who teach cannot do and those who find the fault cannot fix it. Nothing wrong in this provided you understand to take from each what they can offer instead of believing foolishly that he who can do more can do less too. This reminds me of a story:*
 
 Around the tents of the big encampment everyone was busy at the king's orders. The slaves were slaving, the horses horsing, the scribes scribing and - of course - the soldiers soldiering.
 
@@ -64,5 +58,3 @@ And he threw another arrow.
 By sheer luck, this one went right into the bull's-eye.
 
 "Now did you see this?" said Nasreddin. "This is how I shoot!"
-
----

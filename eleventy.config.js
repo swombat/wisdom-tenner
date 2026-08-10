@@ -16,7 +16,13 @@ export default function (eleventyConfig) {
     api.getFilteredByTag("blog").sort((a, b) => b.date - a.date),
   );
   eleventyConfig.addCollection("stories", (api) =>
-    api.getFilteredByTag("story").sort((a, b) => b.date - a.date),
+    api
+      .getFilteredByTag("story")
+      .sort(
+        (a, b) =>
+          (a.data.story_number ?? Number.MAX_SAFE_INTEGER) -
+          (b.data.story_number ?? Number.MAX_SAFE_INTEGER),
+      ),
   );
 
   eleventyConfig.addFilter("readableDate", (value) => {

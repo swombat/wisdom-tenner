@@ -5,7 +5,7 @@ layout: base.njk
   <header class="page-header">
     {% if eyebrow %}<p class="eyebrow">{{ eyebrow }}</p>{% endif %}
     <h1>{{ title }}</h1>
-    {% if published %}<p class="published">{{ published | readableDate }}</p>{% endif %}
+    {% if published and not hide_published %}<p class="published">{{ published | readableDate }}</p>{% endif %}
   </header>
   <div class="prose">
     {{ content | safe }}

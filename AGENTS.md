@@ -64,8 +64,13 @@ Use the same structure under `src/content/stories/`, with:
 ```yaml
 permalink: /this-reminds-me-of-a-story/my-story-slug/
 eyebrow: This reminds me of a story
+story_number: 112
+hide_published: true
 tags:
   - story
 ```
 
-It will automatically appear on the stories index.
+It will automatically appear on the stories index. The canonical Nasreddin
+collection reserves `story_number` 1–111; use the next available number for an
+additional story. The Blogspot reconciliation importer is
+`scripts/import_nasredin.py`.

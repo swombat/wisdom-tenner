@@ -1,33 +1,27 @@
 ---
-title: Right time for asking
-description: Some simpletons, too busy with what they want, will first importune you and then ask for a favour. To do better than this, when you petition people start by considering them, no…
+title: "A time for asking and a time for giving"
+description: "Some simpletons will importune you and then ask for a favour. To do better than this, when you petition think people! Understand them if you want their understanding."
 layout: page.njk
 permalink: /this-reminds-me-of-a-story/right-time-for-asking/
-source_url: http://wisdom.tenner.org/this-reminds-me-of-a-story/right-time-for-asking
+source_url: https://nasredin.blogspot.com/2010/12/this-reminds-me-of-story-111-teaching.html
 eyebrow: This reminds me of a story
-order: 156
+story_number: 5
+hide_published: true
 tags:
-- story
-date: '2020-12-07'
-published: '2020-12-07'
+  - story
 ---
 
 ![Picture](/assets/uploads/3/4/4/7/3447575/published/j-zeps-grosvalds-kurds-on-the-roof-pd-google-art-project.jpg)
 
-*Some simpletons, too busy with what they want, will first importune you and then ask for a favour. To do better than this, when you petition people start by considering them, not just you! Look where they are and ponder what may count for them at that given time. Care to understand them if you need their understanding.
+*Some simpletons will importune you and then ask for a favour. To do better than this, when you petition think people! Understand them if you want their understanding. This reminds me of a story:*
 
-This reminds me of a story:*
+Nasreddin was repairing the roof. Not easy when you are beyond your first youth. A neighbour called him from the street.
 
-
-Nasreddin was repairing the roof. Not easy to climb up when you are beyond your first youth.
-
-​A neighbour called him from the street.
-
-*“Hoca !”
+“Hoça!”
 
 “Yes”
 
-“*C*ome down, I have something important to talk with you.”
+“Please come down, I have something important to talk with you.”
 
 “Can’t wait?”
 
@@ -37,18 +31,16 @@ The Mullah climbed down from the roof with some pain.
 
 “What is it?”
 
-The neighbour whispered into his ear, confidentially*:*
+The neighbour whispered into his ear, confidentially,
 
-“Can you please lend me five silver akce?”*
+“Can you please lend me five silver akce?”
 
-*“Come up with me.” said Nasreddin.*
+“Come up with me.” said Nasreddin.
 
-The man worked his way up a creaky ladder after the Hodja. This took some time. Finally on the roof he asked again*:
+The man worked his way up the ladder after him. On the roof he asked again:
 
 “Can I have the money now?”
 
-Nasreddin leaned over and whispered confidentially into his ear:*
+Nasreddin leaned over and whispered confidentially into his ear:
 
-“I’m so sorry, I do not carry my purse with me when I'm repairing the roof.”
-
----
+“I’m so sorry, I don’t have any coins left.”

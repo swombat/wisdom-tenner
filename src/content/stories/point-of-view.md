@@ -1,38 +1,28 @@
 ---
-title: Point of view
-description: ​You gain great freedom in the mind when you learn to use several points of view. Most people are blinkered slaves of only one, their own - and worse, they are proud of it. Poor…
+title: "The other side"
+description: "To think like a free man, keep aware of your point of view. Reckon other points of view. Most people are chained to only one, their own."
 layout: page.njk
 permalink: /this-reminds-me-of-a-story/point-of-view/
-source_url: http://wisdom.tenner.org/this-reminds-me-of-a-story/point-of-view
+source_url: https://nasredin.blogspot.com/2010/12/this-reminds-me-of-story-111-teaching.html
 eyebrow: This reminds me of a story
-order: 144
+story_number: 17
+hide_published: true
 tags:
-- story
-date: '2020-12-07'
-published: '2020-12-07'
+  - story
 ---
 
 ![Picture](/assets/uploads/3/4/4/7/3447575/editor/mongol-archers-detail-pd.jpg)
 
-*​You gain great freedom in the mind when you learn to use several points of view. Most people are blinkered slaves of only one, their own - and worse, they are proud of it. Poor creatures, little do they know that you are a host today and a stranger tomorrow, and then the world, the same world will look quite different. We need to find some simple examples to understand that we are not the navel of the Universe.
+*To think like a free man, keep aware of your point of view. Reckon other points of view. Most people are chained to only one, their own. This reminds me of a story:*
 
-This reminds me of a story:*
+Hoça was sitting by the river, enjoying a pot of halwa, when a horde of mounted archers thundered onto the other bank in a cloud of dust. One of Timur's captains, who led the pack shouted,
 
+"Ho! Stranger! How do we get to the other side?"
 
-Hoca was sitting by the river, enjoying a small pot of halwa, when a horde of mounted archers thundered onto the other bank in a cloud of dust.
+To this Nasreddin hollered back promptly,
 
-It was led by one of Timur's captains, who shouted across the waters:
+"You don't need to: you are already on the other side!"
 
-"Ho! Stranger! How do I get to the other side?"
+As he hastened away, beyond arrow’s shooting distance he added,
 
-To this Nasreddin - who felt no hurry to get in touch - hollered back promptly:
-
-"Why bother? You are already on the other side!"
-
-...
-
-As he hastened away, out of arrow’s shooting distance he added:
-
-"Besides,***I***'m no stranger, I live here!"
-
----
+"Besides, I'm no stranger, I live here!"

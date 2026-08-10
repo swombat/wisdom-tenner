@@ -42,6 +42,21 @@ npm run import
 It reads the public sitemap and does not require a Weebly password. Re-importing
 overwrites imported content, so commit editorial changes first.
 
+## Refreshing the Nasreddin stories
+
+The complete 111-story collection uses the later Blogspot compilation as its
+canonical source:
+
+```sh
+python3 -m pip install -r requirements-import.txt
+python3 scripts/import_nasredin.py
+```
+
+The importer preserves established story permalinks and lead images, updates
+the canonical text, and assigns explicit `story_number` metadata. It is safe to
+run repeatedly, but—as with any bulk content operation—review and commit local
+editorial work first.
+
 ## Verification
 
 ```sh

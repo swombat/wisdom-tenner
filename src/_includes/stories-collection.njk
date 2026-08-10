@@ -1,0 +1,34 @@
+---
+layout: base.njk
+---
+<section class="collection-shell story-collection">
+  <header class="collection-header">
+    <p class="eyebrow">{{ eyebrow }}</p>
+    <h1>{{ title }}</h1>
+    {% if description %}<p>{{ description }}</p>{% endif %}
+    <p class="collection-invitation">Choose a title that catches your eye. Each opens a brief encounter with Nasreddin Hodja — philosopher, trickster and wise fool.</p>
+  </header>
+
+  <ol class="story-grid">
+    {% for entry in collections.stories %}
+      <li{% if entry.data.story_number == 0 %} class="story-card--foreword"{% endif %}>
+        <a href="{{ entry.url }}">
+          <span class="story-number">
+            {% if entry.data.story_number == 0 %}
+              Begin here
+            {% elif entry.data.story_number <= 111 %}
+              Story {{ entry.data.story_number }}
+            {% else %}
+              An extra story
+            {% endif %}
+          </span>
+          <span class="entry-title">{{ entry.data.title }}</span>
+          {% if entry.data.description %}
+            <span class="entry-description">{{ entry.data.description }}</span>
+          {% endif %}
+          <span class="story-read">Read the story <span aria-hidden="true">→</span></span>
+        </a>
+      </li>
+    {% endfor %}
+  </ol>
+</section>

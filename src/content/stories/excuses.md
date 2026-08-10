@@ -6,6 +6,8 @@ permalink: /this-reminds-me-of-a-story/excuses/
 source_url: http://wisdom.tenner.org/this-reminds-me-of-a-story/excuses
 eyebrow: This reminds me of a story
 order: 104
+story_number: 112
+hide_published: true
 tags:
 - story
 date: '2020-12-07'

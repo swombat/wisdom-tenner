@@ -229,6 +229,77 @@ img { display: block; max-width: 100%; height: auto; }
 }
 .entry-description { grid-column: 1; color: var(--muted); font-size: .88rem; }
 
+.story-collection {
+  width: min(1080px, calc(100% - 2rem));
+}
+.collection-invitation {
+  margin-top: 1.2rem;
+  font-style: italic;
+}
+.story-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: none;
+}
+.story-grid li {
+  min-width: 0;
+}
+.story-grid li.story-card--foreword {
+  grid-column: 1 / -1;
+}
+.story-grid a {
+  display: flex;
+  min-height: 100%;
+  flex-direction: column;
+  padding: clamp(1.25rem, 3vw, 1.8rem);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  background: color-mix(in srgb, #fff, var(--paper) 48%);
+  color: var(--ink);
+  text-decoration: none;
+  box-shadow: 0 8px 24px rgba(60, 45, 30, .045);
+  transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+}
+.story-grid a:hover {
+  border-color: color-mix(in srgb, var(--accent), var(--line) 45%);
+  box-shadow: 0 13px 32px rgba(60, 45, 30, .1);
+  transform: translateY(-2px);
+}
+.story-number {
+  margin-bottom: .55rem;
+  color: var(--accent);
+  font-family: var(--sans);
+  font-size: .68rem;
+  font-weight: 750;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+.story-grid .entry-title {
+  font-size: clamp(1.25rem, 2.5vw, 1.55rem);
+}
+.story-grid .entry-description {
+  display: -webkit-box;
+  margin-top: .65rem;
+  overflow: hidden;
+  color: var(--muted);
+  font-size: .88rem;
+  line-height: 1.55;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+.story-read {
+  margin-top: auto;
+  padding-top: 1.1rem;
+  color: var(--accent-dark);
+  font-family: var(--sans);
+  font-size: .74rem;
+  font-weight: 700;
+}
+
 .site-footer {
   border-top: 1px solid var(--line);
   background: var(--paper-deep);
@@ -275,6 +346,7 @@ img { display: block; max-width: 100%; height: auto; }
   .hero-links { align-items: flex-start; flex-direction: column; }
   .entry-list a { grid-template-columns: 1fr; }
   .entry-list time { grid-row: 2; }
+  .story-grid { grid-template-columns: 1fr; }
   .site-footer > div { flex-direction: column; gap: .4rem; }
 }
 

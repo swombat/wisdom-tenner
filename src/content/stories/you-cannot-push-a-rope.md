@@ -1,15 +1,14 @@
 ---
-title: The sky is falling
-description: Bayazid in Timur's cage Who has nothing has nothing to lose but those who have a lot at stake always engage him to die a heroic death for their ills.” Le sage, en hésitant, tour…
+title: "The sky is falling"
+description: "Who has nothing has nothing to lose but those who have a lot at stake always engage him to die a heroic death for their ills.” Le sage, en hésitant, tourne autour du tombeau…”"
 layout: page.njk
 permalink: /this-reminds-me-of-a-story/you-cannot-push-a-rope/
-source_url: http://wisdom.tenner.org/this-reminds-me-of-a-story/you-cannot-push-a-rope
+source_url: https://nasredin.blogspot.com/2010/12/this-reminds-me-of-story-111-teaching.html
 eyebrow: This reminds me of a story
-order: 116
+story_number: 45
+hide_published: true
 tags:
-- story
-date: '2020-12-07'
-published: '2020-12-07'
+  - story
 ---
 
 <figure>
@@ -17,10 +16,8 @@ published: '2020-12-07'
   <figcaption>Bayazid in Timur's cage</figcaption>
 </figure>
 
-*Who has nothing has nothing to lose but those who have a lot at stake always engage him to die a heroic death for their ills.” Le sage, en hésitant, tourne autour du tombeau…”
+*Who has nothing has nothing to lose but those who have a lot at stake always engage him to die a heroic death for their ills.” Le sage, en hésitant, tourne autour du tombeau…” This reminds me of a story:*
 
-
-This reminds me of a story:*
 The news spread fast, like fire in the bushes! Timur the Lame, the angry ghost of Genghis Khan had vanquished the great sultan Bayazid the Thunder at Ankara and locked him up in an iron cage. Now, a new, terrible Padishah was wielding his sceptre over Anatolia.
 
 The good people of Aksehir rushed to pack their humble belongings and roved in all directions like headless chicken.
@@ -42,6 +39,3 @@ Nasreddin all alone was resting peacefully under his porch, in the shade of the 
 "How could they, stupid? There is only room for one on your back!
 
 "If this is so, replied the mule, then you run, and I can stay."
-POSTED BY IOAN TENNER AT 13:46 NO COMMENTS:
-
----

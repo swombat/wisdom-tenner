@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import re
 import sys
 from html.parser import HTMLParser
 from pathlib import Path
@@ -12,6 +13,7 @@ from urllib.parse import unquote, urlparse
 ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / "_site"
 MANIFEST = ROOT / "migration-manifest.json"
+STORIES = ROOT / "src" / "content" / "stories"
 
 
 class ReferenceParser(HTMLParser):
@@ -72,6 +74,30 @@ def main() -> int:
     expected = {"/", "/blog.html", "/this-reminds-me-of-a-story.html"}
     for page in manifest["pages"]:
         expected.add(page["permalink"])
+
+    story_numbers: dict[int, Path] = {}
+    for story_file in STORIES.glob("*.md"):
+        source = story_file.read_text(encoding="utf-8")
+        number_match = re.search(r"^story_number:\s*(\d+)\s*$", source, re.MULTILINE)
+        if not number_match:
+            continue
+        number = int(number_match.group(1))
+        if number in story_numbers:
+            problems.append(
+                f"duplicate story_number {number}: "
+                f"{story_numbers[number].name} and {story_file.name}"
+            )
+        story_numbers[number] = story_file
+
+        permalink_match = re.search(r"^permalink:\s*(\S+)\s*$", source, re.MULTILINE)
+        if not permalink_match:
+            problems.append(f"numbered story has no permalink: {story_file.name}")
+        else:
+            expected.add(permalink_match.group(1))
+
+    missing_story_numbers = sorted(set(range(1, 112)) - set(story_numbers))
+    if missing_story_numbers:
+        problems.append(f"missing canonical story numbers: {missing_story_numbers}")
 
     for permalink in sorted(expected):
         target = target_for_url(permalink)

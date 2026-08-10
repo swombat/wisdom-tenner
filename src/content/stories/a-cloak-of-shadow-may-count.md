@@ -1,25 +1,20 @@
 ---
-title: A cloak of shadow may count...
-description: '​ If you cannot dress in lion skin, wear fox pelt. In bad times, learn how to benefit from the shadow of the powerful. But that requires nerve. ​This reminds me of a story: One…'
+title: "Night walk"
+description: "If you cannot dress in lion skin, wear fox pelt. In bad times, learn how to benefit from the shadow of the powerful. But that requires nerve."
 layout: page.njk
 permalink: /this-reminds-me-of-a-story/a-cloak-of-shadow-may-count/
-source_url: http://wisdom.tenner.org/this-reminds-me-of-a-story/a-cloak-of-shadow-may-count
+source_url: https://nasredin.blogspot.com/2010/12/this-reminds-me-of-story-111-teaching.html
 eyebrow: This reminds me of a story
-order: 123
+story_number: 38
+hide_published: true
 tags:
-- story
-date: '2020-12-07'
-published: '2020-12-07'
+  - story
 ---
 
 ![Picture](/assets/uploads/3/4/4/7/3447575/cloak_orig.gif)
 
-*​
+*If you cannot dress in lion skin, wear fox pelt. In bad times, learn how to benefit from the shadow of the powerful. But that requires nerve. This reminds me of a story:*
 
-If you cannot dress in lion skin, wear fox pelt. In bad times, learn how to benefit from the shadow of the powerful. But that requires nerve.
-
-
-​This reminds me of a story:*
 One sunny afternoon Tamerlane lay resting in the shade of a lofty red and green silken pavilion in the middle of his twelve-in-one Bagh-I Bihisht gardens at Samarkand. At his feet, the trustworthy Nasreddin. In front of them a large fountain with fresh red apples dancing in bubbling cool water.
 
 At this hour of counsel, the mighty Amir felt he could relax and have a pleasant choice – play chess by his own rules or bully the Hodja. He fancied doing the second.
@@ -47,5 +42,3 @@ The same evening they went to wander about Samarkand, The Mullah carrying the le
 They went along the straight alleys of the capital, entirely rebuilt from the spoils of Tamerlane’s wars and indeed, whenever Hodja stopped or turned his gaze towards them, the shopkeepers, soldiers and other passers-by concerned, looked at him, then looked around anxiously and suddenly threw themselves in the dust or bowed with excessive respect and fear. Certainly they did, when seeing Nasreddin clad with Tamerlane’s attributes and followed by the shadow of that too well known tall cloaked stature with evil piercing eyes.
 
 “You can see Majesty, whispered Hodja after a while, they all fear me. The coat does make the man.”
-
----
