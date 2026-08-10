@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% if title and title != site.title %}{{ title }} · {% endif %}{{ site.title }}</title>
     <meta name="description" content="{{ description or site.description }}">
-    <meta name="theme-color" content="#f2eee4">
+    <meta name="theme-color" content="#f4ebd7">
+    <link rel="icon" type="image/png" href="/assets/uploads/brand/pen-nib-favicon.png">
     <link rel="stylesheet" href="/assets/css/site.css">
   </head>
   <body>
@@ -13,8 +14,11 @@
     <header class="site-header">
       <div class="header-inner">
         <a class="site-name" href="/">
-          <span>{{ site.title }}</span>
-          <small>{{ site.tagline }}</small>
+          <img class="site-mark" src="/assets/uploads/brand/pen-nib-mark.png" alt="">
+          <span class="site-name-text">
+            <span>{{ site.title }}</span>
+            <small>{{ site.tagline }}</small>
+          </span>
         </a>
         <button class="menu-button" type="button" aria-expanded="false" aria-controls="site-nav">
           Menu
@@ -32,6 +36,7 @@
     </main>
 
     <footer class="site-footer">
+      <img class="footer-flourish" src="/assets/uploads/brand/flourish.png" alt="">
       <div>
         <p><strong>{{ site.title }}</strong> — {{ site.description }}</p>
       </div>

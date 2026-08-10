@@ -7,7 +7,7 @@ layout: base.njk
     <h1>{{ title }}</h1>
     {% if published and not hide_published %}<p class="published">{{ published | readableDate }}</p>{% endif %}
   </header>
-  <div class="prose">
+  <div class="prose prose--essay">
     {{ content | safe }}
   </div>
 </article>

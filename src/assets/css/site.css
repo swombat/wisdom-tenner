@@ -1,20 +1,45 @@
+/* Wisdom, sleeping.. — warm manuscript design.
+   Modern frame (layout, nav, buttons: sans, clean) around a bookish voice
+   (EB Garamond display, parchment paper, ink accents). Assets referenced
+   from CSS use RELATIVE paths so the /wisdom-tenner/ pathPrefix build works. */
+
+@font-face {
+  font-family: "EB Garamond";
+  font-style: normal;
+  font-weight: 400 800;
+  font-display: swap;
+  src: url("../fonts/ebgaramond-var.woff2") format("woff2");
+}
+@font-face {
+  font-family: "EB Garamond";
+  font-style: italic;
+  font-weight: 400 800;
+  font-display: swap;
+  src: url("../fonts/ebgaramond-var-italic.woff2") format("woff2");
+}
+
 :root {
-  --paper: #f4f0e7;
-  --paper-deep: #e8e0d2;
-  --ink: #28261f;
-  --muted: #6f695d;
-  --line: #d4c9b8;
-  --accent: #8c3c2f;
-  --accent-dark: #672a22;
+  --paper: #f4ebd7;
+  --paper-deep: #eaddc0;
+  --paper-card: #faf4e3;
+  --ink: #2d2519;
+  --body-ink: #3a3122;
+  --muted: #77684e;
+  --line: #d9c7a3;
+  --accent: #8a3a2a;
+  --accent-dark: #662a1e;
   --serif: Georgia, "Times New Roman", serif;
+  --display: "EB Garamond", Georgia, "Times New Roman", serif;
   --sans: "Avenir Next", Avenir, "Segoe UI", sans-serif;
+  --grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.82' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.055'/%3E%3C/svg%3E");
 }
 
 * { box-sizing: border-box; }
 
 html {
   color: var(--ink);
-  background: var(--paper);
+  background-color: var(--paper);
+  background-image: var(--grain);
   font-family: var(--serif);
   font-size: 18px;
   line-height: 1.72;
@@ -26,6 +51,8 @@ body { margin: 0; }
 a { color: var(--accent-dark); text-decoration-thickness: 1px; text-underline-offset: .16em; }
 a:hover { color: var(--accent); }
 img { display: block; max-width: 100%; height: auto; }
+
+h1, h2, h3, h4 { font-family: var(--display); font-weight: 560; color: var(--ink); }
 
 .skip-link {
   position: fixed;
@@ -43,8 +70,8 @@ img { display: block; max-width: 100%; height: auto; }
   position: sticky;
   z-index: 10;
   top: 0;
-  border-bottom: 1px solid color-mix(in srgb, var(--line), transparent 15%);
-  background: color-mix(in srgb, var(--paper), transparent 7%);
+  border-bottom: 3px double var(--line);
+  background: color-mix(in srgb, var(--paper), transparent 8%);
   backdrop-filter: blur(12px);
 }
 
@@ -59,20 +86,23 @@ img { display: block; max-width: 100%; height: auto; }
 }
 
 .site-name {
+  display: flex;
+  align-items: center;
+  gap: .7rem;
   color: var(--ink);
   line-height: 1.1;
   text-decoration: none;
 }
-.site-name span { display: block; font-size: 1.18rem; font-weight: 700; }
+.site-mark { width: auto; height: 2.35rem; }
+.site-name span { display: block; font-family: var(--display); font-size: 1.32rem; font-weight: 620; }
 .site-name small {
   display: block;
-  margin-top: .25rem;
+  margin-top: .12rem;
   color: var(--muted);
-  font-family: var(--sans);
-  font-size: .68rem;
-  font-weight: 600;
-  letter-spacing: .12em;
-  text-transform: uppercase;
+  font-family: var(--display);
+  font-size: .8rem;
+  font-variant-caps: all-small-caps;
+  letter-spacing: .17em;
 }
 
 .site-nav { display: flex; align-items: center; gap: 1.3rem; }
@@ -89,42 +119,51 @@ img { display: block; max-width: 100%; height: auto; }
 
 .hero {
   border-bottom: 1px solid var(--line);
-  background:
-    radial-gradient(circle at 85% 20%, rgba(140, 60, 47, .12), transparent 27rem),
-    linear-gradient(135deg, #f8f5ed, var(--paper-deep));
+  background-color: var(--paper-deep);
+  background-image:
+    var(--grain),
+    radial-gradient(circle at 88% 8%, rgba(138, 58, 42, .13), transparent 26rem),
+    radial-gradient(circle at 8% 100%, rgba(160, 120, 60, .14), transparent 30rem),
+    linear-gradient(155deg, #f8f1dd, #e9d9b6);
 }
 .hero-inner {
-  width: min(920px, calc(100% - 2rem));
+  display: grid;
+  align-items: center;
+  grid-template-columns: minmax(0, 1.12fr) minmax(0, .88fr);
+  gap: clamp(2rem, 5vw, 4.5rem);
+  width: min(1080px, calc(100% - 2rem));
   margin: auto;
-  padding: clamp(4.5rem, 10vw, 8rem) 0;
+  padding: clamp(3.5rem, 8vw, 6.5rem) 0;
 }
 .eyebrow {
   margin: 0 0 .75rem;
   color: var(--accent);
-  font-family: var(--sans);
-  font-size: .72rem;
-  font-weight: 750;
-  letter-spacing: .16em;
-  text-transform: uppercase;
+  font-family: var(--display);
+  font-size: 1.02rem;
+  font-weight: 600;
+  font-variant-caps: all-small-caps;
+  letter-spacing: .22em;
 }
 .hero h1, .page-header h1, .collection-header h1 {
   margin: 0;
-  font-size: clamp(2.55rem, 7vw, 5.6rem);
-  font-weight: 500;
-  letter-spacing: -.04em;
-  line-height: .98;
+  font-size: clamp(2.55rem, 6.5vw, 4.9rem);
+  font-weight: 540;
+  letter-spacing: -.012em;
+  line-height: 1.02;
 }
+.hero h1 em, .page-header h1 em { font-style: italic; font-weight: 480; }
 .hero-intro {
-  max-width: 720px;
-  margin: 1.5rem 0 0;
-  color: #4f4a40;
-  font-size: clamp(1.15rem, 2.5vw, 1.5rem);
-  line-height: 1.55;
+  max-width: 640px;
+  margin: 1.4rem 0 0;
+  color: #52472f;
+  font-family: var(--display);
+  font-size: clamp(1.18rem, 2.5vw, 1.45rem);
+  line-height: 1.5;
 }
 .hero-links { display: flex; align-items: center; gap: 1.4rem; margin-top: 2.1rem; }
 .button {
   display: inline-block;
-  padding: .72rem 1rem;
+  padding: .72rem 1.05rem;
   border-radius: 2px;
   background: var(--accent);
   color: white;
@@ -132,9 +171,32 @@ img { display: block; max-width: 100%; height: auto; }
   font-size: .8rem;
   font-weight: 700;
   text-decoration: none;
+  box-shadow: 0 2px 10px rgba(102, 42, 30, .25);
 }
 .button:hover { background: var(--accent-dark); color: white; }
 .text-link { font-size: .93rem; }
+
+/* The sleeping painting, mounted like a plate in a book */
+.hero-plate {
+  margin: 0;
+  transform: rotate(.4deg);
+}
+.hero-plate img {
+  padding: clamp(.6rem, 1.4vw, .9rem);
+  border: 1px solid #cbb488;
+  background: #fbf6e9;
+  box-shadow: 0 18px 45px rgba(80, 55, 25, .28);
+}
+.hero-plate figcaption {
+  max-width: 30rem;
+  margin: 1rem auto 0;
+  color: #5d5138;
+  font-family: var(--display);
+  font-size: 1.02rem;
+  font-style: italic;
+  line-height: 1.5;
+  text-align: center;
+}
 
 .page-shell, .collection-shell {
   width: min(850px, calc(100% - 2rem));
@@ -148,53 +210,80 @@ img { display: block; max-width: 100%; height: auto; }
 }
 .page-header h1, .collection-header h1 {
   max-width: 900px;
-  font-size: clamp(2.2rem, 6vw, 4.7rem);
-  line-height: 1.06;
+  font-size: clamp(2.2rem, 5.5vw, 4.1rem);
+  line-height: 1.08;
 }
 .published {
   margin: 1rem 0 0;
   color: var(--muted);
-  font-family: var(--sans);
-  font-size: .78rem;
+  font-family: var(--display);
+  font-size: .92rem;
+  font-variant-caps: all-small-caps;
+  letter-spacing: .12em;
 }
 
-.prose { font-size: 1.03rem; }
+.prose { color: var(--body-ink); font-size: 1.03rem; }
 .prose > *:first-child { margin-top: 0; }
 .prose h2, .prose h3, .prose h4 {
   margin: 2.3em 0 .7em;
-  line-height: 1.2;
+  line-height: 1.22;
 }
-.prose h2 { font-size: 1.8rem; font-weight: 500; }
-.prose h3 { font-size: 1.35rem; }
+.prose h2 { font-size: 1.95rem; font-weight: 560; }
+.prose h3 { font-size: 1.45rem; }
 .prose p, .prose ul, .prose ol { margin: 1.15em 0; }
+
+/* Drop cap on essays and stories — the illuminated first letter.
+   The .has-dropcap class is set by site.js on the first real text paragraph. */
+.prose--essay > p.has-dropcap::first-letter {
+  float: left;
+  padding: .05em .07em 0 0;
+  color: var(--accent);
+  font-family: var(--display);
+  font-size: 3.2em;
+  font-weight: 560;
+  line-height: .8;
+}
+
 .prose blockquote {
   margin: 2rem 0;
   padding: .2rem 0 .2rem 1.5rem;
   border-left: 3px solid var(--accent);
-  color: #4f4a40;
-  font-size: 1.1rem;
+  color: #55492e;
+  font-family: var(--display);
+  font-size: 1.18rem;
   font-style: italic;
+  line-height: 1.6;
 }
-.prose hr { width: 5rem; margin: 3rem auto; border: 0; border-top: 1px solid var(--line); }
+
+/* Section breaks become the hand-drawn flourish */
+.prose hr {
+  height: 26px;
+  margin: 2.8rem auto;
+  border: 0;
+  background: url("../uploads/brand/flourish.png") center / auto 100% no-repeat;
+  opacity: .8;
+}
+
 .prose img {
   margin: 2rem auto;
-  border-radius: 2px;
-  box-shadow: 0 10px 35px rgba(60, 45, 30, .12);
+  border: 1px solid #d3bd92;
+  background: #fbf6e9;
+  padding: .55rem;
+  box-shadow: 0 12px 34px rgba(80, 55, 25, .16);
 }
 .prose figure {
   width: fit-content;
   max-width: 100%;
   margin: 2.4rem auto;
 }
-.prose figure img {
-  margin: 0 auto;
-}
+.prose figure img { margin: 0 auto; }
 .prose figcaption {
   max-width: 42rem;
-  margin: .7rem auto 0;
+  margin: .75rem auto 0;
   color: var(--muted);
-  font-family: var(--sans);
-  font-size: .72rem;
+  font-family: var(--display);
+  font-size: .95rem;
+  font-style: italic;
   line-height: 1.45;
   text-align: center;
 }
@@ -202,10 +291,18 @@ img { display: block; max-width: 100%; height: auto; }
 .prose table { display: block; max-width: 100%; overflow-x: auto; border-collapse: collapse; }
 .prose th, .prose td { padding: .55rem; border: 1px solid var(--line); }
 
+/* Home page: the hero already presents the painting and its line,
+   so hide the duplicated opening block of the imported page content. */
+.home-content .prose > h2:first-child,
+.home-content .prose > figure:first-of-type,
+.home-content .prose > p:first-of-type,
+.home-content .prose > hr:first-of-type { display: none; }
+
 .collection-header p:last-child {
   max-width: 700px;
   color: var(--muted);
-  font-size: 1.15rem;
+  font-family: var(--display);
+  font-size: 1.2rem;
 }
 .entry-list { margin: 0; padding: 0; list-style: none; }
 .entry-list li { border-top: 1px solid var(--line); }
@@ -218,13 +315,16 @@ img { display: block; max-width: 100%; height: auto; }
   color: var(--ink);
   text-decoration: none;
 }
+.entry-list a:hover { background: color-mix(in srgb, var(--paper-card), transparent 40%); }
 .entry-list a:hover .entry-title { color: var(--accent); }
-.entry-title { font-size: 1.18rem; line-height: 1.35; }
+.entry-title { font-family: var(--display); font-size: 1.3rem; font-weight: 560; line-height: 1.32; }
 .entry-list time {
   padding-top: .2rem;
   color: var(--muted);
-  font-family: var(--sans);
-  font-size: .72rem;
+  font-family: var(--display);
+  font-size: .85rem;
+  font-variant-caps: all-small-caps;
+  letter-spacing: .08em;
   white-space: nowrap;
 }
 .entry-description { grid-column: 1; color: var(--muted); font-size: .88rem; }
@@ -245,42 +345,36 @@ img { display: block; max-width: 100%; height: auto; }
   list-style: none;
   counter-reset: none;
 }
-.story-grid li {
-  min-width: 0;
-}
-.story-grid li.story-card--foreword {
-  grid-column: 1 / -1;
-}
+.story-grid li { min-width: 0; }
+.story-grid li.story-card--foreword { grid-column: 1 / -1; }
 .story-grid a {
   display: flex;
   min-height: 100%;
   flex-direction: column;
   padding: clamp(1.25rem, 3vw, 1.8rem);
   border: 1px solid var(--line);
-  border-radius: 4px;
-  background: color-mix(in srgb, #fff, var(--paper) 48%);
+  border-radius: 3px;
+  background: var(--paper-card);
   color: var(--ink);
   text-decoration: none;
-  box-shadow: 0 8px 24px rgba(60, 45, 30, .045);
+  box-shadow: 0 8px 24px rgba(80, 55, 25, .05);
   transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
 }
 .story-grid a:hover {
   border-color: color-mix(in srgb, var(--accent), var(--line) 45%);
-  box-shadow: 0 13px 32px rgba(60, 45, 30, .1);
+  box-shadow: 0 13px 32px rgba(80, 55, 25, .12);
   transform: translateY(-2px);
 }
 .story-number {
   margin-bottom: .55rem;
   color: var(--accent);
-  font-family: var(--sans);
-  font-size: .68rem;
-  font-weight: 750;
-  letter-spacing: .12em;
-  text-transform: uppercase;
+  font-family: var(--display);
+  font-size: .85rem;
+  font-weight: 620;
+  font-variant-caps: all-small-caps;
+  letter-spacing: .16em;
 }
-.story-grid .entry-title {
-  font-size: clamp(1.25rem, 2.5vw, 1.55rem);
-}
+.story-grid .entry-title { font-size: clamp(1.3rem, 2.5vw, 1.6rem); }
 .story-grid .entry-description {
   display: -webkit-box;
   margin-top: .65rem;
@@ -301,18 +395,27 @@ img { display: block; max-width: 100%; height: auto; }
 }
 
 .site-footer {
-  border-top: 1px solid var(--line);
-  background: var(--paper-deep);
+  border-top: 3px double var(--line);
+  background-color: var(--paper-deep);
+  background-image: var(--grain);
+  text-align: center;
+}
+.footer-flourish {
+  height: 24px;
+  width: auto;
+  margin: 2.2rem auto 0;
+  opacity: .75;
 }
 .site-footer > div {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   width: min(1180px, calc(100% - 2rem));
   margin: auto;
-  padding: 2rem 0;
+  padding: 1.1rem 0 2.2rem;
   gap: 2rem;
   color: var(--muted);
-  font-size: .75rem;
+  font-size: .82rem;
+  font-family: var(--display);
 }
 .site-footer p { margin: 0; }
 .quiet { font-family: var(--sans); }
@@ -339,10 +442,12 @@ img { display: block; max-width: 100%; height: auto; }
     padding: .5rem;
     border: 1px solid var(--line);
     background: var(--paper);
-    box-shadow: 0 15px 35px rgba(40, 30, 20, .15);
+    box-shadow: 0 15px 35px rgba(50, 35, 15, .18);
   }
   .site-nav.is-open { display: flex; }
   .site-nav a { padding: .75rem; }
+  .hero-inner { grid-template-columns: 1fr; }
+  .hero-plate { max-width: 26rem; transform: none; }
   .hero-links { align-items: flex-start; flex-direction: column; }
   .entry-list a { grid-template-columns: 1fr; }
   .entry-list time { grid-row: 2; }
