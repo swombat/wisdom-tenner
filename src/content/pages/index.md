@@ -1,10 +1,10 @@
 ---
-title: Wisdom, sleeping..
-description: Sleeping Beauty by Henry Meynell Rheam 1899 PD photo Wikimedia This is not wisdom yet, this is sleeping wisdom. To wake up, it needs you . Wisdom is learning how to understand,…
+title: Human Wisdom
+description: Human Wisdom made simple — a renewed, updated and enlarged 2026 continuation of Ioan Tenner’s Wisdom Sleeping.
 layout: home.njk
 permalink: /
 source_url: http://wisdom.tenner.org/index.html
-eyebrow: Worldly wisdom
+eyebrow: made simple
 order: 4
 ---
 

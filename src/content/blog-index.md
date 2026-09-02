@@ -1,8 +1,8 @@
 ---
-title: Blog
-description: Essays, provocations and notes on the practice of worldly wisdom.
+title: Thoughts
+description: Essays, provocations and notes on the practice of human wisdom.
 layout: collection.njk
 permalink: /blog.html
-eyebrow: Reflections
+eyebrow: Human Wisdom
 collection_name: blog
 ---

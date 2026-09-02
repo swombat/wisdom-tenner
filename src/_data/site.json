@@ -1,8 +1,9 @@
 {
-  "title": "Wisdom, sleeping..",
-  "tagline": "Worldly wisdom",
-  "edition": "Wisdom Sleeping 2026",
-  "description": "Reflections, essays, aphorisms and stories about worldly wisdom.",
+  "title": "Human Wisdom",
+  "tagline": "made simple",
+  "edition": "Human Wisdom",
+  "description": "A renewed, updated and enlarged 2026 continuation of Ioan Tenner’s Wisdom Sleeping.",
+  "scope": "Here human wisdom includes earthly and worldly wisdom, humane and practical wisdom, tacit know-how and the pragmatics of living, as well as ways of wisdom represented by Laozi and Zhuangzi.",
   "author": "Ioan Tenner",
   "originalUrl": "http://wisdom.tenner.org",
   "navigation": [
@@ -10,7 +11,8 @@
     { "label": "Four pillars", "url": "/four-pillars-of-wisdom.html" },
     { "label": "Articles", "url": "/articles.html" },
     { "label": "Stories", "url": "/this-reminds-me-of-a-story.html" },
-    { "label": "Blog", "url": "/blog.html" },
+    { "label": "Thoughts", "url": "/blog.html" },
+    { "label": "WHAT AI DOES", "url": "/what-ai-does.html" },
     { "label": "Doubts", "url": "/doubts.html" }
   ]
 }

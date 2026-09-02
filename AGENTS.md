@@ -1,11 +1,12 @@
 # Maintenance guide for agents
 
-This repository is the maintainable source for **Wisdom, sleeping..**
+This repository is the maintainable source for **Human Wisdom — made simple**,
+a renewed continuation of Ioan Tenner's *Wisdom Sleeping*.
 
 ## Where to work
 
 - Essays and main pages: `src/content/pages/`
-- Blog posts: `src/content/blog/`
+- Thoughts (historically stored as blog posts): `src/content/blog/`
 - Short stories: `src/content/stories/`
 - Images and downloads: `src/assets/uploads/`
 - Site-wide navigation and identity: `src/_data/site.json`
@@ -35,7 +36,7 @@ Content files use Markdown with YAML metadata at the top. Preserve each
 6. Inspect the changed page in a browser. A successful build alone is not proof
    that typography, images, and links are correct.
 
-## Adding a blog post
+## Adding a thought
 
 Create `src/content/blog/my-post-slug.md`:
 
@@ -55,7 +56,8 @@ published: 2026-08-09
 Post content goes here.
 ```
 
-The post will automatically appear on `/blog.html`.
+The thought will automatically appear on `/blog.html`. Preserve that established
+URL even though the public navigation label is **Thoughts**.
 
 ## Adding a story
 

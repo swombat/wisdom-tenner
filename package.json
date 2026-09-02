@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "A maintainable static archive of Wisdom, sleeping..",
+  "description": "A maintainable static edition of Human Wisdom — made simple",
   "scripts": {
     "import": "python3 scripts/import_weebly.py",
     "build": "eleventy",

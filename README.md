@@ -1,7 +1,7 @@
-# Wisdom, sleeping..
+# Human Wisdom — made simple
 
-A static, maintainable edition of Michael Tenner's writing at
-`wisdom.tenner.org`, migrated from Weebly.
+A renewed, maintainable continuation of Ioan Tenner's *Wisdom Sleeping*,
+migrated from Weebly and prepared for publication at `wisdom.tenner.org`.
 
 ## Editing content
 
@@ -20,6 +20,9 @@ The page text begins here.
 
 Keep the `permalink` unchanged unless you deliberately want to change a public
 URL. Images live under `src/assets/uploads/`.
+
+Thoughts are stored under `src/content/blog/` and continue to use `/blog.html`
+as their index URL, although the public navigation label is **Thoughts**.
 
 ## Local preview
 

@@ -156,9 +156,24 @@ h1, h2, h3, h4 { font-family: var(--display); font-weight: 560; color: var(--ink
   line-height: 1.02;
 }
 .hero h1 em, .page-header h1 em { font-style: italic; font-weight: 480; }
+.hero-subtitle {
+  margin: .45rem 0 0;
+  color: var(--accent);
+  font-family: var(--display);
+  font-size: clamp(1.25rem, 2.8vw, 1.65rem);
+  line-height: 1.2;
+}
+.hero-provenance {
+  max-width: 660px;
+  margin: 1.35rem 0 0;
+  color: var(--muted);
+  font-family: var(--display);
+  font-size: 1rem;
+  line-height: 1.5;
+}
 .hero-intro {
   max-width: 640px;
-  margin: 1.4rem 0 0;
+  margin: 1.15rem 0 0;
   color: #52472f;
   font-family: var(--display);
   font-size: clamp(1.18rem, 2.5vw, 1.45rem);
