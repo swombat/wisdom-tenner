@@ -12,7 +12,6 @@
     { "label": "Articles", "url": "/articles.html" },
     { "label": "Stories", "url": "/this-reminds-me-of-a-story.html" },
     { "label": "Thoughts", "url": "/blog.html" },
-    { "label": "WHAT AI DOES", "url": "/what-ai-does.html" },
     { "label": "Doubts", "url": "/doubts.html" }
   ]
 }
