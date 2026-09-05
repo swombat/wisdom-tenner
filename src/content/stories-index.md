@@ -5,4 +5,5 @@ layout: stories-collection.njk
 permalink: /this-reminds-me-of-a-story.html
 eyebrow: Stories
 collection_name: stories
+search: true
 ---
