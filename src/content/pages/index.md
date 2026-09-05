@@ -100,7 +100,10 @@ I still dream, poor me,  to prove false the eternal complaint of the generationa
 
 Let me dream...
 
-![Picture](/assets/uploads/3/4/4/7/3447575/published/ioan-mafra-santo-isidoro-dec-2018-img-0079_1.jpg)
+<figure>
+  <img src="/assets/uploads/3/4/4/7/3447575/published/ioan-mafra-santo-isidoro-dec-2018-img-0079_1.jpg" alt="Picture">
+  <figcaption>Santo Isidoro 2018: There is no stronger persuasion than causing people to understand.</figcaption>
+</figure>
 
 ​\* Michel de Montaigne, the Complete Works, Tr. Donald M. Frame, Everyman library Alfred A. Knopf, New York..., 2003
 \*\* ​Cather, Villa (1922) One of Ours, Dover.. Mineola, NY 2007
