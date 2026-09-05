@@ -9,7 +9,13 @@ layout: base.njk
       <p class="eyebrow">{{ eyebrow }}</p>
     {% endif %}
     <h1>{{ title }}</h1>
-    {% if published and not hide_published %}<p class="published">{{ published | readableDate }}</p>{% endif %}
+    {% if not hide_published and (published or updated) %}
+      <p class="published">
+        {% if published %}First published: {{ published | readableDate }}{% endif %}
+        {% if published and updated %}<span aria-hidden="true"> · </span>{% endif %}
+        {% if updated %}Last updated: {{ updated | readableDate }}{% endif %}
+      </p>
+    {% endif %}
   </header>
   <div class="prose prose--essay">
     {{ content | safe }}

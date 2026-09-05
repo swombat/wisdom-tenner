@@ -23,9 +23,13 @@ Content files use Markdown with YAML metadata at the top. Preserve each
    explicitly requests a fresh import. It overwrites imported content.
 3. Keep historical wording, spelling, punctuation, and attribution intact
    unless asked to edit them.
-4. Put new images under `src/assets/uploads/` and reference them with a
+4. Preserve the original `published` date. Whenever a post's substantive
+   content is changed, add or update `updated: YYYY-MM-DD` in its front matter.
+   Do not invent historical revision dates that are not supported by the
+   source.
+5. Put new images under `src/assets/uploads/` and reference them with a
    root-relative path such as `/assets/uploads/example.jpg`.
-5. Before publishing, run:
+6. Before publishing, run:
 
    ```sh
    npm ci
@@ -33,7 +37,7 @@ Content files use Markdown with YAML metadata at the top. Preserve each
    npm run check
    ```
 
-6. Inspect the changed page in a browser. A successful build alone is not proof
+7. Inspect the changed page in a browser. A successful build alone is not proof
    that typography, images, and links are correct.
 
 ## Adding a thought
@@ -51,6 +55,7 @@ tags:
   - blog
 date: 2026-08-09
 published: 2026-08-09
+updated: 2026-09-05
 ---
 
 Post content goes here.
