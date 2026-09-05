@@ -6,7 +6,7 @@
   "description": "A maintainable static edition of Human Wisdom — made simple",
   "scripts": {
     "import": "python3 scripts/import_weebly.py",
-    "build": "eleventy",
+    "build": "eleventy && node scripts/build_search_index.mjs",
     "serve": "eleventy --serve",
     "check": "python3 scripts/check_site.py"
   },

@@ -1,0 +1,14 @@
+<div class="site-search" data-index="{{ '/search-index.json' | prefixUrl }}">
+  <form class="site-search-form" role="search">
+    <label for="site-search-input">Search this book</label>
+    <input
+      id="site-search-input"
+      class="site-search-input"
+      type="search"
+      name="q"
+      autocomplete="off"
+      placeholder="a word or a phrase — wisdom, doubt, Montaigne…">
+    <button class="button site-search-button" type="submit">Search</button>
+  </form>
+  <div class="site-search-results" aria-live="polite"></div>
+</div>

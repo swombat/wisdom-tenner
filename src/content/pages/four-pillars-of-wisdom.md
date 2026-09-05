@@ -3,6 +3,7 @@ title: Four pillars of Wisdom A personal quest for a civilisation of living li
 description: This is my main, ongoing study about worldly wisdom. It persists under continuous development and it will be so for a very long wile, I hope. Do not expect to find the whole ess…
 layout: page.njk
 permalink: /four-pillars-of-wisdom.html
+search: true
 source_url: http://wisdom.tenner.org/four-pillars-of-wisdom.html
 eyebrow: Essay
 order: 20
