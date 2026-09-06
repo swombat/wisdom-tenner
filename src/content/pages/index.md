@@ -13,17 +13,7 @@ Such learning is hard and endlessly complicated. “Making it simple” will not
 
 \*
 
-For Wisdom is many things – Knowledge, a teaching, state of mind, faith, way of life, choices and action.
-
-For the religious, it is a God-given faith, to obey and follow. That is certainly a wonderful guidance, protected from worldly decay. For some sages of legend, wisdom is an exemplary vocation and a great teaching to spread.​ Many people see civilised wisdom as a practical moral code seeking the best for persons and society. From the point of view of Reason, wisdom is judicious and responsible rationality, seeking true knowledge, most useful and reliable; provided it is used with good intention. Yet other people are content to conceive of Wisdom as beneficial state or a Way to seek and live along in happiness and peace with the World. The question persists: is wisdom a means to all kinds of good and benefit or an ultimate goal? What do I know? probably both.
-
-I see wisdom - be it secular or religious - as a major form of spirituality, a philosophical alternative of spiritual life. It may be part of a religion, doctrine or science or a substitute to them. In all its forms, the reflexive concern of improvement and mastery is a way of elevation and excellence.
-
-There are many ways to rise higher by belief, by knowledge or by deed. Differing and sometimes incommensurable choices of spiritual life are equally relevant as ways of emancipation, rising above the narrowness of immediate drives, mindless responses, passions and labour - towards values, deep meaning, broad views and visions of the World - great ways, provided they do not go astray or forget the way back to real life and real people.
-
-What is believed to be wisdom appears as faith, doctrines, moral codes, deep beliefs, even political ideologies. Like many other people, I consider the importance of certainty - be it religion, moral code or other irreducible conviction. We cannot live without grounding convictions; wisdom begins when we know that having them does not make them infallible. Certainties, hard to change, determine the ulterior preferences and choices of what is true, good, just or useful. This determines the kind of wisdom that will appeal to us.
-
-But I find that, with all choices, there is also an instrumental side to wisdom, and with it a substantial apprenticeship. Without practical wisdom and without its practice, grand beliefs, values and norms remain abstract, sterile and unfollowed. To be wiser and to act wisely, there are many competencies to acquire, much knowledge, many skills and ways to experience, practice and master ourselves. Some traits of the wise person may be temperamentally born but most of the knowledge and the know-how can be educated. Without such an apprenticeship, one's wisdom has no legs.
+*What wisdom is — its many forms, secular and religious, the place of certainty, and the apprenticeship it asks — now opens the essay [What is wisdom?](/what-is-wisdom.html).*
 
 _Your effort to be wise_ is - from the beginning - the state of mind, an attitude, by which - with no special power – a person rises beyond living the day like an _animal_ _laborans_ _or homo faber_ if you prefer, domesticated to serve machines, power, money and dogmas.
 

@@ -6,13 +6,29 @@ permalink: /what-is-wisdom.html
 source_url: http://wisdom.tenner.org/what-is-wisdom.html
 eyebrow: Essay
 order: 7
-revisions: 'version 3, 25 November 2014'
-updated: '2017-11-20'
+revisions: 'version 3, 25 November 2014; 20 November 2017'
+updated: '2026-09-06'
 ---
 
 ![Picture](/assets/uploads/3/4/4/7/3447575/published/the-proper-study-of-mankind-is-man.jpg)"The proper study of Mankind is Man"\*
 
 New version (3) 25-11-2014, 20-11-2017
+
+*These paragraphs stood as an introduction on the home page until September 2026. They belong to this essay, and they open it here.*
+
+For Wisdom is many things – Knowledge, a teaching, state of mind, faith, way of life, choices and action.
+
+For the religious, it is a God-given faith, to obey and follow. That is certainly a wonderful guidance, protected from worldly decay. For some sages of legend, wisdom is an exemplary vocation and a great teaching to spread.​ Many people see civilised wisdom as a practical moral code seeking the best for persons and society. From the point of view of Reason, wisdom is judicious and responsible rationality, seeking true knowledge, most useful and reliable; provided it is used with good intention. Yet other people are content to conceive of Wisdom as beneficial state or a Way to seek and live along in happiness and peace with the World. The question persists: is wisdom a means to all kinds of good and benefit or an ultimate goal? What do I know? probably both.
+
+I see wisdom - be it secular or religious - as a major form of spirituality, a philosophical alternative of spiritual life. It may be part of a religion, doctrine or science or a substitute to them. In all its forms, the reflexive concern of improvement and mastery is a way of elevation and excellence.
+
+There are many ways to rise higher by belief, by knowledge or by deed. Differing and sometimes incommensurable choices of spiritual life are equally relevant as ways of emancipation, rising above the narrowness of immediate drives, mindless responses, passions and labour - towards values, deep meaning, broad views and visions of the World - great ways, provided they do not go astray or forget the way back to real life and real people.
+
+What is believed to be wisdom appears as faith, doctrines, moral codes, deep beliefs, even political ideologies. Like many other people, I consider the importance of certainty - be it religion, moral code or other irreducible conviction. We cannot live without grounding convictions; wisdom begins when we know that having them does not make them infallible. Certainties, hard to change, determine the ulterior preferences and choices of what is true, good, just or useful. This determines the kind of wisdom that will appeal to us.
+
+But I find that, with all choices, there is also an instrumental side to wisdom, and with it a substantial apprenticeship. Without practical wisdom and without its practice, grand beliefs, values and norms remain abstract, sterile and unfollowed. To be wiser and to act wisely, there are many competencies to acquire, much knowledge, many skills and ways to experience, practice and master ourselves. Some traits of the wise person may be temperamentally born but most of the knowledge and the know-how can be educated. Without such an apprenticeship, one's wisdom has no legs.
+
+---
 
 There are several wisdoms, a plurality of **world-views intended to guide us while we strive for earthly lives well lived**.  **Such understanding shapes the way we navigate reality and even becomes reality, by agency and life-changing conduct.** **Beyond contemplation, wisdom is a proactive way of becoming and of being. Flourishing as a better human being.**
 
