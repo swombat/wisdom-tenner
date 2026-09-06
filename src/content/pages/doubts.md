@@ -7,6 +7,7 @@ source_url: http://wisdom.tenner.org/doubts.html
 eyebrow: Essay
 order: 10
 search: true
+published: '2011-06-02'
 ---
 
 ## Doubts 2 June 2011

@@ -6,6 +6,9 @@ permalink: /wise-conduct-is-the-third-pillar-of-wisdom.html
 source_url: http://wisdom.tenner.org/wise-conduct-is-the-third-pillar-of-wisdom.html
 eyebrow: Essay
 order: 18
+published: '2015-11'
+revisions: '1 January 2016'
+updated: '2018-07'
 ---
 
 <figure>

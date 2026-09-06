@@ -6,6 +6,9 @@ permalink: /good-judgment-is-the-second-pillar-of-wisdom.html
 source_url: http://wisdom.tenner.org/good-judgment-is-the-second-pillar-of-wisdom.html
 eyebrow: Essay
 order: 9
+published: '2017-01-01'
+revisions: '2019, 2022'
+updated: '2024'
 ---
 
 <figure>

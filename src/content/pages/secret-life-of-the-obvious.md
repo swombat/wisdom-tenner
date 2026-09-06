@@ -6,6 +6,7 @@ permalink: /secret-life-of-the-obvious.html
 source_url: http://wisdom.tenner.org/secret-life-of-the-obvious.html
 eyebrow: Essay
 order: 5
+published: '2012'
 ---
 
 ##

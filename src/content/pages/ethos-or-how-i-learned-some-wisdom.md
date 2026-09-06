@@ -6,6 +6,7 @@ permalink: /ethos-or-how-i-learned-some-wisdom.html
 source_url: http://wisdom.tenner.org/ethos-or-how-i-learned-some-wisdom.html
 eyebrow: Essay
 order: 13
+published: '2012'
 ---
 
 ## Ethos or How I Learned Some Wisdom 3 February 2012

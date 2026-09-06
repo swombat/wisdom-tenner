@@ -6,6 +6,7 @@ permalink: /why-wisdom-a-provisional-foreword.html
 source_url: http://wisdom.tenner.org/why-wisdom-a-provisional-foreword.html
 eyebrow: Essay
 order: 22
+published: '2011-05-12'
 ---
 
 ## Why Wisdom, a Provisional Foreword 12 May 2011

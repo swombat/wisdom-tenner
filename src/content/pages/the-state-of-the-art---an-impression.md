@@ -6,6 +6,8 @@ permalink: /the-state-of-the-art---an-impression.html
 source_url: http://wisdom.tenner.org/the-state-of-the-art---an-impression.html
 eyebrow: Essay
 order: 2
+published: '2011-08-17'
+updated: '2017'
 ---
 
 ## The "State of the Art" - an Impression 17 August 2011 rev 22 May 2017 (as the field improves and I learn more)

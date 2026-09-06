@@ -6,6 +6,8 @@ permalink: /three-kinds-of-criticism.html
 source_url: http://wisdom.tenner.org/three-kinds-of-criticism.html
 eyebrow: Essay
 order: 12
+published: '2011'
+updated: '2012'
 ---
 
 ##

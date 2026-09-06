@@ -6,6 +6,7 @@ permalink: /a-nutshell-history-of-worldly-wisdom.html
 source_url: http://wisdom.tenner.org/a-nutshell-history-of-worldly-wisdom.html
 eyebrow: Essay
 order: 19
+published: '2011-09-05'
 ---
 
 ## A Nutshell History of Worldly Wisdom 5 September, 2011

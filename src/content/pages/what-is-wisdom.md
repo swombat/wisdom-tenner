@@ -6,6 +6,8 @@ permalink: /what-is-wisdom.html
 source_url: http://wisdom.tenner.org/what-is-wisdom.html
 eyebrow: Essay
 order: 7
+revisions: 'version 3, 25 November 2014'
+updated: '2017-11-20'
 ---
 
 ![Picture](/assets/uploads/3/4/4/7/3447575/published/the-proper-study-of-mankind-is-man.jpg)"The proper study of Mankind is Man"\*

@@ -6,6 +6,8 @@ permalink: /strategy-of-surprise.html
 source_url: http://wisdom.tenner.org/strategy-of-surprise.html
 eyebrow: Essay
 order: 3
+published: '2011'
+updated: '2012'
 ---
 
 ##

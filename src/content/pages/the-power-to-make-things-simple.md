@@ -6,6 +6,9 @@ permalink: /the-power-to-make-things-simple.html
 source_url: http://wisdom.tenner.org/the-power-to-make-things-simple.html
 eyebrow: Essay
 order: 11
+published: '2011'
+revisions: '2012'
+updated: '2015'
 ---
 
 ## The Power to Make Things simple

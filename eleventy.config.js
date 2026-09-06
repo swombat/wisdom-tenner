@@ -26,6 +26,20 @@ export default function (eleventyConfig) {
   );
 
   eleventyConfig.addFilter("readableDate", (value) => {
+    // Legacy pages are dated only as precisely as the record allows: some
+    // carry a full date, some only a month, some only a year. Never invent a
+    // day or a month that the source does not give.
+    if (typeof value === "string") {
+      const trimmed = value.trim();
+      if (/^\d{4}$/.test(trimmed)) return trimmed;
+      if (/^\d{4}-\d{2}$/.test(trimmed)) {
+        return new Intl.DateTimeFormat("en-GB", {
+          month: "long",
+          year: "numeric",
+          timeZone: "UTC",
+        }).format(new Date(`${trimmed}-01T00:00:00Z`));
+      }
+    }
     const date = value instanceof Date ? value : new Date(value);
     return new Intl.DateTimeFormat("en-GB", {
       day: "numeric",

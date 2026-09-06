@@ -6,6 +6,8 @@ permalink: /powerful-inaction-conspicuous-absence-bountiful-void.html
 source_url: http://wisdom.tenner.org/powerful-inaction-conspicuous-absence-bountiful-void.html
 eyebrow: Essay
 order: 16
+published: '2011'
+updated: '2012'
 ---
 
 ## Powerful inaction, conspicuous absence, bountiful void
