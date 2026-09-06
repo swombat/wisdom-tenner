@@ -7,6 +7,7 @@ source_url: http://wisdom.tenner.org/why-wisdom-a-provisional-foreword.html
 eyebrow: Essay
 order: 22
 published: '2011-05-12'
+updated: '2026-09-06'
 ---
 
 ## Why Wisdom, a Provisional Foreword 12 May 2011
@@ -85,6 +86,10 @@ Most of all, I hope to help my son, who is busy now with the normal life and dis
                                                                                                                             (The Odes of Confucius ) [4]
 
 Maybe he will then write, at last and provided he has children, the family book about wisdom. This is why we sign and © this page together. But he is innocent of the errors I may commit at this time.
+
+*This paragraph stood on the home page until September 2026. It answers, in question form, what this foreword asks, and it stands here now.*
+
+I believe now that wise words answer questions: _What to know, to understand and do, in order to live well instead of just consuming life? What to want which is worth to want? How to go about things, to get what I want and to avoid what I do not want? What to avert, what not to do? What is of value for me, for us, for other people? What gives meaning to what I am and do, what makes me matter? What counts for those around me? How to be loved, respected and remembered? How to live now, but also build something and leave something behind me? How to be an author and freer actor of my life, instead of a mere_ _cog, a toy of circumstances and received ideas?_
 
 **[Doubts](/doubts.html)**
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

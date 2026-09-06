@@ -8,6 +8,7 @@ eyebrow: Essay
 order: 10
 search: true
 published: '2011-06-02'
+updated: '2026-09-06'
 ---
 
 ## Doubts 2 June 2011
@@ -43,6 +44,10 @@ After all, is wisdom so good ? What good is it ? Does it really lead to happines
 
 There is a humbling point in such dissuading doubts but I got past them. The Lao Tzu is right: a voyage of one thousand miles must start with one step; I will think for myself as deep as I can. Soon, there will be no tomorrow for me, that is true; but other people will have their time to learn and live a wiser life and I want to be part of this ideal at work. I will give what I think to other people : for "If I am not for myself, then who will be for me ? And if I am only for myself, then what am I ? And if not now, when ?" [3]
 
+
+*This paragraph stood on the home page until September 2026. It is a doubt about the standing of the whole book, and it stands here now.*
+
+And what about proofs of my beliefs and advice ? Are they objective and replicable ? My collection of advice is not science but instead - purposefully - a personal toolbox of common and uncommon sense devices of practical wisdom proposing meaning and inventing conduct. I avoid jargon, write what I think and devise solutions. I gave myself the freedom to take temporary leave from the iron-clad requirements of scientific method and proof. I allow myself to just think. I believe in the unique power of the human mind, as it is. Certainly, my experience is limited. I weave a web of intuition and of thoughts. I also take my sides and follow my own values. This wisdom seems verified or at least its moral value confirmed in my circumstances in my life-world. Other people seem to live in other moral spheres. Your own wisdom may arise by reaching an opposite conclusion to what I write. My findings do not promise advice for everyone; of course I will be wrong here and there. Some worth is certain though, if not in my conclusions, but in provoking one’s thoughts about these matters. The odyssey is more important than the destination I reached. Do your own journey!
 
 **[Ethos or How I Learned Some Wisdom](/ethos-or-how-i-learned-some-wisdom.html)**
 **\_**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
