@@ -73,6 +73,7 @@ built site.
 ## Deployment
 
 Every push to `main` runs `.github/workflows/pages.yml` and deploys the built
-site to GitHub Pages. The workflow currently uses the project-site prefix
-`/wisdom-tenner/`; when `wisdom.tenner.org` is moved here, remove
-`SITE_PREFIX: /wisdom-tenner/` and add the GitHub Pages custom domain.
+site to GitHub Pages at <https://wisdom.tenner.org/> (custom domain set in the
+repository's Pages settings; DNS is a `wisdom` CNAME to `swombat.github.io` at
+Porkbun). The site builds at the root path; set `SITE_PREFIX` only for a
+sub-path preview build.

@@ -31,8 +31,6 @@ jobs:
           rm -rf _site
       - name: Build GitHub Pages edition
         run: npm run build
-        env:
-          SITE_PREFIX: /wisdom-tenner/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
