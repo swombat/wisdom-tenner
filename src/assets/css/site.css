@@ -587,3 +587,12 @@ h1, h2, h3, h4 { font-family: var(--display); font-weight: 560; color: var(--ink
   background: rgba(212, 160, 60, .35);
   color: inherit;
 }
+
+/* The Power to Make Things Simple — Edition 2026 (book pages) */
+.book-nav p { font-size: 0.9rem; margin: 1rem 0 2rem; }
+.book-note { font-size: 0.88rem; line-height: 1.5; border-left: 3px solid rgba(0,0,0,.15); padding: .2rem 0 .2rem 1rem; margin: 1rem 0 1.5rem; }
+.book-note p { margin: 0; }
+.book-plate img { max-width: 100%; height: auto; display: block; margin: 1rem auto; }
+.book-contact { margin-top: 2.5rem; padding: 1rem; border: 1px solid rgba(0,0,0,.15); }
+.prose table { border-collapse: collapse; margin: 1.5rem 0; font-size: .92rem; }
+.prose table td { border: 1px solid rgba(0,0,0,.15); padding: .4rem .6rem; vertical-align: top; }
