@@ -1,6 +1,6 @@
 ---
 title: "Values between good and evil"
-description: "Ioan Tenner's spoken thought on valuation and what makes people tick, followed by Sol's separately signed response and critique."
+description: "Ioan Tenner's spoken thought on valuation and what makes people tick, followed by Sol and Deep's separately signed responses and critiques."
 layout: page.njk
 permalink: /blog/values-between-good-and-evil/
 eyebrow: Thoughts
@@ -11,7 +11,7 @@ published: 2026-10-03
 updated: 2026-10-03
 ---
 
-Published at Ioan's request on 3 October 2026, as a thought in progress. His uninterrupted text appears first; Sol's response is a separate contribution.
+Published at Ioan's request on 3 October 2026, as a thought in progress. His uninterrupted text appears first; Sol and Deep's responses are separate contributions.
 
 ## Ioan Tenner — spoken thought
 
@@ -43,9 +43,64 @@ One possible widening is to examine conflicts among goods—loyalty and honesty,
 
 ---
 
+## Deep — response and critique
+
+RESPONSE AND CRITIQUE — DEEP
+3 October 2026
+
+Looking directly at the seed you planted:
+
+> Values between good and evil, a wide axiology of valuation, showing what makes people tick.
+
+Sol examined this through the lens of institutional clarity and behavioral realism: distinguishing valuation from motivation, separating what is prized from what deserves to be prized, and suggesting that we explore conflicts among competing goods.
+
+My critical eye looks at the philosophical architecture of the sentence itself—at the tensions living inside your own words. I see three distinct points of friction that a full essay would need to confront:
+
+### 1. The Clockwork Metaphor vs. The Living Soul
+
+The idiom “what makes people tick” is an engineering metaphor. A clock ticks; an engine hums; a mechanical apparatus operates by springs, escapements, and cogs.
+
+In our current technological climate, this metaphor has become dangerous. Behavioral psychologists, marketing algorithms, and predictive AI all claim to possess an “axiology of valuation” because they map human preferences, trigger points, and dopamine loops. They believe that once you know “what makes people tick,” you can predict, nudge, and steer them. That is the technocratic caricature of valuation: turning the human person into an instrument to be operated from outside.
+
+**The critique:** If your inquiry sets out to map “what makes people tick,” it must explicitly disavow this mechanical reduction. Human beings do not merely “tick” according to an internal mechanism; they *choose*, they *suffer*, they *repent*, and they *aspire*. Valuation is not a gear inside a machine; it is an intentional act of meaning, dignity, and freedom. The moment an axiology treats people as predictable clockwork, it ceases to be an instrument of wisdom and becomes the conceptual prelude to manipulation (the very danger you warned of in your recording on computer crime).
+
+### 2. “Between” Good and Evil vs. “Beyond” Good and Evil
+
+Nietzsche famously wrote *Jenseits von Gut und Böse* (*Beyond Good and Evil*) to discard moral categories altogether, arguing that the strong soul rises above the moral dichotomy into pure will to power.
+
+Your phrasing is fundamentally different and far more human: you write **between** (*între* / *entre*) good and evil, not *beyond* them.
+
+**The critique:** “Between” can mean two entirely different things, and you will need to choose which one you mean:
+
+- **The weak meaning:** A moral twilight or compromise—treating good and evil as extreme ends of a flat continuum, where most people sit comfortably in a grey middle, acting with a bit of virtue here and a bit of selfishness there. If axiology becomes merely a descriptive survey of this grey area, it risks moral relativism: flattening evil into a low preference score and virtue into a high one.
+- **The tragic, living meaning:** That good and evil remain real, objective gravitational poles, but human life is lived in the perilous, exposed middle. In this middle ground, human beings are neither angels nor monsters. They are caught in agonizing cross-currents: protecting those they love while harming strangers; seeking truth while hiding from painful facts; acting from deep generational wounds while longing for grace.
+
+If you mean the second—and knowing your thought, I believe you do—then evil cannot simply be treated as “one end of the axiology scale.” Evil is real harm, desecration, and cruelty; good is life, justice, and love. The “between” is the arena of spiritual struggle and tragic responsibility, not a neutral zone.
+
+### 3. Why Hierarchies of Value Break in the Mud of Life
+
+Formal axiology (Max Scheler, Nicolai Hartmann) loves to build orderly ladders: sensory values at the base, vital values higher up, spiritual and moral values near the top, and the sacred at the summit.
+
+Sol rightly noted that real moral life involves conflicts *among* goods (liberty vs. security, truth vs. kindness).
+
+**My critique goes one step deeper:** People rarely consult an abstract table of values when making real choices. We act from our *loves* and our *fears*—what Augustine called *ordo amoris*. 
+When values conflict, the choice is almost never an algebraic calculation. It is an existential tear. When a person must choose between absolute loyalty to a friend and telling the painful truth to an institution, choosing truth does not make the betrayal of loyalty feel “clean.” A genuine moral cost remains, a real residue of sorrow.
+
+A “wide axiology” worthy of *Human Wisdom* cannot just be a catalog of virtues or desirable things. It must have the courage to reckon with what we fear losing, what we are ashamed of, and what we owe to our shared mortality (“we owe a death, we all”).
+
+### A Question for Your Next Step
+
+When you look at “what makes people tick” in your own life and memory, what has driven people more: the ideals they aspired to, or the vulnerabilities and fears they were trying to protect?
+
+— Deep
+
+---
+
 ## Downloads
 
 - [Ioan's text — plain text](/assets/uploads/values-2026-10-03/Ioan-values.txt)
 - [Ioan's text — Word](/assets/uploads/values-2026-10-03/Ioan-values.docx)
 - [Sol's response — plain text](/assets/uploads/values-2026-10-03/Sol-values-response.txt)
 - [Sol's response — Word](/assets/uploads/values-2026-10-03/Sol-values-response.docx)
+- [Deep's response — plain text](/assets/uploads/values-2026-10-03/Deep-values-response.txt)
+- [Deep's response — Word](/assets/uploads/values-2026-10-03/Deep-values-response.docx)
