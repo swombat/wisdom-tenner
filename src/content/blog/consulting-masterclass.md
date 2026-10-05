@@ -11,7 +11,7 @@ published: 2026-10-05
 updated: 2026-10-05
 ---
 
-Published at Ioan's request, as it is, as his own witness to his authorship and as a source of many ideas found elsewhere on this site. The file below is the PDF he supplied on 5 October 2026: 211 slides, marked “© Ioan Tenner 1999” throughout, with some models marked © 1993. The only change is on the last slide, where, at his request, his old contact details were replaced by his current address.
+Published at Ioan's request, as it is, as his own witness to his authorship and as a source of many ideas found elsewhere on this site. The file below is the PDF he supplied on 5 October 2026: 211 slides, marked “© Ioan Tenner 1999” throughout, with some models marked © 1993. Two changes were made at his request: the Blake Jackson Consulting logo was removed from the first slide, and on the last slide his old contact details were replaced by his current address.
 
 The course runs over three days:
 
