@@ -8,7 +8,7 @@ tags:
   - blog
 date: 2026-10-05
 published: 2026-10-05
-updated: 2026-10-05
+updated: 2026-11-10
 ---
 
 Published at Ioan's request, as it is, as his own witness to his authorship and as a source of many ideas found elsewhere on this site. The file below is the PDF he supplied on 5 October 2026: 211 slides, marked “© Ioan Tenner 1999” throughout, with some models marked © 1993. Two changes were made at his request: the Blake Jackson Consulting logo was removed from the first slide, and on the last slide his old contact details were replaced by his current address.
@@ -18,6 +18,14 @@ The course runs over three days:
 - Day 1: Communication tactics
 - Day 2: An art of Change
 - Day 3: Knowing and leading People
+
+## Ioan's added text (10 November 2026)
+
+On 10 November 2026 Ioan added a three-page text of his own memories of the Masterclass: how it was conceived and run, and how it ended with the Masterpiece, the final role play, and its debrief. He asked for it to be added here as an essential part of the course. It is published as he supplied it.
+
+**[Open or download Ioan's added text (PDF, 52 KB, 3 pages)](/assets/uploads/consulting-masterclass-2026-10-05/Ioan-Tenner-Consulting-Masterclass-added-text-2026-11-10.pdf)**
+
+## The Masterclass (211 slides)
 
 **[Open or download the Masterclass (PDF, 5.8 MB, 211 slides)](/assets/uploads/consulting-masterclass-2026-10-05/Ioan-Tenner-Consulting-Masterclass-1993-1999.pdf)**
 
